@@ -1,0 +1,204 @@
+```{r}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+import_all_library()
+
+```
+
+```{r}
+parent_freq <- read.csv(paste(getwd(),"/in_files/parent_freq.csv", sep = ""), as.is = T)
+langs<- c("English (American)") #, "Spanish", "Croatian", "Italian", "Danish", "Norwegian", "Turkish")
+abbr <- c("en-us")#, "es", "hr", "it", "da", "no", "tr")
+#for (lang in langs){
+lang="English (American)"
+  lang_abbr<- abbr[which(langs==lang)]
+  IPA_items<- get_lang_item_data(lang = lang, lang_form = "WS", lex_class = "nouns") %>% 
+    select(item, definition, uni_lemma) %>%
+    #trim_all_definition() %>% 
+    rowwise() %>%
+    mutate(IPA= Speak(lang=lang, word=definition))
+
+  item_IPA_join <- IPA_items %>% select(item, IPA)
+  only_IPA <- IPA_items %>% select(IPA)
+  item_IPA_join
+  only_IPA
+  IPA_pairs <- expand.grid(only_IPA$IPA, only_IPA$IPA) %>%
+    left_join(item_IPA_join, by = c("Var1" = "IPA"))  %>%
+    rename(pair = item, pair.definition = Var1) %>%
+    left_join(item_IPA_join, by = c("Var2" = "IPA")) %>%
+    rename(item.definition = Var2) %>%
+    rowwise() %>%
+    mutate(dist = adist(item.definition, pair.definition)) %>%
+    select(item, item.definition, pair, pair.definition, dist)
+  
+#  aoa_frame<- make_aoa_dataframe(lang = "English")
+#  phono_PAC<- PAC_generator(vocab_month = aoa_frame, pairs = IPA_pairs %>% rename(link=dist))
+#  write_out_csv(var = IPA_items, lang = lang, type = "IPA")
+#}
+IPA_pairs
+```
+
+```{r}
+aoa_frame<- make_aoa_dataframe(lang = lang) %>% filter(definition %in% parent_freq$definition)
+
+
+IPA_pairs_thresholded<- IPA_pairs %>% mutate(link=as.numeric(dist<=2)) %>% filter(item!=pair) 
+phono_PAC<- PAC_generator_phono(vocab_month = aoa_frame, pairs = IPA_pairs_thresholded)
+phono_PAC
+
+assoc_PAC<- phono_PAC %>% 
+   #add_polysemy_value() %>%
+   rowwise() %>%
+   mutate(IPA=Speak(lang =lang,word = definition))
+```
+```{r}
+assoc_PAC %>% filter(month==16)
+```
+
+```{r}
+#untrimmed IPA
+PAC<- assoc_PAC %>% 
+  mutate(IPA=gsub(" ","", IPA)) %>% 
+  trim_IPA() %>%
+  mutate(length=str_count(IPA)) %>%
+  left_join(parent_freq) %>%
+  mutate(freq=as.numeric(freq)) 
+  
+  
+lm_PAC<- PAC %>% filter(learned==1) %>%  select(month, definition,value, length, freq)
+
+degree<-lm_PAC$value
+month<-lm_PAC$month
+length<-lm_PAC$length
+freq<- lm_PAC$freq
+
+monthlm<- lm(month ~ degree+freq)
+summary(monthlm)#$r.squared
+BIC(monthlm)
+
+month_d<- lm(month ~ degree)
+summary(month_d)#$r.squared
+BIC(month_d)
+
+month_f<- lm(month ~ freq)
+summary(month_f)#$r.squared
+BIC(month_f)
+
+d_f<- lm(degree ~ freq)
+summary(d_f)
+BIC(d_f)
+
+d_fl<- lm(degree ~ freq+length)
+summary(d_fl)
+BIC(d_fl)
+
+# 
+# d_ml<- lm(degree ~ month+length)
+# summary(d_ml)
+# BIC(d_ml)
+# 
+# d_l<- lm(degree ~ length)
+# summary(d_l)
+# BIC(d_l)
+# 
+# d_m<- lm(degree ~ month)
+# summary(d_m)
+# BIC(d_l)
+
+ggplot(lm_PAC , aes(x=month, y=degree, label=lm_PAC$definition))+
+  geom_text(check_overlap = F, size = 2, angle=45)+
+  #geom_point(alpha=1/2, position = position_jitter(h=0))+
+  scale_y_continuous(breaks = seq(0,20, by=1))+
+  scale_x_continuous(breaks = seq(16,30, by=1))+
+  geom_smooth(method = "lm", se = FALSE) +
+  ggtitle(label = "PAC degree; T<=2")
+```
+
+```{r}
+IPA_pairs %>% filter(item ==19, dist<=2)
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+parent_freq <- read.csv(paste(getwd(),"/in_files/parent_freq.csv", sep = ""), as.is = T)
+langs<- c("English (American)") #, "Spanish", "Croatian", "Italian", "Danish", "Norwegian", "Turkish")
+abbr <- c("en-us")#, "es", "hr", "it", "da", "no", "tr")
+#for (lang in langs){
+lang="English (American)"
+  lang_abbr<- abbr[which(langs==lang)]
+  IPA_items<- get_item_data(language = lang, form = "WS") %>% 
+    select(num_item_id, definition, uni_lemma, type) %>%
+    rename(item=num_item_id) %>%
+    filter(type =="word") %>% 
+    trim_all_definition() %>% 
+    rowwise() %>%
+    mutate(IPA= Speak(lang=lang, word=definition)) %>%
+    trim_IPA()
+
+  item_IPA_join <- IPA_items %>% select(item, IPA)
+  only_IPA <- IPA_items %>% select(IPA)
+
+  IPA_pairs <- expand.grid(only_IPA$IPA, only_IPA$IPA) %>%
+    left_join(item_IPA_join, by = c("Var1" = "IPA"))  %>%
+    rename(pair = item, pair.definition = Var1) %>%
+    left_join(item_IPA_join, by = c("Var2" = "IPA")) %>%
+    rename(item.definition = Var2) %>%
+    rowwise() %>%
+    mutate(dist = adist(item.definition, pair.definition)) %>%
+    select(item, item.definition, pair, pair.definition, dist)
+  
+#  aoa_frame<- make_aoa_dataframe(lang = "English")
+#  phono_PAC<- PAC_generator(vocab_month = aoa_frame, pairs = IPA_pairs %>% rename(link=dist))
+#  write_out_csv(var = IPA_items, lang = lang, type = "IPA")
+#}
+
+aoa_frame<- make_aoa_dataframe(lang = lang) %>% filter(definition %in% parent_freq$definition)
+
+
+IPA_pairs_thresholded<- IPA_pairs %>% mutate(link=as.numeric(dist<=2)) %>% filter(item!=pair) 
+phono_PAC<- PAC_generator_phono(vocab_month = aoa_frame, pairs = IPA_pairs_thresholded)
+
+
+assoc_PAC<- phono_PAC %>% 
+   trim_all_definition() %>%
+   rowwise() %>%
+   mutate(IPA=Speak(lang =lang,word = definition)) %>%
+  trim_IPA()
+
+IPA_pairs
+```
+
+```{r}
+aoa<- make_aoa_dataframe("English (American)") %>% filter(month==16) #, grepl(definition, "[[:punct:]]"))
+```
+
+```{r}
+a<- make_aoa_dataframe(lang = lang)# %>% trim_all_definition() %>% filter(definition %in% parent_freq$definition)
+```
+
+```{r}
+a
+a %>%  filter(definition %in% parent_freq$definition)
+a %>% trim_all_definition() %>% filter(!definition %in% parent_freq$definition)
+
+```
+
