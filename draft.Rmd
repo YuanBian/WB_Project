@@ -1,0 +1,23 @@
+```{r}
+item_data<- get_item_data(language = "English (American)",form = "WS") %>% filter(lexical_class=="nouns")
+item_data
+mc<- read.csv(paste(getwd(),"/in_files/features.csv", sep = ""), as.is = T) %>% filter(Concept=="alligator") %>% select(Concept, Feature)
+mc
+```
+
+```{r}
+item_data %>% left_join(mc %>% rename(definition=Concept))
+```
+
+```{r}
+item_data %>% filter(definition %in% mc$Concept)
+```
+
+```{r}
+logfreq<- read.csv(paste(getwd(),"/in_files/parent_freq.csv", sep = ""), as.is = T) %>%
+  mutate(freq=log(freq))
+logfreq
+
+write.csv(logfreq, file = "log_freq.csv", row.names = F)
+```
+

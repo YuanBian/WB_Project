@@ -1,0 +1,137 @@
+```{r}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+import_all_library()
+```
+
+```{r}
+lemma<- read.csv("unilemma_equivalent.csv", as.is = T) #%>% trim_all_unilemma()
+trim_assoc<-read.csv(paste(getwd(), "/in_files/association_cue_target.csv", sep = ""))
+trim_assoc<- trim_assoc %>% 
+  filter(cue %in% lemma$uni_lemma, target %in% lemma$uni_lemma) %>% 
+  mutate(cue=as.character(cue), 
+         target=as.character(target), 
+         normed=as.character(normed))
+
+trim_assoc
+write.csv(trim_assoc, "association_pairs_wotrim.csv", row.names = F)
+```
+```{r}
+lemma
+```
+
+```{r}
+make_assoc_pairs <- function(vocab_aoa) {
+  cue_target <- read.csv(paste(getwd(), "/in_files/association_pairs.csv", sep = ""))
+  
+  #Filter all the cues and targets that are not learnt after 30 months and are not normed
+  cue_target <- cue_target %>%
+    filter(cue %in% vocab_aoa$uni_lemma,
+           target %in% vocab_aoa$uni_lemma) %>%
+    filter(normed == "YES")
+  
+  #make a association network dataframe with item number
+  #rename stuffs so it could conform to the format PAT_generator needs
+  #item corresponds to target ;  pair corresponds to cue
+  assoc_link <- cue_target %>%
+    select(cue, target) %>%
+    rename(pair.definition = cue) %>%
+    left_join(vocab_aoa, c("pair.definition" = "uni_lemma")) %>%
+    rename(pair = item, item.definition = target) %>%
+    left_join(vocab_aoa, c("item.definition" = "uni_lemma")) %>%
+    select(item, item.definition, pair, pair.definition) %>%
+    arrange(item, pair) %>%
+    mutate(link = 1)
+  
+  return(assoc_link)
+}
+```
+```{r}
+admin<-get_lang_admin_data(lang = "English")
+instr<-get_lang_instr_data(lang = "English")
+itemd<-get_lang_item_data(lang = "English")
+aoa<- get_lang_aoa(lang_item = itemd, admin_data = admin, instr_data = instr)
+aoa
+```
+```{r}
+assoc_link<-make_assoc_pairs(trim_unilemma(aoa))
+aoa<- make_aoa_dataframe(lang = "English")
+assoc_link
+aoa
+```
+```{r}
+PAC_generator(vocab_month = aoa, assoc_pairs = assoc_link)
+```
+
+```{r}
+assoc_PAT<-PAT_generator(semantic_feature = assoc_link, vocab_month = aoa)
+write.csv(assoc_PAT, "assoc_PAT.csv", row.names = F)
+```
+
+
+
+```{r}
+#filter the aoa frame so that words are both learnt and in the association network
+aoa_frame<- read.csv("aoa_dataframe.csv")
+aoa_frame<- aoa_frame %>%
+  filter(item %in% assoc_link$item) %>%
+  select(-definition) %>%
+  mutate(value=NA)
+aoa_frame
+```
+
+```{r}
+#read in PAT_generator function
+source("helper.r")
+#generate PAT for assoc network
+assoc_PAT<-PAT_generator(assoc_link,aoa_frame)
+assoc_PAT
+write.csv(assoc_PAT,"assoc_PAT.csv", row.names = FALSE)
+```
+
+
+```{r}
+#create dataframe that stores PAC value for assoc network
+assoc_PAC_value<- assoc_link %>%
+  group_by(item) %>%
+  summarise(value=sum(link)) 
+assoc_PAC_value
+```
+
+```{r}
+#create PAC for associative network
+assoc_PAC<- aoa_frame %>%
+  select(-value) %>%
+  left_join(assoc_PAC_value) %>% 
+  filter(!is.na(value))
+assoc_PAC
+
+```
+
+
+
+
+```{r}
+lm_PAC<- assoc_PAC %>% filter(learned==1) %>%  select(month,value) 
+lm_PAC
+growth_value<-lm_PAC$value
+month<-lm_PAC$month
+paclm<-lm(growth_value ~ month)
+summary(paclm)
+
+
+ggplot(lm_PAC , aes(x=month, y=growth_value))+
+  geom_point(alpha=1/2, position = position_jitter(h=0))+
+  scale_y_continuous(breaks = seq(0,40, by=10))+
+  scale_x_continuous(breaks = seq(16,30, by=1))+
+  geom_smooth(method = "lm", se = FALSE)
+
+```
+```{r}
+lm_PAC %>% arrange(desc(value))
+```
+
+```{r}
+paclm<-lm(growth_value ~ month)
+summary(paclm)
+```
+
