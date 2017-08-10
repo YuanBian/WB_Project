@@ -42,7 +42,7 @@ PAT_generator<-function(vocab_month, semantic_feature){
 }
 
 ######################################################################################################################
-#BUGGGED
+
 PAC_generator<- function(vocab_month, pairs){
   vocab_month<- vocab_month %>% filter((item %in% pairs$item) | (item %in% pairs$pair) )
   pairs<- pairs %>% filter(item %in% vocab_month$item, pair %in% vocab_month$item)
@@ -79,19 +79,19 @@ PAC_generator_od<- function(vocab_month, pairs){
 }
 
 ######################################################################################################################
-draw_PAC<-function(){
-lm_PAC<- assoc_PAC %>% filter(learned==1) %>%  select(month,value) 
-
-growth_value<-lm_PAC$value
-month<-lm_PAC$month
-paclm<-lm(growth_value ~ month)
-summary(paclm)
-
-
-ggplot(lm_PAC , aes(x=month, y=growth_value))+
-  geom_point(alpha=1/2, position = position_jitter(h=0))+
-  scale_y_continuous(breaks = seq(0,40, by=10))+
-  scale_x_continuous(breaks = seq(16,30, by=1))+
-  geom_smooth(method = "lm", se = FALSE)
-
-}
+# draw_PAC<-function(){
+# lm_PAC<- assoc_PAC %>% filter(learned==1) %>%  select(month,value) 
+# 
+# growth_value<-lm_PAC$value
+# month<-lm_PAC$month
+# paclm<-lm(growth_value ~ month)
+# summary(paclm)
+# 
+# 
+# ggplot(lm_PAC , aes(x=month, y=growth_value))+
+#   geom_point(alpha=1/2, position = position_jitter(h=0))+
+#   scale_y_continuous(breaks = seq(0,40, by=10))+
+#   scale_x_continuous(breaks = seq(16,30, by=1))+
+#   geom_smooth(method = "lm", se = FALSE)
+# 
+# }
