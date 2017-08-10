@@ -57,34 +57,9 @@ PAC_generator<- function(vocab_month, pairs){
     mutate(value=ifelse((item %in% item_value$item), item_value$value[which(item_value$item ==item)], 0)) 
   
   return(PAC)
-#     item_value<- pairs %>% 
-#     group_by(item) %>%
-#     summarise(value=sum(link))
-# 
-# PAC<-vocab_month %>%
-#   mutate(value=NA) %>%
-#   rowwise() %>%
-#   mutate(if_else(item %in% item_value$item, value=item_value$value, value =0)) 
-#   return(PAC)
 }
 
-######################################################################################################################
-#BUGGGED
-PAC_generator_phono<- function(vocab_month, pairs){
-  vocab_month<- vocab_month %>% filter(item %in% pairs$item)
-  pairs<- pairs %>% filter(item %in% vocab_month$item, pair %in% vocab_month$item)
-  
-  item_value<- pairs %>% 
-    group_by(item) %>%
-    summarise(value=sum(link))
-  
-  PAC<-vocab_month %>%
-    mutate(value=0) %>%
-    rowwise() %>%
-    mutate(value=ifelse((item %in% item_value$item), item_value$value[which(item_value$item ==item)], 0)) 
-  
-  return(PAC)
-}
+
 ######################################################################################################################
 
 PAC_generator_od<- function(vocab_month, pairs){
