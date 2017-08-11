@@ -1,6 +1,6 @@
 source("growth_helper.r")
 source("wb_helper.r")
-source("assoc_helper.r")
-source("McRae_helper.r")
+source("make_pairs_helper.r")
 source("optims.r")
 source("phono_helper.r")
+source("network_creator.r")

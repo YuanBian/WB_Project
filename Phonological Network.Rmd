@@ -50,6 +50,7 @@ assoc_PAC<- phono_PAC %>%
    rowwise() %>%
    mutate(IPA=Speak(lang =lang,word = definition))
 ```
+
 ```{r}
 assoc_PAC %>% filter(month==16)
 ```

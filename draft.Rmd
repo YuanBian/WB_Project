@@ -64,4 +64,7 @@ data
 optim(c(0,0), loglike00)$value
 
 ```
+```{r}
+get_lang_item_data("Mandarin")
+```
 

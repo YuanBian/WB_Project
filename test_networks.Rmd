@@ -1,0 +1,86 @@
+```{r}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+import_all_library()
+```
+
+```{r}
+test_network<- function(languages, features){
+  all_tests<-expand.grid(languages = languages, 
+  			features = features) %>%
+  	split(list(.$languages, .$features)) 
+  
+  for (test in all_tests){
+    file_path<-paste(getwd(),"/out_files/",test$languages,"_",test$features,".csv",sep = "")
+    if (file.exists(file_path)){
+      data<<- read.csv(file_path, as.is = T)
+      print(optim(0, loglike1))
+      print(optim(0, loglike0))
+    }
+  }
+
+}
+```
+
+```{r, message=FALSE, warning=FALSE}
+test_network(languages = c("English"), features = c("assoc_PAC120_p"))
+
+```
+
+```{r, message=FALSE, warning=FALSE}
+create_network_haspoly<- function(languages, features){
+  suffix<<- "_p"
+  for (language in languages){
+    
+    lang_name<<- language
+    # age of acquisition data frame
+    aoa_frame<- make_aoa_dataframe(lang = lang_name) %>% 
+      trim_all_definition() %>% 
+      trim_all_unilemma()
+    # list of lemmas of learnt words
+    lemma_list<- aoa_frame %>%
+      filter(month==month[1]) %>%
+      select(item, uni_lemma)
+    # list of definitions of learnt words
+    def_list<- aoa_frame %>%
+      filter(month==month[1]) %>%
+      select(item, definition)
+    
+    if ("assoc_PAC" %in% features){
+      # make pairs of words and show whether they have connection via associative norms
+      assoc_pairs<<- make_assoc_pairs(lemma_list = lemma_list)
+      create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
+    }
+    if ("assoc_PAT" %in% features){
+      create_assoc_PAT(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
+    }
+    if ("McRae_PAC" %in% features){
+      # make pairs of words and show how many McRae features they share
+      McRae_pairs<<- make_McRae_pairs(words_list = lemma_list) %>%
+        McRae_threshold(threshold = 1)
+      
+      create_McRae_PAC(aoa_frame = aoa_frame, McRae_pairs = McRae_pairs)
+    }
+     if ("McRae_PAT" %in% features){
+       create_McRae_PAT(aoa_frame = aoa_frame, McRae_pairs = McRae_pairs)
+     }
+    if ("phono_PAC" %in% features){
+
+      create_McRae_PAC()
+    }
+    if ("phono_PAT" %in% features){
+      create_phono_PAT()
+    }
+  }
+}
+```
+
+```{r, message=FALSE, warning=FALSE}
+create_network_haspoly(languages = c("Danish"), features = c("assoc_PAC", "assoc_PAT"))
+```
+```{r}
+assoc_pairs<- make_assoc_pairs(lemma_list = lemma_list)
+assoc_pairs
+lang_name<<- "English (American)"
+create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs) 
+```
+

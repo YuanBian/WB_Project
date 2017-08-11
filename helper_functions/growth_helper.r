@@ -4,9 +4,9 @@
 # column name: 
 # item, item.definition, pair, pair.definition, link
 
-PAT_generator<-function(vocab_month, semantic_feature){
+PAT_generator<-function(vocab_month, word_pairs){
   vocab_month<-vocab_month %>% 
-    filter(item %in% semantic_feature$item) %>%
+    filter(item %in% word_pairs$item) %>%
     mutate(value=NA) %>% 
     arrange(month, item)
   first<- vocab_month$month[1]+1
@@ -21,7 +21,7 @@ PAT_generator<-function(vocab_month, semantic_feature){
                     filter(month<i,learned==1) %>%
                     select(item))$item
     #calculating the degree of nodes in the existing network
-    sem_acq<- semantic_feature %>%
+    sem_acq<- word_pairs %>%
       filter(item %in% exist_words, pair %in% exist_words) %>% 
       group_by(item) %>% 
       summarise(value=sum(link))
@@ -29,7 +29,7 @@ PAT_generator<-function(vocab_month, semantic_feature){
     row_n<-which(vocab_month$month==i & vocab_month$item==curr_items[1])
     for (j in curr_items){
       #calculating d
-      link_to_exist<-(semantic_feature %>% filter(pair==j, item %in% exist_words, link==1))$item
+      link_to_exist<-(word_pairs %>% filter(pair==j, item %in% exist_words, link==1))$item
       PAT_value<-sem_acq %>%
         filter(item %in% link_to_exist) 
       vocab_month$value[row_n]<- sum(PAT_value$value)
@@ -43,14 +43,14 @@ PAT_generator<-function(vocab_month, semantic_feature){
 
 ######################################################################################################################
 
-PAC_generator<- function(vocab_month, pairs){
-  vocab_month<- vocab_month %>% filter((item %in% pairs$item) | (item %in% pairs$pair) )
-  pairs<- pairs %>% filter(item %in% vocab_month$item, pair %in% vocab_month$item)
+PAC_generator<- function(vocab_month, word_pairs){
+  vocab_month<- vocab_month %>% filter((item %in% word_pairs$item) | (item %in% word_pairs$pair) )
+  word_pairs<- word_pairs %>% filter(item %in% vocab_month$item, pair %in% vocab_month$item)
   
-  item_value<- pairs %>% 
+  item_value<- word_pairs %>% 
     group_by(item) %>%
     summarise(value=sum(link))
-
+  
   PAC<-vocab_month %>%
     mutate(value=0) %>%
     rowwise() %>%
@@ -58,7 +58,6 @@ PAC_generator<- function(vocab_month, pairs){
   
   return(PAC)
 }
-
 
 ######################################################################################################################
 
@@ -79,19 +78,3 @@ PAC_generator_od<- function(vocab_month, pairs){
 }
 
 ######################################################################################################################
-# draw_PAC<-function(){
-# lm_PAC<- assoc_PAC %>% filter(learned==1) %>%  select(month,value) 
-# 
-# growth_value<-lm_PAC$value
-# month<-lm_PAC$month
-# paclm<-lm(growth_value ~ month)
-# summary(paclm)
-# 
-# 
-# ggplot(lm_PAC , aes(x=month, y=growth_value))+
-#   geom_point(alpha=1/2, position = position_jitter(h=0))+
-#   scale_y_continuous(breaks = seq(0,40, by=10))+
-#   scale_x_continuous(breaks = seq(16,30, by=1))+
-#   geom_smooth(method = "lm", se = FALSE)
-# 
-# }

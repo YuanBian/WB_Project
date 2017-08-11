@@ -7,7 +7,7 @@ import_all_library()
 ```{r, message=FALSE, warning=FALSE}
 item_data<- get_lang_item_data(lang = "English (American)")
 
-McRae_feature<- get_McRae(words_list = item_data) %>% McRae_threshold(threshold = 1)
+McRae_feature<- make_McRae_pairs(words_list = item_data) %>% McRae_threshold(threshold = 1)
 
 aoa_frame<- make_aoa_dataframe(lang = "English (American)")
 

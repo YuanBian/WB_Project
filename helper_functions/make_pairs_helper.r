@@ -1,6 +1,6 @@
 # compute the semantic distance between pair of words
 
-get_McRae <- function(words_list) {
+make_McRae_pairs <- function(words_list) {
   #Get the McRae features
   
   features <-
@@ -68,5 +68,32 @@ McRae_threshold<- function(item.pair.shared, threshold){
   return(sem_feat)
 }
 
-
+##############################################################################################################################
+make_assoc_pairs <- function(lemma_list) {
+  # filter until words in lemma_list remain
+  lemma<- lemma_list$uni_lemma
+  cue_target<- read.csv("in_files/association_cue_target.csv", as.is = T) %>% 
+    filter(cue %in% lemma, 
+           target %in% lemma, 
+           normed=="YES") %>% 
+    select(cue, target) %>% 
+    mutate(link=1)
+  
+  assoc_table<- expand.grid(cue= lemma, target= lemma) %>% 
+    left_join(cue_target) %>% 
+    mutate(link=if_else(is.na(link),0,link))
+  
+  #make a association network dataframe with item number
+  #rename stuffs so it could conform to the format PAT_generator needs
+  #item corresponds to target ;  pair corresponds to cue
+  assoc_link <- assoc_table %>%
+    rename(pair.definition = cue) %>%
+    left_join(lemma_list, c("pair.definition" = "uni_lemma")) %>%
+    rename(pair = item, item.definition = target) %>%
+    left_join(lemma_list, c("item.definition" = "uni_lemma")) %>%
+    select(item, item.definition, pair, pair.definition, link) %>%
+    arrange(item, pair)
+  
+  return(assoc_link)
+}
 
