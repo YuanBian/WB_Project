@@ -1,0 +1,61 @@
+```{r}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+import_all_library()
+```
+
+
+```{r}
+parent_freq<- read.csv("parentfreq.csv", as.is = T) %>% 
+  rowwise() %>%
+  mutate(definition=strsplit(itemfreq," ")[[1]][2]) %>%
+  mutate(freq=strsplit(itemfreq," ")[[1]][1]) %>%
+  select(-itemfreq)
+parent_freq
+#write.csv(parent_freq, file = "parent_freq_rest.csv", row.names = F)
+```
+
+```{r}
+file<-read.csv("parent_freq.csv", as.is = T)
+file %>% filter(definition=="noodles")
+```
+
+```{r}
+aoa<- aoa %>% mutate(value=NA) %>% select(month, item, learned, value)
+PAT_generatorr<-function(semantic_feature, vocab_month){
+  for (i in 17:30){
+    #items learnt in this month
+    curr_items<- (vocab_month %>% filter(month==i) %>% select(item))$item 
+    #item learnt in previous months
+    exist_words<-(vocab_month %>% 
+    filter(month<i,learned==1) %>%
+      select(item))$item
+    #calculating the degree of nodes in the existing network
+    sem_acq<- semantic_feature %>%
+      filter(item %in% exist_words, pair %in% exist_words) %>% 
+      group_by(item) %>% 
+      summarise(value=sum(link))
+    
+    row_n<-which(vocab_month$month==i & vocab_month$item==curr_items[1])
+    for (j in curr_items){
+      #calculating d
+      link_to_exist<-(semantic_feature %>% filter(item==j, pair %in% exist_words, link==1))$pair
+      PAT_value<-sem_acq %>%
+        filter(item %in% link_to_exist) 
+      vocab_month[row_n,4]<- sum(PAT_value$value)
+      row_n<-row_n+1
+    }
+  }
+  vocab_month<-vocab_month %>% filter(month!=16)
+  return(vocab_month)
+}
+
+```
+
+```{r}
+PAT_generatorr(semantic_feature = semantic_feature, vocab_month = aoa)
+```
+
+```{r}
+get_item_data(form="WS") %>% filter(type=="word", lexical_class=="nouns") %>% group_by(language) %>% summarise(n=sum(as.numeric(!is.na(uni_lemma)))/n()) %>% arrange(desc(n))
+```
+

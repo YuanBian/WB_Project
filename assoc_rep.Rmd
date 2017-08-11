@@ -1,3 +1,4 @@
+Import library and helper functions
 ```{r}
 source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
 import_all_library()
@@ -15,36 +16,7 @@ trim_assoc<- trim_assoc %>%
 trim_assoc
 write.csv(trim_assoc, "association_pairs_wotrim.csv", row.names = F)
 ```
-```{r}
-lemma
-```
 
-```{r}
-make_assoc_pairs <- function(vocab_aoa) {
-  cue_target <- read.csv(paste(getwd(), "/in_files/association_pairs.csv", sep = ""))
-  
-  #Filter all the cues and targets that are not learnt after 30 months and are not normed
-  cue_target <- cue_target %>%
-    filter(cue %in% vocab_aoa$uni_lemma,
-           target %in% vocab_aoa$uni_lemma) %>%
-    filter(normed == "YES")
-  
-  #make a association network dataframe with item number
-  #rename stuffs so it could conform to the format PAT_generator needs
-  #item corresponds to target ;  pair corresponds to cue
-  assoc_link <- cue_target %>%
-    select(cue, target) %>%
-    rename(pair.definition = cue) %>%
-    left_join(vocab_aoa, c("pair.definition" = "uni_lemma")) %>%
-    rename(pair = item, item.definition = target) %>%
-    left_join(vocab_aoa, c("item.definition" = "uni_lemma")) %>%
-    select(item, item.definition, pair, pair.definition) %>%
-    arrange(item, pair) %>%
-    mutate(link = 1)
-  
-  return(assoc_link)
-}
-```
 ```{r}
 admin<-get_lang_admin_data(lang = "English")
 instr<-get_lang_instr_data(lang = "English")
@@ -52,6 +24,7 @@ itemd<-get_lang_item_data(lang = "English")
 aoa<- get_lang_aoa(lang_item = itemd, admin_data = admin, instr_data = instr)
 aoa
 ```
+
 ```{r}
 assoc_link<-make_assoc_pairs(trim_unilemma(aoa))
 aoa<- make_aoa_dataframe(lang = "English")

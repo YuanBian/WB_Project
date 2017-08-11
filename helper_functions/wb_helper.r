@@ -21,7 +21,7 @@ get_lang_item_data <- function(lang, lang_form = "WS", lex_class = "nouns") {
     filter(type == "word", lexical_class == lex_class) %>%
     rename(item = num_item_id)
   
-  #Initialize every item as "NOT yet learnt"
+  #Initialize every item as "no" (NOT yet learnt)
   lang_item <- item_data %>%
     select(item, definition, uni_lemma) %>%
     mutate(month = "no")
@@ -50,7 +50,7 @@ get_kids_by_month <- function(admin_data) {
 }
 
 ######################################################################################################################
-#get instrument data
+#get "produces" instrument data of certain language
 get_lang_instr_data <- function(lang, lang_form = "WS") {
   instr_data <- get_instrument_data(instrument_language = lang,
                                     instrument_form = lang_form) %>%

@@ -1,0 +1,60 @@
+---
+title: "phono_net.Rmd"
+author: "Yuan Bian"
+date: "7/23/2017"
+output: pdf_document
+---
+
+```{r}
+phono_pair<- read.csv("phono_pair.csv")
+threshold<- 2
+phono_pair
+phono_pair<- phono_pair %>% 
+  filter(item!=pair) %>% 
+  mutate(link=as.numeric(phono.dist>as.numeric(threshold)) )
+phono_pair
+```
+
+```{r}
+source("helper.r")
+df<- read.csv("aoa_dataframe.csv")
+df<- df %>% 
+  filter(definition %in% all_learned_words$definition) %>% 
+  mutate(value=NA)
+df
+phono_PAT<- PAT_generator(phono_pair,df)
+
+```
+
+```{r}
+phono_PAT
+write.csv(phono_PAT,"phono_PAT_t2.csv", row.names = FALSE)
+```
+
+```{r}
+library(stringr)
+df
+
+#lookup(as.character(df$definition))
+word_len<- df %>% 
+  rowwise() %>% 
+  mutate(value=str_count(lookup(definition),":")+1)
+word_len
+
+write.csv(word_len,"word_len.csv",row.names = FALSE)
+```
+
+```{r}
+phono_PAC_value<- phono_pair %>%
+  group_by(item) %>%
+  summarise(value=sum(link))
+phono_PAC_value
+df
+phono_PAC<- df %>%
+  select(-value) %>%
+  left_join(phono_PAC_value)
+phono_PAC
+write.csv(phono_PAC, file = "phono_PAC_t2.csv")
+```
+
+

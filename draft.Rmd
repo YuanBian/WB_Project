@@ -1,0 +1,67 @@
+```{r}
+item_data<- get_item_data(language = "English (American)",form = "WS") %>% filter(lexical_class=="nouns")
+item_data
+mc<- read.csv(paste(getwd(),"/in_files/features.csv", sep = ""), as.is = T) %>% filter(Concept=="alligator") %>% select(Concept, Feature)
+mc
+```
+
+```{r}
+logfreq<- read.csv(paste(getwd(),"/in_files/parent_freq.csv", sep = ""), as.is = T) %>%
+  mutate(freq=log(freq))
+logfreq
+
+write.csv(logfreq, file = "log_freq.csv", row.names = F)
+```
+
+
+```{r}
+sth<-expand.grid(language = c("English",  "Mandarin"), 
+			features = c("McRae", "W2V")) %>%
+	split(list(.$language, .$features)) 
+
+for (s in sth){
+  print(s)
+  print(paste(s$language,s$features,sep = ""))
+}
+```
+
+```{r, message=FALSE, warning=FALSE}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+
+loglike3 <- function(betas, control){
+
+  beta<- betas[1]
+  beta2<- betas[2]
+  beta3<- betas[3]
+
+  # calculate numerator
+  learned_words<- data %>%
+    filter(learned==1) %>%
+    mutate(numerator=exp(value*beta+value2*beta2+value3*beta3)) %>%
+    select(month, numerator)
+  
+  # calculate denumerator
+  all_words<- data %>%
+    group_by(month) %>%
+    summarise(denominator=sum(exp(value*beta+value2*beta2+value3*beta3))) %>%
+    select(month, denominator)
+  
+  # calculate the return value
+  ret<- learned_words %>%
+    left_join(all_words) %>%
+    summarise(nLLK=sum(log(numerator/denominator)))
+  
+  return(-ret$nLLK)
+  
+}
+parent_freq<- read.csv(paste(getwd(),"/in_files/log_freq.csv", sep = ""), as.is = T)
+data<- read.csv("English (American)_PAC_freq_np.csv", as.is = T) %>% 
+  mutate(value3=str_count(definition))
+
+optim(c(0,0,0), loglike3)$value
+data<- data %>% select(-value) %>% rename(value=value3)
+data
+optim(c(0,0), loglike00)$value
+
+```
+

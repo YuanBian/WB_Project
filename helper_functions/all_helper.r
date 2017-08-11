@@ -1,5 +1,5 @@
 source("growth_helper.r")
-source("wb_helper_function.r")
+source("wb_helper.r")
 source("assoc_helper.r")
 source("McRae_helper.r")
 source("optims.r")
