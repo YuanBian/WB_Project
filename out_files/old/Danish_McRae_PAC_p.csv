@@ -19,7 +19,7 @@
 16,49,"får","sheep",0,33
 16,51,"æsel","donkey",0,31
 16,52,"giraf","giraffe",0,36
-16,53,"kylling","chicken",0,40
+16,53,"kylling (animal)","chicken (animal)",0,40
 16,54,"gris","pig",0,33
 16,55,"lam","lamb",0,38
 16,57,"flyvemaskine","airplane",0,38
@@ -31,23 +31,23 @@
 16,67,"traktor","tractor",0,41
 16,69,"lastbil","truck",0,21
 16,70,"ballon","balloon",0,47
-16,72,"legetøj","toy",0,6
+16,72,"legetøj","toy (object)",0,6
 16,76,"bog","book",0,1
 16,79,"bold","ball",0,29
 16,82,"dukke","doll",0,10
-16,91,"appelsin","orange",0,15
+16,91,"appelsin","orange (food)",0,15
 16,94,"banan","banana",0,36
-16,95,"kylling","chicken",0,40
+16,95,"kylling (food)","chicken (food)",0,40
 16,103,"brød","bread",0,30
 16,119,"ost","cheese",0,32
 16,146,"rosiner","raisin",0,31
 16,147,"æble","apple",0,19
-16,151,"kager","cake",0,13
+16,151,"kage(r)","cake",0,13
 16,153,"ærter","peas",0,32
 16,159,"bluse","shirt",0,20
 16,160,"jakke","jacket",0,20
 16,162,"bukser","pants",0,37
-16,163,"kjole","dress",0,21
+16,163,"kjole","dress (object)",0,21
 16,164,"støvler","boots",0,25
 16,171,"frakke","coat",0,23
 16,175,"nattøj","pajamas",0,16
@@ -58,7 +58,7 @@
 16,218,"kop","cup",0,32
 16,221,"kost","broom",0,26
 16,222,"ske","spoon",0,27
-16,226,"børste","brush",0,24
+16,226,"børste","brush (object)",0,24
 16,228,"skål","bowl",0,33
 16,230,"krus","cup",0,32
 16,236,"lampe","lamp",0,11
@@ -68,7 +68,7 @@
 16,249,"telefon","telephone",0,22
 16,250,"hammer","hammer",0,30
 16,255,"tæppe","carpet",0,27
-16,256,"kam","comb",0,45
+16,256,"kam","comb (object)",0,45
 16,257,"pude","pillow",0,17
 16,262,"kasse","box",0,37
 16,263,"radio","radio",0,4
@@ -83,7 +83,7 @@
 16,291,"komfur","stove",0,23
 16,292,"soveværelse","bedroom",0,11
 16,295,"stol","chair",0,31
-16,302,"sten","rock",0,11
+16,302,"sten","rock (object)",0,11
 16,316,"skovl","shovel",0,18
 16,324,"kælk","sled",0,42
 17,14,"gås","goose",0,40
@@ -106,7 +106,7 @@
 17,49,"får","sheep",0,33
 17,51,"æsel","donkey",0,31
 17,52,"giraf","giraffe",0,36
-17,53,"kylling","chicken",0,40
+17,53,"kylling (animal)","chicken (animal)",0,40
 17,54,"gris","pig",0,33
 17,55,"lam","lamb",0,38
 17,57,"flyvemaskine","airplane",0,38
@@ -118,23 +118,23 @@
 17,67,"traktor","tractor",0,41
 17,69,"lastbil","truck",0,21
 17,70,"ballon","balloon",0,47
-17,72,"legetøj","toy",0,6
+17,72,"legetøj","toy (object)",0,6
 17,76,"bog","book",0,1
 17,79,"bold","ball",0,29
 17,82,"dukke","doll",0,10
-17,91,"appelsin","orange",0,15
+17,91,"appelsin","orange (food)",0,15
 17,94,"banan","banana",0,36
-17,95,"kylling","chicken",0,40
+17,95,"kylling (food)","chicken (food)",0,40
 17,103,"brød","bread",0,30
 17,119,"ost","cheese",0,32
 17,146,"rosiner","raisin",0,31
 17,147,"æble","apple",0,19
-17,151,"kager","cake",0,13
+17,151,"kage(r)","cake",0,13
 17,153,"ærter","peas",0,32
 17,159,"bluse","shirt",0,20
 17,160,"jakke","jacket",0,20
 17,162,"bukser","pants",0,37
-17,163,"kjole","dress",0,21
+17,163,"kjole","dress (object)",0,21
 17,164,"støvler","boots",0,25
 17,171,"frakke","coat",0,23
 17,175,"nattøj","pajamas",0,16
@@ -145,7 +145,7 @@
 17,218,"kop","cup",0,32
 17,221,"kost","broom",0,26
 17,222,"ske","spoon",0,27
-17,226,"børste","brush",0,24
+17,226,"børste","brush (object)",0,24
 17,228,"skål","bowl",0,33
 17,230,"krus","cup",0,32
 17,236,"lampe","lamp",0,11
@@ -155,7 +155,7 @@
 17,249,"telefon","telephone",0,22
 17,250,"hammer","hammer",0,30
 17,255,"tæppe","carpet",0,27
-17,256,"kam","comb",0,45
+17,256,"kam","comb (object)",0,45
 17,257,"pude","pillow",0,17
 17,262,"kasse","box",0,37
 17,263,"radio","radio",0,4
@@ -170,7 +170,7 @@
 17,291,"komfur","stove",0,23
 17,292,"soveværelse","bedroom",0,11
 17,295,"stol","chair",0,31
-17,302,"sten","rock",0,11
+17,302,"sten","rock (object)",0,11
 17,316,"skovl","shovel",0,18
 17,324,"kælk","sled",0,42
 18,14,"gås","goose",0,40
@@ -193,7 +193,7 @@
 18,49,"får","sheep",0,33
 18,51,"æsel","donkey",0,31
 18,52,"giraf","giraffe",0,36
-18,53,"kylling","chicken",0,40
+18,53,"kylling (animal)","chicken (animal)",0,40
 18,54,"gris","pig",0,33
 18,55,"lam","lamb",0,38
 18,57,"flyvemaskine","airplane",0,38
@@ -205,23 +205,23 @@
 18,67,"traktor","tractor",0,41
 18,69,"lastbil","truck",0,21
 18,70,"ballon","balloon",0,47
-18,72,"legetøj","toy",0,6
+18,72,"legetøj","toy (object)",0,6
 18,76,"bog","book",0,1
 18,79,"bold","ball",0,29
 18,82,"dukke","doll",0,10
-18,91,"appelsin","orange",0,15
+18,91,"appelsin","orange (food)",0,15
 18,94,"banan","banana",0,36
-18,95,"kylling","chicken",0,40
+18,95,"kylling (food)","chicken (food)",0,40
 18,103,"brød","bread",0,30
 18,119,"ost","cheese",0,32
 18,146,"rosiner","raisin",0,31
 18,147,"æble","apple",0,19
-18,151,"kager","cake",0,13
+18,151,"kage(r)","cake",0,13
 18,153,"ærter","peas",0,32
 18,159,"bluse","shirt",0,20
 18,160,"jakke","jacket",0,20
 18,162,"bukser","pants",0,37
-18,163,"kjole","dress",0,21
+18,163,"kjole","dress (object)",0,21
 18,164,"støvler","boots",0,25
 18,171,"frakke","coat",0,23
 18,175,"nattøj","pajamas",0,16
@@ -232,7 +232,7 @@
 18,218,"kop","cup",0,32
 18,221,"kost","broom",0,26
 18,222,"ske","spoon",0,27
-18,226,"børste","brush",0,24
+18,226,"børste","brush (object)",0,24
 18,228,"skål","bowl",0,33
 18,230,"krus","cup",0,32
 18,236,"lampe","lamp",0,11
@@ -242,7 +242,7 @@
 18,249,"telefon","telephone",0,22
 18,250,"hammer","hammer",0,30
 18,255,"tæppe","carpet",0,27
-18,256,"kam","comb",0,45
+18,256,"kam","comb (object)",0,45
 18,257,"pude","pillow",0,17
 18,262,"kasse","box",0,37
 18,263,"radio","radio",0,4
@@ -257,7 +257,7 @@
 18,291,"komfur","stove",0,23
 18,292,"soveværelse","bedroom",0,11
 18,295,"stol","chair",0,31
-18,302,"sten","rock",0,11
+18,302,"sten","rock (object)",0,11
 18,316,"skovl","shovel",0,18
 18,324,"kælk","sled",0,42
 19,14,"gås","goose",0,40
@@ -280,7 +280,7 @@
 19,49,"får","sheep",0,33
 19,51,"æsel","donkey",0,31
 19,52,"giraf","giraffe",0,36
-19,53,"kylling","chicken",0,40
+19,53,"kylling (animal)","chicken (animal)",0,40
 19,54,"gris","pig",0,33
 19,55,"lam","lamb",0,38
 19,57,"flyvemaskine","airplane",0,38
@@ -292,23 +292,23 @@
 19,67,"traktor","tractor",0,41
 19,69,"lastbil","truck",0,21
 19,70,"ballon","balloon",0,47
-19,72,"legetøj","toy",0,6
+19,72,"legetøj","toy (object)",0,6
 19,76,"bog","book",0,1
 19,79,"bold","ball",1,29
 19,82,"dukke","doll",0,10
-19,91,"appelsin","orange",0,15
+19,91,"appelsin","orange (food)",0,15
 19,94,"banan","banana",0,36
-19,95,"kylling","chicken",0,40
+19,95,"kylling (food)","chicken (food)",0,40
 19,103,"brød","bread",0,30
 19,119,"ost","cheese",0,32
 19,146,"rosiner","raisin",0,31
 19,147,"æble","apple",0,19
-19,151,"kager","cake",0,13
+19,151,"kage(r)","cake",0,13
 19,153,"ærter","peas",0,32
 19,159,"bluse","shirt",0,20
 19,160,"jakke","jacket",0,20
 19,162,"bukser","pants",0,37
-19,163,"kjole","dress",0,21
+19,163,"kjole","dress (object)",0,21
 19,164,"støvler","boots",0,25
 19,171,"frakke","coat",0,23
 19,175,"nattøj","pajamas",0,16
@@ -319,7 +319,7 @@
 19,218,"kop","cup",0,32
 19,221,"kost","broom",0,26
 19,222,"ske","spoon",0,27
-19,226,"børste","brush",0,24
+19,226,"børste","brush (object)",0,24
 19,228,"skål","bowl",0,33
 19,230,"krus","cup",0,32
 19,236,"lampe","lamp",0,11
@@ -329,7 +329,7 @@
 19,249,"telefon","telephone",0,22
 19,250,"hammer","hammer",0,30
 19,255,"tæppe","carpet",0,27
-19,256,"kam","comb",0,45
+19,256,"kam","comb (object)",0,45
 19,257,"pude","pillow",0,17
 19,262,"kasse","box",0,37
 19,263,"radio","radio",0,4
@@ -344,7 +344,7 @@
 19,291,"komfur","stove",0,23
 19,292,"soveværelse","bedroom",0,11
 19,295,"stol","chair",0,31
-19,302,"sten","rock",0,11
+19,302,"sten","rock (object)",0,11
 19,316,"skovl","shovel",0,18
 19,324,"kælk","sled",0,42
 20,14,"gås","goose",0,40
@@ -367,7 +367,7 @@
 20,49,"får","sheep",0,33
 20,51,"æsel","donkey",0,31
 20,52,"giraf","giraffe",0,36
-20,53,"kylling","chicken",0,40
+20,53,"kylling (animal)","chicken (animal)",0,40
 20,54,"gris","pig",0,33
 20,55,"lam","lamb",0,38
 20,57,"flyvemaskine","airplane",0,38
@@ -378,22 +378,22 @@
 20,67,"traktor","tractor",1,41
 20,69,"lastbil","truck",0,21
 20,70,"ballon","balloon",0,47
-20,72,"legetøj","toy",0,6
+20,72,"legetøj","toy (object)",0,6
 20,76,"bog","book",1,1
 20,82,"dukke","doll",0,10
-20,91,"appelsin","orange",0,15
+20,91,"appelsin","orange (food)",0,15
 20,94,"banan","banana",1,36
-20,95,"kylling","chicken",0,40
+20,95,"kylling (food)","chicken (food)",0,40
 20,103,"brød","bread",0,30
 20,119,"ost","cheese",0,32
 20,146,"rosiner","raisin",0,31
 20,147,"æble","apple",0,19
-20,151,"kager","cake",0,13
+20,151,"kage(r)","cake",0,13
 20,153,"ærter","peas",0,32
 20,159,"bluse","shirt",0,20
 20,160,"jakke","jacket",0,20
 20,162,"bukser","pants",0,37
-20,163,"kjole","dress",0,21
+20,163,"kjole","dress (object)",0,21
 20,164,"støvler","boots",0,25
 20,171,"frakke","coat",0,23
 20,175,"nattøj","pajamas",0,16
@@ -404,7 +404,7 @@
 20,218,"kop","cup",0,32
 20,221,"kost","broom",0,26
 20,222,"ske","spoon",1,27
-20,226,"børste","brush",0,24
+20,226,"børste","brush (object)",0,24
 20,228,"skål","bowl",0,33
 20,230,"krus","cup",0,32
 20,236,"lampe","lamp",0,11
@@ -414,7 +414,7 @@
 20,249,"telefon","telephone",0,22
 20,250,"hammer","hammer",0,30
 20,255,"tæppe","carpet",0,27
-20,256,"kam","comb",0,45
+20,256,"kam","comb (object)",0,45
 20,257,"pude","pillow",0,17
 20,262,"kasse","box",0,37
 20,263,"radio","radio",0,4
@@ -429,7 +429,7 @@
 20,291,"komfur","stove",0,23
 20,292,"soveværelse","bedroom",0,11
 20,295,"stol","chair",0,31
-20,302,"sten","rock",0,11
+20,302,"sten","rock (object)",0,11
 20,316,"skovl","shovel",0,18
 20,324,"kælk","sled",0,42
 21,14,"gås","goose",0,40
@@ -450,7 +450,7 @@
 21,49,"får","sheep",0,33
 21,51,"æsel","donkey",0,31
 21,52,"giraf","giraffe",0,36
-21,53,"kylling","chicken",0,40
+21,53,"kylling (animal)","chicken (animal)",0,40
 21,54,"gris","pig",0,33
 21,55,"lam","lamb",0,38
 21,57,"flyvemaskine","airplane",0,38
@@ -460,20 +460,20 @@
 21,65,"bus","bus",1,28
 21,69,"lastbil","truck",0,21
 21,70,"ballon","balloon",0,47
-21,72,"legetøj","toy",0,6
+21,72,"legetøj","toy (object)",0,6
 21,82,"dukke","doll",0,10
-21,91,"appelsin","orange",0,15
-21,95,"kylling","chicken",0,40
+21,91,"appelsin","orange (food)",0,15
+21,95,"kylling (food)","chicken (food)",0,40
 21,103,"brød","bread",0,30
 21,119,"ost","cheese",0,32
 21,146,"rosiner","raisin",0,31
 21,147,"æble","apple",0,19
-21,151,"kager","cake",0,13
+21,151,"kage(r)","cake",0,13
 21,153,"ærter","peas",0,32
 21,159,"bluse","shirt",0,20
 21,160,"jakke","jacket",0,20
 21,162,"bukser","pants",0,37
-21,163,"kjole","dress",0,21
+21,163,"kjole","dress (object)",0,21
 21,164,"støvler","boots",0,25
 21,171,"frakke","coat",0,23
 21,175,"nattøj","pajamas",0,16
@@ -483,7 +483,7 @@
 21,216,"saks","scissors",0,27
 21,218,"kop","cup",0,32
 21,221,"kost","broom",0,26
-21,226,"børste","brush",0,24
+21,226,"børste","brush (object)",0,24
 21,228,"skål","bowl",0,33
 21,230,"krus","cup",0,32
 21,236,"lampe","lamp",0,11
@@ -493,7 +493,7 @@
 21,249,"telefon","telephone",0,22
 21,250,"hammer","hammer",0,30
 21,255,"tæppe","carpet",0,27
-21,256,"kam","comb",0,45
+21,256,"kam","comb (object)",0,45
 21,257,"pude","pillow",0,17
 21,262,"kasse","box",0,37
 21,263,"radio","radio",0,4
@@ -508,7 +508,7 @@
 21,291,"komfur","stove",0,23
 21,292,"soveværelse","bedroom",0,11
 21,295,"stol","chair",1,31
-21,302,"sten","rock",0,11
+21,302,"sten","rock (object)",0,11
 21,316,"skovl","shovel",0,18
 21,324,"kælk","sled",0,42
 22,14,"gås","goose",0,40
@@ -527,7 +527,7 @@
 22,49,"får","sheep",0,33
 22,51,"æsel","donkey",0,31
 22,52,"giraf","giraffe",0,36
-22,53,"kylling","chicken",0,40
+22,53,"kylling (animal)","chicken (animal)",0,40
 22,54,"gris","pig",1,33
 22,55,"lam","lamb",0,38
 22,57,"flyvemaskine","airplane",0,38
@@ -536,20 +536,20 @@
 22,64,"tog","train",1,23
 22,69,"lastbil","truck",0,21
 22,70,"ballon","balloon",1,47
-22,72,"legetøj","toy",0,6
+22,72,"legetøj","toy (object)",0,6
 22,82,"dukke","doll",1,10
-22,91,"appelsin","orange",0,15
-22,95,"kylling","chicken",0,40
+22,91,"appelsin","orange (food)",0,15
+22,95,"kylling (food)","chicken (food)",0,40
 22,103,"brød","bread",1,30
 22,119,"ost","cheese",1,32
 22,146,"rosiner","raisin",1,31
 22,147,"æble","apple",1,19
-22,151,"kager","cake",1,13
+22,151,"kage(r)","cake",1,13
 22,153,"ærter","peas",0,32
 22,159,"bluse","shirt",0,20
 22,160,"jakke","jacket",1,20
 22,162,"bukser","pants",1,37
-22,163,"kjole","dress",0,21
+22,163,"kjole","dress (object)",0,21
 22,164,"støvler","boots",0,25
 22,171,"frakke","coat",0,23
 22,175,"nattøj","pajamas",0,16
@@ -559,7 +559,7 @@
 22,216,"saks","scissors",0,27
 22,218,"kop","cup",1,32
 22,221,"kost","broom",0,26
-22,226,"børste","brush",0,24
+22,226,"børste","brush (object)",0,24
 22,228,"skål","bowl",0,33
 22,230,"krus","cup",0,32
 22,236,"lampe","lamp",0,11
@@ -569,7 +569,7 @@
 22,249,"telefon","telephone",1,22
 22,250,"hammer","hammer",0,30
 22,255,"tæppe","carpet",0,27
-22,256,"kam","comb",0,45
+22,256,"kam","comb (object)",0,45
 22,257,"pude","pillow",1,17
 22,262,"kasse","box",0,37
 22,263,"radio","radio",0,4
@@ -583,7 +583,7 @@
 22,289,"sofa","couch",0,45
 22,291,"komfur","stove",0,23
 22,292,"soveværelse","bedroom",0,11
-22,302,"sten","rock",1,11
+22,302,"sten","rock (object)",1,11
 22,316,"skovl","shovel",1,18
 22,324,"kælk","sled",0,42
 23,14,"gås","goose",0,40
@@ -599,18 +599,18 @@
 23,49,"får","sheep",0,33
 23,51,"æsel","donkey",0,31
 23,52,"giraf","giraffe",0,36
-23,53,"kylling","chicken",0,40
+23,53,"kylling (animal)","chicken (animal)",0,40
 23,55,"lam","lamb",0,38
 23,57,"flyvemaskine","airplane",1,38
 23,58,"motorcykel","motorcycle",0,20
 23,60,"helikopter","helicopter",0,23
 23,69,"lastbil","truck",0,21
-23,72,"legetøj","toy",0,6
-23,91,"appelsin","orange",1,15
-23,95,"kylling","chicken",0,40
+23,72,"legetøj","toy (object)",0,6
+23,91,"appelsin","orange (food)",1,15
+23,95,"kylling (food)","chicken (food)",0,40
 23,153,"ærter","peas",0,32
 23,159,"bluse","shirt",0,20
-23,163,"kjole","dress",0,21
+23,163,"kjole","dress (object)",0,21
 23,164,"støvler","boots",1,25
 23,171,"frakke","coat",0,23
 23,175,"nattøj","pajamas",0,16
@@ -619,7 +619,7 @@
 23,215,"klokke","clock",0,13
 23,216,"saks","scissors",0,27
 23,221,"kost","broom",0,26
-23,226,"børste","brush",0,24
+23,226,"børste","brush (object)",0,24
 23,228,"skål","bowl",0,33
 23,230,"krus","cup",0,32
 23,236,"lampe","lamp",0,11
@@ -628,7 +628,7 @@
 23,243,"tallerken","plate",0,38
 23,250,"hammer","hammer",0,30
 23,255,"tæppe","carpet",0,27
-23,256,"kam","comb",0,45
+23,256,"kam","comb (object)",0,45
 23,262,"kasse","box",0,37
 23,263,"radio","radio",0,4
 23,267,"badekar","bathtub",0,33
@@ -651,16 +651,16 @@
 24,49,"får","sheep",1,33
 24,51,"æsel","donkey",0,31
 24,52,"giraf","giraffe",1,36
-24,53,"kylling","chicken",0,40
+24,53,"kylling (animal)","chicken (animal)",0,40
 24,55,"lam","lamb",0,38
 24,58,"motorcykel","motorcycle",0,20
 24,60,"helikopter","helicopter",0,23
 24,69,"lastbil","truck",1,21
-24,72,"legetøj","toy",0,6
-24,95,"kylling","chicken",0,40
+24,72,"legetøj","toy (object)",0,6
+24,95,"kylling (food)","chicken (food)",0,40
 24,153,"ærter","peas",0,32
 24,159,"bluse","shirt",1,20
-24,163,"kjole","dress",1,21
+24,163,"kjole","dress (object)",1,21
 24,171,"frakke","coat",0,23
 24,175,"nattøj","pajamas",1,16
 24,177,"halskæde","necklace",0,10
@@ -668,7 +668,7 @@
 24,215,"klokke","clock",0,13
 24,216,"saks","scissors",0,27
 24,221,"kost","broom",0,26
-24,226,"børste","brush",0,24
+24,226,"børste","brush (object)",0,24
 24,228,"skål","bowl",0,33
 24,230,"krus","cup",0,32
 24,236,"lampe","lamp",0,11
@@ -676,7 +676,7 @@
 24,243,"tallerken","plate",1,38
 24,250,"hammer","hammer",1,30
 24,255,"tæppe","carpet",0,27
-24,256,"kam","comb",0,45
+24,256,"kam","comb (object)",0,45
 24,262,"kasse","box",0,37
 24,263,"radio","radio",0,4
 24,267,"badekar","bathtub",0,33
@@ -694,25 +694,25 @@
 25,33,"skildpadde","turtle",0,41
 25,42,"ugle","owl",0,28
 25,51,"æsel","donkey",0,31
-25,53,"kylling","chicken",1,40
+25,53,"kylling (animal)","chicken (animal)",1,40
 25,55,"lam","lamb",0,38
 25,58,"motorcykel","motorcycle",1,20
 25,60,"helikopter","helicopter",0,23
-25,72,"legetøj","toy",1,6
-25,95,"kylling","chicken",1,40
+25,72,"legetøj","toy (object)",1,6
+25,95,"kylling (food)","chicken (food)",1,40
 25,153,"ærter","peas",0,32
 25,171,"frakke","coat",0,23
 25,177,"halskæde","necklace",0,10
 25,215,"klokke","clock",0,13
 25,216,"saks","scissors",1,27
 25,221,"kost","broom",1,26
-25,226,"børste","brush",1,24
+25,226,"børste","brush (object)",1,24
 25,228,"skål","bowl",0,33
 25,230,"krus","cup",0,32
 25,236,"lampe","lamp",1,11
 25,238,"flaske","bottle",0,19
 25,255,"tæppe","carpet",0,27
-25,256,"kam","comb",0,45
+25,256,"kam","comb (object)",0,45
 25,262,"kasse","box",0,37
 25,263,"radio","radio",0,4
 25,267,"badekar","bathtub",1,33
@@ -740,7 +740,7 @@
 26,230,"krus","cup",0,32
 26,238,"flaske","bottle",1,19
 26,255,"tæppe","carpet",1,27
-26,256,"kam","comb",1,45
+26,256,"kam","comb (object)",1,45
 26,262,"kasse","box",1,37
 26,263,"radio","radio",0,4
 26,274,"ovn","oven",1,24

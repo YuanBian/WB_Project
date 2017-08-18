@@ -1,0 +1,708 @@
+"month","item","definition","uni_lemma","learned","value"
+16,16,"At (animal)","horse",0,24
+16,17,"Ayı","bear",0,30
+16,23,"Eşek","donkey",0,16
+16,29,"İnek","cow",0,28
+16,35,"Kedi","cat",0,12
+16,37,"Köpek","dog",0,15
+16,38,"Kurbağa","frog",0,18
+16,43,"Ördek","duck",0,20
+16,49,"Tavuk","chicken (animal)",0,31
+16,54,"Kuzu","lamb",0,27
+16,55,"Ambulans","ambulance",0,28
+16,56,"Araba","car",0,22
+16,58,"Gemi/Vapur","boat",0,21
+16,59,"Helikopter","helicopter",0,21
+16,61,"Kamyon","truck",0,16
+16,63,"Motosiklet","motorcycle",0,17
+16,64,"Otobüs","bus",0,23
+16,65,"Traktör","tractor",0,31
+16,66,"Tren","train",0,21
+16,67,"Uçak","airplane",0,25
+16,69,"Balon","balloon",0,36
+16,70,"Bebek (object)","doll",1,6
+16,72,"Boya (object)","crayon",0,15
+16,77,"Kitap","book",0,1
+16,78,"Kova","bucket",0,25
+16,83,"Oyuncak","toy (object)",0,6
+16,86,"Top","ball",1,25
+16,87,"Tüfek","gun",0,24
+16,89,"Armut","pear",0,26
+16,101,"Domates","tomato",0,26
+16,103,"Ekmek","bread",0,21
+16,104,"Elma","apple",0,24
+16,113,"Kek","cake",0,14
+16,119,"Limon","lemon",0,10
+16,126,"Muz","banana",0,34
+16,129,"Pasta","cake",0,14
+16,130,"Patates","potato",0,17
+16,131,"Peynir","cheese",0,26
+16,132,"Pilav","rice",0,29
+16,135,"Portakal","orange (food)",0,19
+16,154,"Zeytin","olive",0,25
+16,157,"Bilezik","bracelet",0,26
+16,160,"Ceket","jacket",0,13
+16,165,"Elbise","dress (object)",0,14
+16,168,"Etek","skirt",0,13
+16,172,"Kazak","sweater",0,12
+16,177,"Palto","coat",0,15
+16,178,"Pantolon","pants",0,23
+16,179,"Pijama","pajamas",0,14
+16,215,"Ayna","mirror",0,8
+16,220,"Biberon","bottle",0,15
+16,222,"Çatal","fork",0,17
+16,224,"Çekiç","hammer",0,24
+16,230,"Kaşık","spoon",0,22
+16,232,"Lamba/Işık","lamp",0,8
+16,237,"Radyo","radio",0,3
+16,239,"Saat","clock",0,15
+16,243,"Tabak","plate",0,33
+16,244,"Tarak","comb (object)",0,31
+16,245,"Telefon","telephone",0,15
+16,251,"Dolap","cupboard",0,12
+16,253,"Fırın","oven",0,18
+16,256,"Kapı","door",0,18
+16,259,"Masa","table",0,32
+16,266,"Sandalye/İskemle","chair",0,23
+16,270,"Yatak","bed",0,15
+16,271,"Yastık","pillow",0,13
+16,286,"Duvar","wall",0,14
+16,296,"Köprü","bridge",0,32
+16,302,"Taş","rock (object)",0,7
+17,16,"At (animal)","horse",0,24
+17,17,"Ayı","bear",0,30
+17,23,"Eşek","donkey",0,16
+17,29,"İnek","cow",0,28
+17,35,"Kedi","cat",0,12
+17,37,"Köpek","dog",0,15
+17,38,"Kurbağa","frog",0,18
+17,43,"Ördek","duck",0,20
+17,49,"Tavuk","chicken (animal)",0,31
+17,54,"Kuzu","lamb",0,27
+17,55,"Ambulans","ambulance",0,28
+17,56,"Araba","car",0,22
+17,58,"Gemi/Vapur","boat",0,21
+17,59,"Helikopter","helicopter",0,21
+17,61,"Kamyon","truck",0,16
+17,63,"Motosiklet","motorcycle",0,17
+17,64,"Otobüs","bus",0,23
+17,65,"Traktör","tractor",0,31
+17,66,"Tren","train",0,21
+17,67,"Uçak","airplane",0,25
+17,69,"Balon","balloon",0,36
+17,72,"Boya (object)","crayon",0,15
+17,77,"Kitap","book",0,1
+17,78,"Kova","bucket",0,25
+17,83,"Oyuncak","toy (object)",0,6
+17,87,"Tüfek","gun",0,24
+17,89,"Armut","pear",0,26
+17,101,"Domates","tomato",0,26
+17,103,"Ekmek","bread",0,21
+17,104,"Elma","apple",0,24
+17,113,"Kek","cake",0,14
+17,119,"Limon","lemon",0,10
+17,126,"Muz","banana",0,34
+17,129,"Pasta","cake",0,14
+17,130,"Patates","potato",0,17
+17,131,"Peynir","cheese",0,26
+17,132,"Pilav","rice",0,29
+17,135,"Portakal","orange (food)",0,19
+17,154,"Zeytin","olive",0,25
+17,157,"Bilezik","bracelet",0,26
+17,160,"Ceket","jacket",0,13
+17,165,"Elbise","dress (object)",0,14
+17,168,"Etek","skirt",0,13
+17,172,"Kazak","sweater",0,12
+17,177,"Palto","coat",0,15
+17,178,"Pantolon","pants",0,23
+17,179,"Pijama","pajamas",0,14
+17,215,"Ayna","mirror",0,8
+17,220,"Biberon","bottle",0,15
+17,222,"Çatal","fork",0,17
+17,224,"Çekiç","hammer",0,24
+17,230,"Kaşık","spoon",0,22
+17,232,"Lamba/Işık","lamp",0,8
+17,237,"Radyo","radio",0,3
+17,239,"Saat","clock",0,15
+17,243,"Tabak","plate",0,33
+17,244,"Tarak","comb (object)",0,31
+17,245,"Telefon","telephone",0,15
+17,251,"Dolap","cupboard",0,12
+17,253,"Fırın","oven",0,18
+17,256,"Kapı","door",0,18
+17,259,"Masa","table",0,32
+17,266,"Sandalye/İskemle","chair",0,23
+17,270,"Yatak","bed",0,15
+17,271,"Yastık","pillow",0,13
+17,286,"Duvar","wall",0,14
+17,296,"Köprü","bridge",0,32
+17,302,"Taş","rock (object)",0,7
+18,16,"At (animal)","horse",0,24
+18,17,"Ayı","bear",0,30
+18,23,"Eşek","donkey",0,16
+18,29,"İnek","cow",0,28
+18,35,"Kedi","cat",0,12
+18,37,"Köpek","dog",0,15
+18,38,"Kurbağa","frog",0,18
+18,43,"Ördek","duck",0,20
+18,49,"Tavuk","chicken (animal)",0,31
+18,54,"Kuzu","lamb",0,27
+18,55,"Ambulans","ambulance",0,28
+18,56,"Araba","car",1,22
+18,58,"Gemi/Vapur","boat",0,21
+18,59,"Helikopter","helicopter",0,21
+18,61,"Kamyon","truck",0,16
+18,63,"Motosiklet","motorcycle",0,17
+18,64,"Otobüs","bus",0,23
+18,65,"Traktör","tractor",0,31
+18,66,"Tren","train",0,21
+18,67,"Uçak","airplane",0,25
+18,69,"Balon","balloon",0,36
+18,72,"Boya (object)","crayon",0,15
+18,77,"Kitap","book",0,1
+18,78,"Kova","bucket",0,25
+18,83,"Oyuncak","toy (object)",0,6
+18,87,"Tüfek","gun",0,24
+18,89,"Armut","pear",0,26
+18,101,"Domates","tomato",0,26
+18,103,"Ekmek","bread",0,21
+18,104,"Elma","apple",0,24
+18,113,"Kek","cake",0,14
+18,119,"Limon","lemon",0,10
+18,126,"Muz","banana",0,34
+18,129,"Pasta","cake",0,14
+18,130,"Patates","potato",0,17
+18,131,"Peynir","cheese",0,26
+18,132,"Pilav","rice",0,29
+18,135,"Portakal","orange (food)",0,19
+18,154,"Zeytin","olive",0,25
+18,157,"Bilezik","bracelet",0,26
+18,160,"Ceket","jacket",0,13
+18,165,"Elbise","dress (object)",0,14
+18,168,"Etek","skirt",0,13
+18,172,"Kazak","sweater",0,12
+18,177,"Palto","coat",0,15
+18,178,"Pantolon","pants",0,23
+18,179,"Pijama","pajamas",0,14
+18,215,"Ayna","mirror",0,8
+18,220,"Biberon","bottle",0,15
+18,222,"Çatal","fork",0,17
+18,224,"Çekiç","hammer",0,24
+18,230,"Kaşık","spoon",0,22
+18,232,"Lamba/Işık","lamp",0,8
+18,237,"Radyo","radio",0,3
+18,239,"Saat","clock",0,15
+18,243,"Tabak","plate",0,33
+18,244,"Tarak","comb (object)",0,31
+18,245,"Telefon","telephone",0,15
+18,251,"Dolap","cupboard",0,12
+18,253,"Fırın","oven",0,18
+18,256,"Kapı","door",0,18
+18,259,"Masa","table",0,32
+18,266,"Sandalye/İskemle","chair",0,23
+18,270,"Yatak","bed",0,15
+18,271,"Yastık","pillow",0,13
+18,286,"Duvar","wall",0,14
+18,296,"Köprü","bridge",0,32
+18,302,"Taş","rock (object)",0,7
+19,16,"At (animal)","horse",0,24
+19,17,"Ayı","bear",0,30
+19,23,"Eşek","donkey",0,16
+19,29,"İnek","cow",0,28
+19,35,"Kedi","cat",1,12
+19,37,"Köpek","dog",0,15
+19,38,"Kurbağa","frog",0,18
+19,43,"Ördek","duck",0,20
+19,49,"Tavuk","chicken (animal)",0,31
+19,54,"Kuzu","lamb",0,27
+19,55,"Ambulans","ambulance",0,28
+19,58,"Gemi/Vapur","boat",0,21
+19,59,"Helikopter","helicopter",0,21
+19,61,"Kamyon","truck",0,16
+19,63,"Motosiklet","motorcycle",0,17
+19,64,"Otobüs","bus",0,23
+19,65,"Traktör","tractor",0,31
+19,66,"Tren","train",0,21
+19,67,"Uçak","airplane",0,25
+19,69,"Balon","balloon",0,36
+19,72,"Boya (object)","crayon",0,15
+19,77,"Kitap","book",0,1
+19,78,"Kova","bucket",0,25
+19,83,"Oyuncak","toy (object)",0,6
+19,87,"Tüfek","gun",0,24
+19,89,"Armut","pear",0,26
+19,101,"Domates","tomato",0,26
+19,103,"Ekmek","bread",0,21
+19,104,"Elma","apple",0,24
+19,113,"Kek","cake",0,14
+19,119,"Limon","lemon",0,10
+19,126,"Muz","banana",0,34
+19,129,"Pasta","cake",0,14
+19,130,"Patates","potato",0,17
+19,131,"Peynir","cheese",0,26
+19,132,"Pilav","rice",0,29
+19,135,"Portakal","orange (food)",0,19
+19,154,"Zeytin","olive",0,25
+19,157,"Bilezik","bracelet",0,26
+19,160,"Ceket","jacket",0,13
+19,165,"Elbise","dress (object)",0,14
+19,168,"Etek","skirt",0,13
+19,172,"Kazak","sweater",0,12
+19,177,"Palto","coat",0,15
+19,178,"Pantolon","pants",0,23
+19,179,"Pijama","pajamas",0,14
+19,215,"Ayna","mirror",0,8
+19,220,"Biberon","bottle",0,15
+19,222,"Çatal","fork",0,17
+19,224,"Çekiç","hammer",0,24
+19,230,"Kaşık","spoon",0,22
+19,232,"Lamba/Işık","lamp",0,8
+19,237,"Radyo","radio",0,3
+19,239,"Saat","clock",0,15
+19,243,"Tabak","plate",0,33
+19,244,"Tarak","comb (object)",0,31
+19,245,"Telefon","telephone",0,15
+19,251,"Dolap","cupboard",0,12
+19,253,"Fırın","oven",0,18
+19,256,"Kapı","door",0,18
+19,259,"Masa","table",0,32
+19,266,"Sandalye/İskemle","chair",0,23
+19,270,"Yatak","bed",0,15
+19,271,"Yastık","pillow",0,13
+19,286,"Duvar","wall",0,14
+19,296,"Köprü","bridge",0,32
+19,302,"Taş","rock (object)",0,7
+20,16,"At (animal)","horse",0,24
+20,17,"Ayı","bear",0,30
+20,23,"Eşek","donkey",0,16
+20,29,"İnek","cow",0,28
+20,37,"Köpek","dog",0,15
+20,38,"Kurbağa","frog",0,18
+20,43,"Ördek","duck",0,20
+20,49,"Tavuk","chicken (animal)",0,31
+20,54,"Kuzu","lamb",0,27
+20,55,"Ambulans","ambulance",0,28
+20,58,"Gemi/Vapur","boat",0,21
+20,59,"Helikopter","helicopter",0,21
+20,61,"Kamyon","truck",0,16
+20,63,"Motosiklet","motorcycle",0,17
+20,64,"Otobüs","bus",0,23
+20,65,"Traktör","tractor",0,31
+20,66,"Tren","train",0,21
+20,67,"Uçak","airplane",0,25
+20,69,"Balon","balloon",1,36
+20,72,"Boya (object)","crayon",0,15
+20,77,"Kitap","book",0,1
+20,78,"Kova","bucket",0,25
+20,83,"Oyuncak","toy (object)",0,6
+20,87,"Tüfek","gun",0,24
+20,89,"Armut","pear",0,26
+20,101,"Domates","tomato",0,26
+20,103,"Ekmek","bread",1,21
+20,104,"Elma","apple",0,24
+20,113,"Kek","cake",0,14
+20,119,"Limon","lemon",0,10
+20,126,"Muz","banana",0,34
+20,129,"Pasta","cake",0,14
+20,130,"Patates","potato",0,17
+20,131,"Peynir","cheese",0,26
+20,132,"Pilav","rice",0,29
+20,135,"Portakal","orange (food)",0,19
+20,154,"Zeytin","olive",0,25
+20,157,"Bilezik","bracelet",0,26
+20,160,"Ceket","jacket",0,13
+20,165,"Elbise","dress (object)",0,14
+20,168,"Etek","skirt",0,13
+20,172,"Kazak","sweater",0,12
+20,177,"Palto","coat",0,15
+20,178,"Pantolon","pants",0,23
+20,179,"Pijama","pajamas",0,14
+20,215,"Ayna","mirror",0,8
+20,220,"Biberon","bottle",0,15
+20,222,"Çatal","fork",0,17
+20,224,"Çekiç","hammer",0,24
+20,230,"Kaşık","spoon",0,22
+20,232,"Lamba/Işık","lamp",0,8
+20,237,"Radyo","radio",0,3
+20,239,"Saat","clock",0,15
+20,243,"Tabak","plate",0,33
+20,244,"Tarak","comb (object)",0,31
+20,245,"Telefon","telephone",0,15
+20,251,"Dolap","cupboard",0,12
+20,253,"Fırın","oven",0,18
+20,256,"Kapı","door",0,18
+20,259,"Masa","table",0,32
+20,266,"Sandalye/İskemle","chair",0,23
+20,270,"Yatak","bed",0,15
+20,271,"Yastık","pillow",0,13
+20,286,"Duvar","wall",0,14
+20,296,"Köprü","bridge",0,32
+20,302,"Taş","rock (object)",0,7
+21,16,"At (animal)","horse",0,24
+21,17,"Ayı","bear",0,30
+21,23,"Eşek","donkey",0,16
+21,29,"İnek","cow",0,28
+21,37,"Köpek","dog",1,15
+21,38,"Kurbağa","frog",0,18
+21,43,"Ördek","duck",0,20
+21,49,"Tavuk","chicken (animal)",0,31
+21,54,"Kuzu","lamb",0,27
+21,55,"Ambulans","ambulance",0,28
+21,58,"Gemi/Vapur","boat",0,21
+21,59,"Helikopter","helicopter",0,21
+21,61,"Kamyon","truck",0,16
+21,63,"Motosiklet","motorcycle",0,17
+21,64,"Otobüs","bus",0,23
+21,65,"Traktör","tractor",0,31
+21,66,"Tren","train",0,21
+21,67,"Uçak","airplane",0,25
+21,72,"Boya (object)","crayon",0,15
+21,77,"Kitap","book",0,1
+21,78,"Kova","bucket",0,25
+21,83,"Oyuncak","toy (object)",1,6
+21,87,"Tüfek","gun",0,24
+21,89,"Armut","pear",0,26
+21,101,"Domates","tomato",0,26
+21,104,"Elma","apple",0,24
+21,113,"Kek","cake",0,14
+21,119,"Limon","lemon",0,10
+21,126,"Muz","banana",0,34
+21,129,"Pasta","cake",0,14
+21,130,"Patates","potato",0,17
+21,131,"Peynir","cheese",0,26
+21,132,"Pilav","rice",0,29
+21,135,"Portakal","orange (food)",0,19
+21,154,"Zeytin","olive",0,25
+21,157,"Bilezik","bracelet",0,26
+21,160,"Ceket","jacket",0,13
+21,165,"Elbise","dress (object)",0,14
+21,168,"Etek","skirt",0,13
+21,172,"Kazak","sweater",0,12
+21,177,"Palto","coat",0,15
+21,178,"Pantolon","pants",0,23
+21,179,"Pijama","pajamas",0,14
+21,215,"Ayna","mirror",0,8
+21,220,"Biberon","bottle",0,15
+21,222,"Çatal","fork",0,17
+21,224,"Çekiç","hammer",0,24
+21,230,"Kaşık","spoon",0,22
+21,232,"Lamba/Işık","lamp",0,8
+21,237,"Radyo","radio",0,3
+21,239,"Saat","clock",0,15
+21,243,"Tabak","plate",0,33
+21,244,"Tarak","comb (object)",0,31
+21,245,"Telefon","telephone",0,15
+21,251,"Dolap","cupboard",0,12
+21,253,"Fırın","oven",0,18
+21,256,"Kapı","door",0,18
+21,259,"Masa","table",0,32
+21,266,"Sandalye/İskemle","chair",0,23
+21,270,"Yatak","bed",0,15
+21,271,"Yastık","pillow",0,13
+21,286,"Duvar","wall",0,14
+21,296,"Köprü","bridge",0,32
+21,302,"Taş","rock (object)",0,7
+22,16,"At (animal)","horse",1,24
+22,17,"Ayı","bear",0,30
+22,23,"Eşek","donkey",0,16
+22,29,"İnek","cow",0,28
+22,38,"Kurbağa","frog",0,18
+22,43,"Ördek","duck",0,20
+22,49,"Tavuk","chicken (animal)",0,31
+22,54,"Kuzu","lamb",0,27
+22,55,"Ambulans","ambulance",0,28
+22,58,"Gemi/Vapur","boat",0,21
+22,59,"Helikopter","helicopter",0,21
+22,61,"Kamyon","truck",0,16
+22,63,"Motosiklet","motorcycle",0,17
+22,64,"Otobüs","bus",0,23
+22,65,"Traktör","tractor",0,31
+22,66,"Tren","train",0,21
+22,67,"Uçak","airplane",0,25
+22,72,"Boya (object)","crayon",0,15
+22,77,"Kitap","book",0,1
+22,78,"Kova","bucket",0,25
+22,87,"Tüfek","gun",0,24
+22,89,"Armut","pear",0,26
+22,101,"Domates","tomato",0,26
+22,104,"Elma","apple",1,24
+22,113,"Kek","cake",0,14
+22,119,"Limon","lemon",0,10
+22,126,"Muz","banana",0,34
+22,129,"Pasta","cake",0,14
+22,130,"Patates","potato",0,17
+22,131,"Peynir","cheese",0,26
+22,132,"Pilav","rice",0,29
+22,135,"Portakal","orange (food)",0,19
+22,154,"Zeytin","olive",0,25
+22,157,"Bilezik","bracelet",0,26
+22,160,"Ceket","jacket",0,13
+22,165,"Elbise","dress (object)",0,14
+22,168,"Etek","skirt",0,13
+22,172,"Kazak","sweater",0,12
+22,177,"Palto","coat",0,15
+22,178,"Pantolon","pants",0,23
+22,179,"Pijama","pajamas",0,14
+22,215,"Ayna","mirror",0,8
+22,220,"Biberon","bottle",0,15
+22,222,"Çatal","fork",0,17
+22,224,"Çekiç","hammer",0,24
+22,230,"Kaşık","spoon",0,22
+22,232,"Lamba/Işık","lamp",0,8
+22,237,"Radyo","radio",0,3
+22,239,"Saat","clock",0,15
+22,243,"Tabak","plate",0,33
+22,244,"Tarak","comb (object)",0,31
+22,245,"Telefon","telephone",0,15
+22,251,"Dolap","cupboard",0,12
+22,253,"Fırın","oven",0,18
+22,256,"Kapı","door",0,18
+22,259,"Masa","table",0,32
+22,266,"Sandalye/İskemle","chair",0,23
+22,270,"Yatak","bed",0,15
+22,271,"Yastık","pillow",0,13
+22,286,"Duvar","wall",0,14
+22,296,"Köprü","bridge",0,32
+22,302,"Taş","rock (object)",0,7
+23,17,"Ayı","bear",1,30
+23,23,"Eşek","donkey",0,16
+23,29,"İnek","cow",1,28
+23,38,"Kurbağa","frog",0,18
+23,43,"Ördek","duck",0,20
+23,49,"Tavuk","chicken (animal)",0,31
+23,54,"Kuzu","lamb",0,27
+23,55,"Ambulans","ambulance",0,28
+23,58,"Gemi/Vapur","boat",0,21
+23,59,"Helikopter","helicopter",0,21
+23,61,"Kamyon","truck",0,16
+23,63,"Motosiklet","motorcycle",0,17
+23,64,"Otobüs","bus",0,23
+23,65,"Traktör","tractor",0,31
+23,66,"Tren","train",0,21
+23,67,"Uçak","airplane",0,25
+23,72,"Boya (object)","crayon",0,15
+23,77,"Kitap","book",0,1
+23,78,"Kova","bucket",0,25
+23,87,"Tüfek","gun",0,24
+23,89,"Armut","pear",0,26
+23,101,"Domates","tomato",0,26
+23,113,"Kek","cake",1,14
+23,119,"Limon","lemon",0,10
+23,126,"Muz","banana",1,34
+23,129,"Pasta","cake",0,14
+23,130,"Patates","potato",0,17
+23,131,"Peynir","cheese",0,26
+23,132,"Pilav","rice",1,29
+23,135,"Portakal","orange (food)",0,19
+23,154,"Zeytin","olive",0,25
+23,157,"Bilezik","bracelet",0,26
+23,160,"Ceket","jacket",0,13
+23,165,"Elbise","dress (object)",0,14
+23,168,"Etek","skirt",0,13
+23,172,"Kazak","sweater",0,12
+23,177,"Palto","coat",0,15
+23,178,"Pantolon","pants",0,23
+23,179,"Pijama","pajamas",0,14
+23,215,"Ayna","mirror",0,8
+23,220,"Biberon","bottle",0,15
+23,222,"Çatal","fork",1,17
+23,224,"Çekiç","hammer",0,24
+23,230,"Kaşık","spoon",1,22
+23,232,"Lamba/Işık","lamp",0,8
+23,237,"Radyo","radio",0,3
+23,239,"Saat","clock",1,15
+23,243,"Tabak","plate",1,33
+23,244,"Tarak","comb (object)",0,31
+23,245,"Telefon","telephone",1,15
+23,251,"Dolap","cupboard",0,12
+23,253,"Fırın","oven",0,18
+23,256,"Kapı","door",1,18
+23,259,"Masa","table",1,32
+23,266,"Sandalye/İskemle","chair",0,23
+23,270,"Yatak","bed",0,15
+23,271,"Yastık","pillow",1,13
+23,286,"Duvar","wall",0,14
+23,296,"Köprü","bridge",0,32
+23,302,"Taş","rock (object)",0,7
+24,23,"Eşek","donkey",1,16
+24,38,"Kurbağa","frog",0,18
+24,43,"Ördek","duck",0,20
+24,49,"Tavuk","chicken (animal)",0,31
+24,54,"Kuzu","lamb",1,27
+24,55,"Ambulans","ambulance",0,28
+24,58,"Gemi/Vapur","boat",0,21
+24,59,"Helikopter","helicopter",0,21
+24,61,"Kamyon","truck",0,16
+24,63,"Motosiklet","motorcycle",0,17
+24,64,"Otobüs","bus",0,23
+24,65,"Traktör","tractor",0,31
+24,66,"Tren","train",0,21
+24,67,"Uçak","airplane",1,25
+24,72,"Boya (object)","crayon",0,15
+24,77,"Kitap","book",1,1
+24,78,"Kova","bucket",0,25
+24,87,"Tüfek","gun",0,24
+24,89,"Armut","pear",0,26
+24,101,"Domates","tomato",1,26
+24,119,"Limon","lemon",0,10
+24,129,"Pasta","cake",0,14
+24,130,"Patates","potato",0,17
+24,131,"Peynir","cheese",0,26
+24,135,"Portakal","orange (food)",0,19
+24,154,"Zeytin","olive",1,25
+24,157,"Bilezik","bracelet",0,26
+24,160,"Ceket","jacket",0,13
+24,165,"Elbise","dress (object)",0,14
+24,168,"Etek","skirt",0,13
+24,172,"Kazak","sweater",0,12
+24,177,"Palto","coat",0,15
+24,178,"Pantolon","pants",0,23
+24,179,"Pijama","pajamas",0,14
+24,215,"Ayna","mirror",1,8
+24,220,"Biberon","bottle",0,15
+24,224,"Çekiç","hammer",0,24
+24,232,"Lamba/Işık","lamp",1,8
+24,237,"Radyo","radio",0,3
+24,244,"Tarak","comb (object)",0,31
+24,251,"Dolap","cupboard",0,12
+24,253,"Fırın","oven",0,18
+24,266,"Sandalye/İskemle","chair",0,23
+24,270,"Yatak","bed",1,15
+24,286,"Duvar","wall",0,14
+24,296,"Köprü","bridge",0,32
+24,302,"Taş","rock (object)",0,7
+25,38,"Kurbağa","frog",0,18
+25,43,"Ördek","duck",0,20
+25,49,"Tavuk","chicken (animal)",1,31
+25,55,"Ambulans","ambulance",0,28
+25,58,"Gemi/Vapur","boat",0,21
+25,59,"Helikopter","helicopter",0,21
+25,61,"Kamyon","truck",1,16
+25,63,"Motosiklet","motorcycle",0,17
+25,64,"Otobüs","bus",0,23
+25,65,"Traktör","tractor",0,31
+25,66,"Tren","train",0,21
+25,72,"Boya (object)","crayon",1,15
+25,78,"Kova","bucket",0,25
+25,87,"Tüfek","gun",0,24
+25,89,"Armut","pear",1,26
+25,119,"Limon","lemon",0,10
+25,129,"Pasta","cake",1,14
+25,130,"Patates","potato",1,17
+25,131,"Peynir","cheese",1,26
+25,135,"Portakal","orange (food)",0,19
+25,157,"Bilezik","bracelet",0,26
+25,160,"Ceket","jacket",0,13
+25,165,"Elbise","dress (object)",0,14
+25,168,"Etek","skirt",0,13
+25,172,"Kazak","sweater",0,12
+25,177,"Palto","coat",0,15
+25,178,"Pantolon","pants",1,23
+25,179,"Pijama","pajamas",0,14
+25,220,"Biberon","bottle",1,15
+25,224,"Çekiç","hammer",0,24
+25,237,"Radyo","radio",0,3
+25,244,"Tarak","comb (object)",1,31
+25,251,"Dolap","cupboard",1,12
+25,253,"Fırın","oven",0,18
+25,266,"Sandalye/İskemle","chair",0,23
+25,286,"Duvar","wall",0,14
+25,296,"Köprü","bridge",0,32
+25,302,"Taş","rock (object)",1,7
+26,38,"Kurbağa","frog",0,18
+26,43,"Ördek","duck",1,20
+26,55,"Ambulans","ambulance",0,28
+26,58,"Gemi/Vapur","boat",0,21
+26,59,"Helikopter","helicopter",0,21
+26,63,"Motosiklet","motorcycle",0,17
+26,64,"Otobüs","bus",1,23
+26,65,"Traktör","tractor",0,31
+26,66,"Tren","train",1,21
+26,78,"Kova","bucket",0,25
+26,87,"Tüfek","gun",0,24
+26,119,"Limon","lemon",0,10
+26,135,"Portakal","orange (food)",1,19
+26,157,"Bilezik","bracelet",0,26
+26,160,"Ceket","jacket",0,13
+26,165,"Elbise","dress (object)",1,14
+26,168,"Etek","skirt",0,13
+26,172,"Kazak","sweater",1,12
+26,177,"Palto","coat",0,15
+26,179,"Pijama","pajamas",0,14
+26,224,"Çekiç","hammer",0,24
+26,237,"Radyo","radio",0,3
+26,253,"Fırın","oven",0,18
+26,266,"Sandalye/İskemle","chair",1,23
+26,286,"Duvar","wall",0,14
+26,296,"Köprü","bridge",0,32
+27,38,"Kurbağa","frog",0,18
+27,55,"Ambulans","ambulance",0,28
+27,58,"Gemi/Vapur","boat",0,21
+27,59,"Helikopter","helicopter",0,21
+27,63,"Motosiklet","motorcycle",0,17
+27,65,"Traktör","tractor",0,31
+27,78,"Kova","bucket",0,25
+27,87,"Tüfek","gun",0,24
+27,119,"Limon","lemon",1,10
+27,157,"Bilezik","bracelet",0,26
+27,160,"Ceket","jacket",0,13
+27,168,"Etek","skirt",1,13
+27,177,"Palto","coat",0,15
+27,179,"Pijama","pajamas",1,14
+27,224,"Çekiç","hammer",0,24
+27,237,"Radyo","radio",0,3
+27,253,"Fırın","oven",1,18
+27,286,"Duvar","wall",0,14
+27,296,"Köprü","bridge",0,32
+28,38,"Kurbağa","frog",0,18
+28,55,"Ambulans","ambulance",0,28
+28,58,"Gemi/Vapur","boat",1,21
+28,59,"Helikopter","helicopter",0,21
+28,63,"Motosiklet","motorcycle",0,17
+28,65,"Traktör","tractor",0,31
+28,78,"Kova","bucket",1,25
+28,87,"Tüfek","gun",0,24
+28,157,"Bilezik","bracelet",0,26
+28,160,"Ceket","jacket",0,13
+28,177,"Palto","coat",0,15
+28,224,"Çekiç","hammer",0,24
+28,237,"Radyo","radio",0,3
+28,286,"Duvar","wall",1,14
+28,296,"Köprü","bridge",0,32
+29,38,"Kurbağa","frog",1,18
+29,55,"Ambulans","ambulance",0,28
+29,59,"Helikopter","helicopter",0,21
+29,63,"Motosiklet","motorcycle",1,17
+29,65,"Traktör","tractor",0,31
+29,87,"Tüfek","gun",0,24
+29,157,"Bilezik","bracelet",1,26
+29,160,"Ceket","jacket",0,13
+29,177,"Palto","coat",0,15
+29,224,"Çekiç","hammer",0,24
+29,237,"Radyo","radio",0,3
+29,296,"Köprü","bridge",0,32
+30,55,"Ambulans","ambulance",0,28
+30,59,"Helikopter","helicopter",0,21
+30,65,"Traktör","tractor",0,31
+30,87,"Tüfek","gun",0,24
+30,160,"Ceket","jacket",1,13
+30,177,"Palto","coat",0,15
+30,224,"Çekiç","hammer",0,24
+30,237,"Radyo","radio",1,3
+30,296,"Köprü","bridge",1,32
+31,55,"Ambulans","ambulance",0,28
+31,59,"Helikopter","helicopter",0,21
+31,65,"Traktör","tractor",0,31
+31,87,"Tüfek","gun",0,24
+31,177,"Palto","coat",0,15
+31,224,"Çekiç","hammer",0,24
+32,55,"Ambulans","ambulance",0,28
+32,59,"Helikopter","helicopter",1,21
+32,65,"Traktör","tractor",0,31
+32,87,"Tüfek","gun",1,24
+32,177,"Palto","coat",0,15
+32,224,"Çekiç","hammer",0,24
+33,55,"Ambulans","ambulance",1,28
+33,65,"Traktör","tractor",1,31
+33,177,"Palto","coat",1,15
+33,224,"Çekiç","hammer",1,24

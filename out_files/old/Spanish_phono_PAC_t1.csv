@@ -1,0 +1,2317 @@
+"month","item","definition","uni_lemma","learned","value"
+16,13,"víbora",NA,0,0
+16,15,"vaca","cow",0,1
+16,16,"tortuga","turtle",0,0
+16,18,"ratón","mouse",0,0
+16,19,"rana","frog",0,0
+16,20,"puerco","pig",0,0
+16,21,"pollito","chick",0,0
+16,23,"pescado","fish (animal)",0,4
+16,24,"perro","dog",0,0
+16,25,"pato","duck",0,5
+16,26,"pájaro","bird",0,0
+16,27,"oso","bear",0,0
+16,28,"mosco",NA,0,1
+16,29,"mosca","fly (animal)",0,1
+16,30,"mono","monkey",0,2
+16,31,"mariposa","butterfly",0,0
+16,32,"lobo","wolf",0,1
+16,33,"león","lion",0,0
+16,34,"jirafa","giraffe",0,0
+16,35,"hormiga","ant",0,0
+16,38,"gato","cat",0,1
+16,40,"gallina","hen",0,0
+16,41,"foca",NA,0,1
+16,42,"elefante","elephant",0,0
+16,43,"conejo","bunny",0,0
+16,46,"caballo","horse",0,0
+16,47,"burro","donkey",0,0
+16,50,"borrego","lamb",0,0
+16,53,"araña","spider",0,0
+16,54,"animal","animal",0,0
+16,55,"abeja","bee",0,0
+16,57,"triciclo (vehicles)",NA,0,4
+16,58,"tren","train",0,0
+16,60,"moto","motorcycle",0,1
+16,61,"helicóptero","helicopter",0,0
+16,62,"carro/coche","car",0,0
+16,64,"camión/troca","truck",0,0
+16,66,"bicicleta","bicycle",0,0
+16,67,"barco","boat",0,1
+16,68,"avión","airplane",0,0
+16,70,"agua","water (beverage)",1,0
+16,71,"arroz","rice",0,0
+16,72,"atole","atole",0,0
+16,73,"atún",NA,0,0
+16,74,"azúcar",NA,0,0
+16,75,"café","coffee",0,0
+16,77,"carne","meat",0,0
+16,79,"chícharo",NA,0,0
+16,80,"chicle",NA,0,1
+16,81,"chile","chili",0,1
+16,82,"chocolate",NA,0,0
+16,83,"comida","food",0,0
+16,84,"dulce","candy",0,0
+16,85,"durazno",NA,0,0
+16,87,"elote",NA,0,0
+16,89,"fresa",NA,0,0
+16,90,"frijoles","beans",0,0
+16,91,"galleta","cookie",0,0
+16,92,"gelatina",NA,0,0
+16,94,"helado/nieve","ice cream",0,0
+16,95,"hielo",NA,0,2
+16,97,"huevo","egg",0,0
+16,98,"jamón","ham",0,1
+16,99,"jugo","juice",0,0
+16,100,"leche","milk",1,0
+16,103,"cacahuete/maní",NA,0,0
+16,105,"manzana","apple",0,0
+16,106,"melón",NA,0,0
+16,108,"naranja","orange (food)",0,0
+16,109,"paleta","lollipop",0,0
+16,110,"palomitas",NA,0,0
+16,111,"pan","bread",1,0
+16,113,"papas",NA,0,1
+16,114,"papitas",NA,0,0
+16,115,"pasas",NA,0,1
+16,116,"pastel","cake",0,0
+16,118,"pescado (food_drink)",NA,0,4
+16,119,"plátano/banana","banana",0,0
+16,120,"pollo","chicken (food)",0,0
+16,121,"quesadilla","quesadilla",0,0
+16,122,"queso","cheese",0,0
+16,123,"sal",NA,0,2
+16,124,"salchicha","hot dog",0,0
+16,126,"sandía",NA,0,0
+16,127,"soda/refresco","soda",0,1
+16,128,"sopa","soup",0,2
+16,129,"taco",NA,0,0
+16,130,"té (food)",NA,0,0
+16,131,"torta/lonche",NA,0,0
+16,132,"tortilla","tortilla",0,0
+16,133,"uvas","grapes",0,0
+16,136,"yoghurt",NA,0,0
+16,137,"zanahoria",NA,0,0
+16,138,"botón","button",0,0
+16,140,"calcetín","sock",0,0
+16,141,"calzón","underpants",0,0
+16,142,"camisa",NA,0,0
+16,143,"chancla",NA,0,0
+16,146,"falda","skirt",0,0
+16,147,"gorra",NA,0,0
+16,148,"guantes",NA,0,0
+16,149,"lentes","glasses",0,0
+16,151,"pañal","diaper",0,0
+16,152,"pantalón","pants",0,0
+16,153,"pijama","pajamas",0,0
+16,154,"playera","t-shirt",0,0
+16,155,"ropa",NA,0,1
+16,156,"shorts","shorts",0,0
+16,157,"sombrero","hat",0,0
+16,158,"suéter","sweater",0,0
+16,159,"vestido","dress (object)",0,0
+16,160,"zapato","shoe",1,0
+16,162,"bigote","moustache",0,0
+16,163,"boca","mouth",0,2
+16,164,"brazo","arm",0,0
+16,165,"cabeza","head",0,0
+16,166,"cachete","cheek",0,0
+16,167,"cara","face",0,2
+16,168,"chichi/pecho","breast",0,0
+16,169,"dedo","finger",0,0
+16,170,"dientes","tooth",0,0
+16,171,"garganta/anginas",NA,0,0
+16,172,"hombro",NA,0,0
+16,173,"labios",NA,0,0
+16,174,"lengua","tongue",0,0
+16,175,"mano","hand",0,1
+16,176,"nalgas",NA,0,0
+16,177,"nariz","nose",0,0
+16,178,"ojos","eye",0,1
+16,179,"ombligo","belly button",0,0
+16,180,"oreja","ear",0,0
+16,181,"panza","tummy",0,0
+16,182,"pelo","hair",0,2
+16,183,"pene","penis",0,1
+16,184,"piernas","leg",0,0
+16,185,"pies","foot",0,0
+16,186,"rodilla","knee",0,0
+16,189,"burbujas",NA,0,0
+16,190,"colores",NA,0,0
+16,191,"crayolas",NA,0,0
+16,192,"globo/bomba","balloon",0,1
+16,193,"hoja/papel",NA,0,1
+16,194,"juguete","toy (object)",0,0
+16,195,"lápiz","pen/pencil",0,0
+16,196,"libro","book",0,0
+16,197,"muñeca","doll",0,0
+16,198,"osito","teddybear",0,0
+16,199,"patines",NA,0,0
+16,200,"pelota","ball",1,0
+16,201,"pinturas",NA,0,0
+16,203,"pluma/plumones",NA,0,0
+16,204,"tambor","drum",0,0
+16,205,"triciclo (toys)",NA,0,4
+16,206,"botas","boots",0,0
+16,207,"bolsa (clothing)","purse",0,4
+16,208,"babero","bib",0,0
+16,209,"aretes","earrings",0,0
+16,211,"almohada","pillow",0,0
+16,213,"basura","trash",0,0
+16,214,"bolsa (household)",NA,0,4
+16,215,"botella/mamila","bottle",0,0
+16,216,"caja","box",0,2
+16,219,"cassette",NA,0,0
+16,220,"cepillo de dientes","toothbrush",0,0
+16,221,"cepillo","brush (object)",0,0
+16,222,"cerillos",NA,0,0
+16,223,"chupón/chupete","pacifier",0,0
+16,224,"cigarros","cigarette",0,0
+16,226,"cobija","blanket",0,0
+16,228,"cubeta",NA,0,0
+16,229,"cuchara","spoon",0,0
+16,230,"cuchillo","knife",0,0
+16,231,"dinero","money",0,0
+16,232,"escoba","broom",0,0
+16,233,"espejo","mirror",0,0
+16,234,"fotos","photos",0,0
+16,235,"jabón","soap",0,1
+16,236,"lámpara",NA,0,0
+16,237,"llave","keys",0,0
+16,238,"luz","light",0,0
+16,240,"medicina","medicine",0,0
+16,241,"olla",NA,0,0
+16,243,"papel","paper",0,0
+16,244,"pasta de dientes",NA,0,0
+16,245,"peine","comb (object)",0,1
+16,247,"plancha",NA,0,1
+16,248,"plato","plate",0,1
+16,249,"radio","radio",0,0
+16,250,"reloj","watch (object)",0,0
+16,251,"servilleta",NA,0,0
+16,253,"taza","cup",0,0
+16,254,"teléfono","telephone",0,0
+16,255,"tenedor","fork",0,0
+16,256,"tijeras","scissors",0,0
+16,257,"toalla","towel",0,0
+16,258,"trapo","cloth",0,0
+16,259,"vasos","glass",0,0
+16,260,"vela","candle",0,0
+16,262,"árbol","tree",0,0
+16,263,"bandera",NA,0,0
+16,264,"cielo","sky",0,1
+16,266,"columpio","swing (object)",0,0
+16,267,"estrella","star",0,0
+16,268,"flor","flower",0,0
+16,270,"hojas",NA,0,2
+16,272,"lluvia","rain",0,0
+16,273,"luna","moon",0,1
+16,274,"maceta",NA,0,0
+16,275,"manguera",NA,0,0
+16,278,"nube","cloud",0,0
+16,280,"palo",NA,0,2
+16,281,"pasto",NA,0,1
+16,282,"piedra","rock (object)",0,0
+16,283,"planta","plant",0,1
+16,285,"resbaladilla","slide (object)",0,0
+16,286,"sol","sun",0,1
+16,288,"techo","roof",0,0
+16,289,"tierra",NA,0,0
+16,290,"timbre",NA,0,0
+16,291,"viento/aire",NA,0,0
+16,292,"bacinica","potty",0,0
+16,293,"banco (outside)",NA,0,1
+16,294,"baño","bathroom",0,0
+16,295,"cajón","drawer",0,0
+16,296,"cama","bed",0,2
+16,297,"champú",NA,0,0
+16,299,"cocina","kitchen",0,0
+16,301,"cuarto","room",0,0
+16,302,"cuna","crib",0,1
+16,303,"escaleras","stairs",0,0
+16,304,"estufa","stove",0,0
+16,307,"lavadora",NA,0,0
+16,309,"mesa","table",0,0
+16,311,"patio (outside)",NA,0,1
+16,312,"puerta","door",0,0
+16,314,"refrigerador","refrigerator",0,0
+16,315,"regadera/ducha","shower",0,0
+16,317,"sala","living room",0,1
+16,319,"silla","chair",0,0
+16,320,"sillón",NA,0,0
+16,322,"televisión","tv",0,0
+16,323,"tina","bathtub",0,0
+16,324,"ventana","window",0,0
+17,13,"víbora",NA,0,0
+17,15,"vaca","cow",0,1
+17,16,"tortuga","turtle",0,0
+17,18,"ratón","mouse",0,0
+17,19,"rana","frog",0,0
+17,20,"puerco","pig",0,0
+17,21,"pollito","chick",0,0
+17,23,"pescado","fish (animal)",0,4
+17,24,"perro","dog",0,0
+17,25,"pato","duck",0,5
+17,26,"pájaro","bird",0,0
+17,27,"oso","bear",0,0
+17,28,"mosco",NA,0,1
+17,29,"mosca","fly (animal)",0,1
+17,30,"mono","monkey",0,2
+17,31,"mariposa","butterfly",0,0
+17,32,"lobo","wolf",0,1
+17,33,"león","lion",0,0
+17,34,"jirafa","giraffe",0,0
+17,35,"hormiga","ant",0,0
+17,38,"gato","cat",0,1
+17,40,"gallina","hen",0,0
+17,41,"foca",NA,0,1
+17,42,"elefante","elephant",0,0
+17,43,"conejo","bunny",0,0
+17,46,"caballo","horse",0,0
+17,47,"burro","donkey",0,0
+17,50,"borrego","lamb",0,0
+17,53,"araña","spider",0,0
+17,54,"animal","animal",0,0
+17,55,"abeja","bee",0,0
+17,57,"triciclo (vehicles)",NA,0,4
+17,58,"tren","train",0,0
+17,60,"moto","motorcycle",0,1
+17,61,"helicóptero","helicopter",0,0
+17,62,"carro/coche","car",0,0
+17,64,"camión/troca","truck",0,0
+17,66,"bicicleta","bicycle",0,0
+17,67,"barco","boat",0,1
+17,68,"avión","airplane",0,0
+17,71,"arroz","rice",0,0
+17,72,"atole","atole",0,0
+17,73,"atún",NA,0,0
+17,74,"azúcar",NA,0,0
+17,75,"café","coffee",0,0
+17,77,"carne","meat",0,0
+17,79,"chícharo",NA,0,0
+17,80,"chicle",NA,0,1
+17,81,"chile","chili",0,1
+17,82,"chocolate",NA,0,0
+17,83,"comida","food",0,0
+17,84,"dulce","candy",0,0
+17,85,"durazno",NA,0,0
+17,87,"elote",NA,0,0
+17,89,"fresa",NA,0,0
+17,90,"frijoles","beans",0,0
+17,91,"galleta","cookie",0,0
+17,92,"gelatina",NA,0,0
+17,94,"helado/nieve","ice cream",0,0
+17,95,"hielo",NA,0,2
+17,97,"huevo","egg",0,0
+17,98,"jamón","ham",0,1
+17,99,"jugo","juice",0,0
+17,103,"cacahuete/maní",NA,0,0
+17,105,"manzana","apple",0,0
+17,106,"melón",NA,0,0
+17,108,"naranja","orange (food)",0,0
+17,109,"paleta","lollipop",0,0
+17,110,"palomitas",NA,0,0
+17,113,"papas",NA,0,1
+17,114,"papitas",NA,0,0
+17,115,"pasas",NA,0,1
+17,116,"pastel","cake",0,0
+17,118,"pescado (food_drink)",NA,0,4
+17,119,"plátano/banana","banana",0,0
+17,120,"pollo","chicken (food)",0,0
+17,121,"quesadilla","quesadilla",0,0
+17,122,"queso","cheese",0,0
+17,123,"sal",NA,0,2
+17,124,"salchicha","hot dog",0,0
+17,126,"sandía",NA,0,0
+17,127,"soda/refresco","soda",0,1
+17,128,"sopa","soup",0,2
+17,129,"taco",NA,0,0
+17,130,"té (food)",NA,0,0
+17,131,"torta/lonche",NA,0,0
+17,132,"tortilla","tortilla",0,0
+17,133,"uvas","grapes",0,0
+17,136,"yoghurt",NA,0,0
+17,137,"zanahoria",NA,0,0
+17,138,"botón","button",0,0
+17,140,"calcetín","sock",0,0
+17,141,"calzón","underpants",0,0
+17,142,"camisa",NA,0,0
+17,143,"chancla",NA,0,0
+17,146,"falda","skirt",0,0
+17,147,"gorra",NA,0,0
+17,148,"guantes",NA,0,0
+17,149,"lentes","glasses",0,0
+17,151,"pañal","diaper",0,0
+17,152,"pantalón","pants",0,0
+17,153,"pijama","pajamas",0,0
+17,154,"playera","t-shirt",0,0
+17,155,"ropa",NA,0,1
+17,156,"shorts","shorts",0,0
+17,157,"sombrero","hat",0,0
+17,158,"suéter","sweater",0,0
+17,159,"vestido","dress (object)",0,0
+17,162,"bigote","moustache",0,0
+17,163,"boca","mouth",0,2
+17,164,"brazo","arm",0,0
+17,165,"cabeza","head",0,0
+17,166,"cachete","cheek",0,0
+17,167,"cara","face",0,2
+17,168,"chichi/pecho","breast",0,0
+17,169,"dedo","finger",0,0
+17,170,"dientes","tooth",0,0
+17,171,"garganta/anginas",NA,0,0
+17,172,"hombro",NA,0,0
+17,173,"labios",NA,0,0
+17,174,"lengua","tongue",0,0
+17,175,"mano","hand",0,1
+17,176,"nalgas",NA,0,0
+17,177,"nariz","nose",0,0
+17,178,"ojos","eye",0,1
+17,179,"ombligo","belly button",0,0
+17,180,"oreja","ear",0,0
+17,181,"panza","tummy",0,0
+17,182,"pelo","hair",0,2
+17,183,"pene","penis",0,1
+17,184,"piernas","leg",0,0
+17,185,"pies","foot",0,0
+17,186,"rodilla","knee",0,0
+17,189,"burbujas",NA,0,0
+17,190,"colores",NA,0,0
+17,191,"crayolas",NA,0,0
+17,192,"globo/bomba","balloon",0,1
+17,193,"hoja/papel",NA,0,1
+17,194,"juguete","toy (object)",0,0
+17,195,"lápiz","pen/pencil",0,0
+17,196,"libro","book",0,0
+17,197,"muñeca","doll",0,0
+17,198,"osito","teddybear",0,0
+17,199,"patines",NA,0,0
+17,201,"pinturas",NA,0,0
+17,203,"pluma/plumones",NA,0,0
+17,204,"tambor","drum",0,0
+17,205,"triciclo (toys)",NA,0,4
+17,206,"botas","boots",0,0
+17,207,"bolsa (clothing)","purse",0,4
+17,208,"babero","bib",0,0
+17,209,"aretes","earrings",0,0
+17,211,"almohada","pillow",0,0
+17,213,"basura","trash",0,0
+17,214,"bolsa (household)",NA,0,4
+17,215,"botella/mamila","bottle",0,0
+17,216,"caja","box",0,2
+17,219,"cassette",NA,0,0
+17,220,"cepillo de dientes","toothbrush",0,0
+17,221,"cepillo","brush (object)",0,0
+17,222,"cerillos",NA,0,0
+17,223,"chupón/chupete","pacifier",0,0
+17,224,"cigarros","cigarette",0,0
+17,226,"cobija","blanket",0,0
+17,228,"cubeta",NA,0,0
+17,229,"cuchara","spoon",0,0
+17,230,"cuchillo","knife",0,0
+17,231,"dinero","money",0,0
+17,232,"escoba","broom",0,0
+17,233,"espejo","mirror",0,0
+17,234,"fotos","photos",0,0
+17,235,"jabón","soap",0,1
+17,236,"lámpara",NA,0,0
+17,237,"llave","keys",0,0
+17,238,"luz","light",0,0
+17,240,"medicina","medicine",0,0
+17,241,"olla",NA,0,0
+17,243,"papel","paper",0,0
+17,244,"pasta de dientes",NA,0,0
+17,245,"peine","comb (object)",0,1
+17,247,"plancha",NA,0,1
+17,248,"plato","plate",0,1
+17,249,"radio","radio",0,0
+17,250,"reloj","watch (object)",0,0
+17,251,"servilleta",NA,0,0
+17,253,"taza","cup",0,0
+17,254,"teléfono","telephone",0,0
+17,255,"tenedor","fork",0,0
+17,256,"tijeras","scissors",0,0
+17,257,"toalla","towel",0,0
+17,258,"trapo","cloth",0,0
+17,259,"vasos","glass",0,0
+17,260,"vela","candle",0,0
+17,262,"árbol","tree",0,0
+17,263,"bandera",NA,0,0
+17,264,"cielo","sky",0,1
+17,266,"columpio","swing (object)",0,0
+17,267,"estrella","star",0,0
+17,268,"flor","flower",0,0
+17,270,"hojas",NA,0,2
+17,272,"lluvia","rain",0,0
+17,273,"luna","moon",0,1
+17,274,"maceta",NA,0,0
+17,275,"manguera",NA,0,0
+17,278,"nube","cloud",0,0
+17,280,"palo",NA,0,2
+17,281,"pasto",NA,0,1
+17,282,"piedra","rock (object)",0,0
+17,283,"planta","plant",0,1
+17,285,"resbaladilla","slide (object)",0,0
+17,286,"sol","sun",0,1
+17,288,"techo","roof",0,0
+17,289,"tierra",NA,0,0
+17,290,"timbre",NA,0,0
+17,291,"viento/aire",NA,0,0
+17,292,"bacinica","potty",0,0
+17,293,"banco (outside)",NA,0,1
+17,294,"baño","bathroom",0,0
+17,295,"cajón","drawer",0,0
+17,296,"cama","bed",0,2
+17,297,"champú",NA,0,0
+17,299,"cocina","kitchen",0,0
+17,301,"cuarto","room",0,0
+17,302,"cuna","crib",0,1
+17,303,"escaleras","stairs",0,0
+17,304,"estufa","stove",0,0
+17,307,"lavadora",NA,0,0
+17,309,"mesa","table",0,0
+17,311,"patio (outside)",NA,0,1
+17,312,"puerta","door",0,0
+17,314,"refrigerador","refrigerator",0,0
+17,315,"regadera/ducha","shower",0,0
+17,317,"sala","living room",0,1
+17,319,"silla","chair",0,0
+17,320,"sillón",NA,0,0
+17,322,"televisión","tv",0,0
+17,323,"tina","bathtub",0,0
+17,324,"ventana","window",0,0
+18,13,"víbora",NA,0,0
+18,15,"vaca","cow",0,1
+18,16,"tortuga","turtle",0,0
+18,18,"ratón","mouse",0,0
+18,19,"rana","frog",0,0
+18,20,"puerco","pig",0,0
+18,21,"pollito","chick",0,0
+18,23,"pescado","fish (animal)",0,4
+18,24,"perro","dog",1,0
+18,25,"pato","duck",0,5
+18,26,"pájaro","bird",0,0
+18,27,"oso","bear",0,0
+18,28,"mosco",NA,0,1
+18,29,"mosca","fly (animal)",0,1
+18,30,"mono","monkey",0,2
+18,31,"mariposa","butterfly",0,0
+18,32,"lobo","wolf",0,1
+18,33,"león","lion",0,0
+18,34,"jirafa","giraffe",0,0
+18,35,"hormiga","ant",0,0
+18,38,"gato","cat",0,1
+18,40,"gallina","hen",0,0
+18,41,"foca",NA,0,1
+18,42,"elefante","elephant",0,0
+18,43,"conejo","bunny",0,0
+18,46,"caballo","horse",0,0
+18,47,"burro","donkey",0,0
+18,50,"borrego","lamb",0,0
+18,53,"araña","spider",0,0
+18,54,"animal","animal",0,0
+18,55,"abeja","bee",0,0
+18,57,"triciclo (vehicles)",NA,0,4
+18,58,"tren","train",0,0
+18,60,"moto","motorcycle",0,1
+18,61,"helicóptero","helicopter",0,0
+18,62,"carro/coche","car",1,0
+18,64,"camión/troca","truck",0,0
+18,66,"bicicleta","bicycle",0,0
+18,67,"barco","boat",0,1
+18,68,"avión","airplane",0,0
+18,71,"arroz","rice",0,0
+18,72,"atole","atole",0,0
+18,73,"atún",NA,0,0
+18,74,"azúcar",NA,0,0
+18,75,"café","coffee",0,0
+18,77,"carne","meat",0,0
+18,79,"chícharo",NA,0,0
+18,80,"chicle",NA,0,1
+18,81,"chile","chili",0,1
+18,82,"chocolate",NA,0,0
+18,83,"comida","food",0,0
+18,84,"dulce","candy",0,0
+18,85,"durazno",NA,0,0
+18,87,"elote",NA,0,0
+18,89,"fresa",NA,0,0
+18,90,"frijoles","beans",0,0
+18,91,"galleta","cookie",0,0
+18,92,"gelatina",NA,0,0
+18,94,"helado/nieve","ice cream",0,0
+18,95,"hielo",NA,0,2
+18,97,"huevo","egg",0,0
+18,98,"jamón","ham",0,1
+18,99,"jugo","juice",0,0
+18,103,"cacahuete/maní",NA,0,0
+18,105,"manzana","apple",0,0
+18,106,"melón",NA,0,0
+18,108,"naranja","orange (food)",0,0
+18,109,"paleta","lollipop",0,0
+18,110,"palomitas",NA,0,0
+18,113,"papas",NA,1,1
+18,114,"papitas",NA,0,0
+18,115,"pasas",NA,0,1
+18,116,"pastel","cake",0,0
+18,118,"pescado (food_drink)",NA,0,4
+18,119,"plátano/banana","banana",0,0
+18,120,"pollo","chicken (food)",0,0
+18,121,"quesadilla","quesadilla",0,0
+18,122,"queso","cheese",0,0
+18,123,"sal",NA,0,2
+18,124,"salchicha","hot dog",0,0
+18,126,"sandía",NA,0,0
+18,127,"soda/refresco","soda",0,1
+18,128,"sopa","soup",1,2
+18,129,"taco",NA,0,0
+18,130,"té (food)",NA,0,0
+18,131,"torta/lonche",NA,0,0
+18,132,"tortilla","tortilla",0,0
+18,133,"uvas","grapes",0,0
+18,136,"yoghurt",NA,0,0
+18,137,"zanahoria",NA,0,0
+18,138,"botón","button",0,0
+18,140,"calcetín","sock",0,0
+18,141,"calzón","underpants",0,0
+18,142,"camisa",NA,0,0
+18,143,"chancla",NA,0,0
+18,146,"falda","skirt",0,0
+18,147,"gorra",NA,0,0
+18,148,"guantes",NA,0,0
+18,149,"lentes","glasses",0,0
+18,151,"pañal","diaper",0,0
+18,152,"pantalón","pants",0,0
+18,153,"pijama","pajamas",0,0
+18,154,"playera","t-shirt",0,0
+18,155,"ropa",NA,0,1
+18,156,"shorts","shorts",0,0
+18,157,"sombrero","hat",0,0
+18,158,"suéter","sweater",0,0
+18,159,"vestido","dress (object)",0,0
+18,162,"bigote","moustache",0,0
+18,163,"boca","mouth",0,2
+18,164,"brazo","arm",0,0
+18,165,"cabeza","head",0,0
+18,166,"cachete","cheek",0,0
+18,167,"cara","face",0,2
+18,168,"chichi/pecho","breast",0,0
+18,169,"dedo","finger",0,0
+18,170,"dientes","tooth",0,0
+18,171,"garganta/anginas",NA,0,0
+18,172,"hombro",NA,0,0
+18,173,"labios",NA,0,0
+18,174,"lengua","tongue",0,0
+18,175,"mano","hand",1,1
+18,176,"nalgas",NA,0,0
+18,177,"nariz","nose",0,0
+18,178,"ojos","eye",0,1
+18,179,"ombligo","belly button",0,0
+18,180,"oreja","ear",0,0
+18,181,"panza","tummy",0,0
+18,182,"pelo","hair",0,2
+18,183,"pene","penis",0,1
+18,184,"piernas","leg",0,0
+18,185,"pies","foot",0,0
+18,186,"rodilla","knee",0,0
+18,189,"burbujas",NA,0,0
+18,190,"colores",NA,0,0
+18,191,"crayolas",NA,0,0
+18,192,"globo/bomba","balloon",1,1
+18,193,"hoja/papel",NA,0,1
+18,194,"juguete","toy (object)",0,0
+18,195,"lápiz","pen/pencil",0,0
+18,196,"libro","book",0,0
+18,197,"muñeca","doll",0,0
+18,198,"osito","teddybear",0,0
+18,199,"patines",NA,0,0
+18,201,"pinturas",NA,0,0
+18,203,"pluma/plumones",NA,0,0
+18,204,"tambor","drum",0,0
+18,205,"triciclo (toys)",NA,0,4
+18,206,"botas","boots",0,0
+18,207,"bolsa (clothing)","purse",0,4
+18,208,"babero","bib",0,0
+18,209,"aretes","earrings",0,0
+18,211,"almohada","pillow",0,0
+18,213,"basura","trash",0,0
+18,214,"bolsa (household)",NA,0,4
+18,215,"botella/mamila","bottle",0,0
+18,216,"caja","box",0,2
+18,219,"cassette",NA,0,0
+18,220,"cepillo de dientes","toothbrush",0,0
+18,221,"cepillo","brush (object)",0,0
+18,222,"cerillos",NA,0,0
+18,223,"chupón/chupete","pacifier",0,0
+18,224,"cigarros","cigarette",0,0
+18,226,"cobija","blanket",0,0
+18,228,"cubeta",NA,0,0
+18,229,"cuchara","spoon",0,0
+18,230,"cuchillo","knife",0,0
+18,231,"dinero","money",0,0
+18,232,"escoba","broom",0,0
+18,233,"espejo","mirror",0,0
+18,234,"fotos","photos",0,0
+18,235,"jabón","soap",0,1
+18,236,"lámpara",NA,0,0
+18,237,"llave","keys",0,0
+18,238,"luz","light",0,0
+18,240,"medicina","medicine",0,0
+18,241,"olla",NA,0,0
+18,243,"papel","paper",0,0
+18,244,"pasta de dientes",NA,0,0
+18,245,"peine","comb (object)",0,1
+18,247,"plancha",NA,0,1
+18,248,"plato","plate",0,1
+18,249,"radio","radio",0,0
+18,250,"reloj","watch (object)",0,0
+18,251,"servilleta",NA,0,0
+18,253,"taza","cup",0,0
+18,254,"teléfono","telephone",0,0
+18,255,"tenedor","fork",0,0
+18,256,"tijeras","scissors",0,0
+18,257,"toalla","towel",0,0
+18,258,"trapo","cloth",0,0
+18,259,"vasos","glass",0,0
+18,260,"vela","candle",0,0
+18,262,"árbol","tree",0,0
+18,263,"bandera",NA,0,0
+18,264,"cielo","sky",0,1
+18,266,"columpio","swing (object)",0,0
+18,267,"estrella","star",0,0
+18,268,"flor","flower",0,0
+18,270,"hojas",NA,0,2
+18,272,"lluvia","rain",0,0
+18,273,"luna","moon",0,1
+18,274,"maceta",NA,0,0
+18,275,"manguera",NA,0,0
+18,278,"nube","cloud",0,0
+18,280,"palo",NA,0,2
+18,281,"pasto",NA,0,1
+18,282,"piedra","rock (object)",0,0
+18,283,"planta","plant",0,1
+18,285,"resbaladilla","slide (object)",0,0
+18,286,"sol","sun",0,1
+18,288,"techo","roof",0,0
+18,289,"tierra",NA,0,0
+18,290,"timbre",NA,0,0
+18,291,"viento/aire",NA,0,0
+18,292,"bacinica","potty",0,0
+18,293,"banco (outside)",NA,0,1
+18,294,"baño","bathroom",0,0
+18,295,"cajón","drawer",0,0
+18,296,"cama","bed",0,2
+18,297,"champú",NA,0,0
+18,299,"cocina","kitchen",0,0
+18,301,"cuarto","room",0,0
+18,302,"cuna","crib",0,1
+18,303,"escaleras","stairs",0,0
+18,304,"estufa","stove",0,0
+18,307,"lavadora",NA,0,0
+18,309,"mesa","table",0,0
+18,311,"patio (outside)",NA,0,1
+18,312,"puerta","door",0,0
+18,314,"refrigerador","refrigerator",0,0
+18,315,"regadera/ducha","shower",0,0
+18,317,"sala","living room",0,1
+18,319,"silla","chair",0,0
+18,320,"sillón",NA,0,0
+18,322,"televisión","tv",0,0
+18,323,"tina","bathtub",0,0
+18,324,"ventana","window",0,0
+19,13,"víbora",NA,0,0
+19,15,"vaca","cow",0,1
+19,16,"tortuga","turtle",0,0
+19,18,"ratón","mouse",0,0
+19,19,"rana","frog",0,0
+19,20,"puerco","pig",0,0
+19,21,"pollito","chick",0,0
+19,23,"pescado","fish (animal)",0,4
+19,25,"pato","duck",0,5
+19,26,"pájaro","bird",0,0
+19,27,"oso","bear",0,0
+19,28,"mosco",NA,0,1
+19,29,"mosca","fly (animal)",0,1
+19,30,"mono","monkey",0,2
+19,31,"mariposa","butterfly",0,0
+19,32,"lobo","wolf",0,1
+19,33,"león","lion",0,0
+19,34,"jirafa","giraffe",0,0
+19,35,"hormiga","ant",0,0
+19,38,"gato","cat",0,1
+19,40,"gallina","hen",0,0
+19,41,"foca",NA,0,1
+19,42,"elefante","elephant",0,0
+19,43,"conejo","bunny",0,0
+19,46,"caballo","horse",0,0
+19,47,"burro","donkey",0,0
+19,50,"borrego","lamb",0,0
+19,53,"araña","spider",0,0
+19,54,"animal","animal",0,0
+19,55,"abeja","bee",0,0
+19,57,"triciclo (vehicles)",NA,0,4
+19,58,"tren","train",0,0
+19,60,"moto","motorcycle",0,1
+19,61,"helicóptero","helicopter",0,0
+19,64,"camión/troca","truck",0,0
+19,66,"bicicleta","bicycle",0,0
+19,67,"barco","boat",0,1
+19,68,"avión","airplane",0,0
+19,71,"arroz","rice",0,0
+19,72,"atole","atole",0,0
+19,73,"atún",NA,0,0
+19,74,"azúcar",NA,0,0
+19,75,"café","coffee",0,0
+19,77,"carne","meat",0,0
+19,79,"chícharo",NA,0,0
+19,80,"chicle",NA,0,1
+19,81,"chile","chili",0,1
+19,82,"chocolate",NA,0,0
+19,83,"comida","food",0,0
+19,84,"dulce","candy",0,0
+19,85,"durazno",NA,0,0
+19,87,"elote",NA,0,0
+19,89,"fresa",NA,0,0
+19,90,"frijoles","beans",0,0
+19,91,"galleta","cookie",1,0
+19,92,"gelatina",NA,0,0
+19,94,"helado/nieve","ice cream",0,0
+19,95,"hielo",NA,0,2
+19,97,"huevo","egg",0,0
+19,98,"jamón","ham",0,1
+19,99,"jugo","juice",0,0
+19,103,"cacahuete/maní",NA,0,0
+19,105,"manzana","apple",0,0
+19,106,"melón",NA,0,0
+19,108,"naranja","orange (food)",0,0
+19,109,"paleta","lollipop",0,0
+19,110,"palomitas",NA,0,0
+19,114,"papitas",NA,0,0
+19,115,"pasas",NA,0,1
+19,116,"pastel","cake",0,0
+19,118,"pescado (food_drink)",NA,0,4
+19,119,"plátano/banana","banana",0,0
+19,120,"pollo","chicken (food)",0,0
+19,121,"quesadilla","quesadilla",0,0
+19,122,"queso","cheese",0,0
+19,123,"sal",NA,0,2
+19,124,"salchicha","hot dog",0,0
+19,126,"sandía",NA,0,0
+19,127,"soda/refresco","soda",0,1
+19,129,"taco",NA,0,0
+19,130,"té (food)",NA,0,0
+19,131,"torta/lonche",NA,0,0
+19,132,"tortilla","tortilla",0,0
+19,133,"uvas","grapes",0,0
+19,136,"yoghurt",NA,0,0
+19,137,"zanahoria",NA,0,0
+19,138,"botón","button",0,0
+19,140,"calcetín","sock",0,0
+19,141,"calzón","underpants",0,0
+19,142,"camisa",NA,0,0
+19,143,"chancla",NA,0,0
+19,146,"falda","skirt",0,0
+19,147,"gorra",NA,0,0
+19,148,"guantes",NA,0,0
+19,149,"lentes","glasses",0,0
+19,151,"pañal","diaper",1,0
+19,152,"pantalón","pants",0,0
+19,153,"pijama","pajamas",0,0
+19,154,"playera","t-shirt",0,0
+19,155,"ropa",NA,0,1
+19,156,"shorts","shorts",0,0
+19,157,"sombrero","hat",0,0
+19,158,"suéter","sweater",0,0
+19,159,"vestido","dress (object)",0,0
+19,162,"bigote","moustache",0,0
+19,163,"boca","mouth",1,2
+19,164,"brazo","arm",0,0
+19,165,"cabeza","head",1,0
+19,166,"cachete","cheek",0,0
+19,167,"cara","face",0,2
+19,168,"chichi/pecho","breast",0,0
+19,169,"dedo","finger",0,0
+19,170,"dientes","tooth",0,0
+19,171,"garganta/anginas",NA,0,0
+19,172,"hombro",NA,0,0
+19,173,"labios",NA,0,0
+19,174,"lengua","tongue",0,0
+19,176,"nalgas",NA,0,0
+19,177,"nariz","nose",1,0
+19,178,"ojos","eye",1,1
+19,179,"ombligo","belly button",0,0
+19,180,"oreja","ear",0,0
+19,181,"panza","tummy",0,0
+19,182,"pelo","hair",0,2
+19,183,"pene","penis",0,1
+19,184,"piernas","leg",0,0
+19,185,"pies","foot",1,0
+19,186,"rodilla","knee",0,0
+19,189,"burbujas",NA,0,0
+19,190,"colores",NA,0,0
+19,191,"crayolas",NA,0,0
+19,193,"hoja/papel",NA,0,1
+19,194,"juguete","toy (object)",0,0
+19,195,"lápiz","pen/pencil",0,0
+19,196,"libro","book",0,0
+19,197,"muñeca","doll",0,0
+19,198,"osito","teddybear",0,0
+19,199,"patines",NA,0,0
+19,201,"pinturas",NA,0,0
+19,203,"pluma/plumones",NA,0,0
+19,204,"tambor","drum",0,0
+19,205,"triciclo (toys)",NA,0,4
+19,206,"botas","boots",0,0
+19,207,"bolsa (clothing)","purse",0,4
+19,208,"babero","bib",0,0
+19,209,"aretes","earrings",0,0
+19,211,"almohada","pillow",0,0
+19,213,"basura","trash",0,0
+19,214,"bolsa (household)",NA,0,4
+19,215,"botella/mamila","bottle",1,0
+19,216,"caja","box",0,2
+19,219,"cassette",NA,0,0
+19,220,"cepillo de dientes","toothbrush",0,0
+19,221,"cepillo","brush (object)",0,0
+19,222,"cerillos",NA,0,0
+19,223,"chupón/chupete","pacifier",0,0
+19,224,"cigarros","cigarette",0,0
+19,226,"cobija","blanket",0,0
+19,228,"cubeta",NA,0,0
+19,229,"cuchara","spoon",0,0
+19,230,"cuchillo","knife",0,0
+19,231,"dinero","money",0,0
+19,232,"escoba","broom",0,0
+19,233,"espejo","mirror",0,0
+19,234,"fotos","photos",0,0
+19,235,"jabón","soap",0,1
+19,236,"lámpara",NA,0,0
+19,237,"llave","keys",0,0
+19,238,"luz","light",0,0
+19,240,"medicina","medicine",0,0
+19,241,"olla",NA,0,0
+19,243,"papel","paper",0,0
+19,244,"pasta de dientes",NA,0,0
+19,245,"peine","comb (object)",0,1
+19,247,"plancha",NA,0,1
+19,248,"plato","plate",0,1
+19,249,"radio","radio",0,0
+19,250,"reloj","watch (object)",0,0
+19,251,"servilleta",NA,0,0
+19,253,"taza","cup",0,0
+19,254,"teléfono","telephone",0,0
+19,255,"tenedor","fork",0,0
+19,256,"tijeras","scissors",0,0
+19,257,"toalla","towel",0,0
+19,258,"trapo","cloth",0,0
+19,259,"vasos","glass",0,0
+19,260,"vela","candle",0,0
+19,262,"árbol","tree",0,0
+19,263,"bandera",NA,0,0
+19,264,"cielo","sky",0,1
+19,266,"columpio","swing (object)",0,0
+19,267,"estrella","star",0,0
+19,268,"flor","flower",0,0
+19,270,"hojas",NA,0,2
+19,272,"lluvia","rain",0,0
+19,273,"luna","moon",0,1
+19,274,"maceta",NA,0,0
+19,275,"manguera",NA,0,0
+19,278,"nube","cloud",0,0
+19,280,"palo",NA,0,2
+19,281,"pasto",NA,0,1
+19,282,"piedra","rock (object)",0,0
+19,283,"planta","plant",0,1
+19,285,"resbaladilla","slide (object)",0,0
+19,286,"sol","sun",0,1
+19,288,"techo","roof",0,0
+19,289,"tierra",NA,0,0
+19,290,"timbre",NA,0,0
+19,291,"viento/aire",NA,0,0
+19,292,"bacinica","potty",0,0
+19,293,"banco (outside)",NA,0,1
+19,294,"baño","bathroom",0,0
+19,295,"cajón","drawer",0,0
+19,296,"cama","bed",0,2
+19,297,"champú",NA,0,0
+19,299,"cocina","kitchen",0,0
+19,301,"cuarto","room",0,0
+19,302,"cuna","crib",0,1
+19,303,"escaleras","stairs",0,0
+19,304,"estufa","stove",0,0
+19,307,"lavadora",NA,0,0
+19,309,"mesa","table",0,0
+19,311,"patio (outside)",NA,0,1
+19,312,"puerta","door",0,0
+19,314,"refrigerador","refrigerator",0,0
+19,315,"regadera/ducha","shower",0,0
+19,317,"sala","living room",0,1
+19,319,"silla","chair",0,0
+19,320,"sillón",NA,0,0
+19,322,"televisión","tv",0,0
+19,323,"tina","bathtub",0,0
+19,324,"ventana","window",0,0
+20,13,"víbora",NA,0,0
+20,15,"vaca","cow",0,1
+20,16,"tortuga","turtle",0,0
+20,18,"ratón","mouse",0,0
+20,19,"rana","frog",0,0
+20,20,"puerco","pig",0,0
+20,21,"pollito","chick",0,0
+20,23,"pescado","fish (animal)",0,4
+20,25,"pato","duck",0,5
+20,26,"pájaro","bird",0,0
+20,27,"oso","bear",0,0
+20,28,"mosco",NA,0,1
+20,29,"mosca","fly (animal)",0,1
+20,30,"mono","monkey",0,2
+20,31,"mariposa","butterfly",0,0
+20,32,"lobo","wolf",0,1
+20,33,"león","lion",0,0
+20,34,"jirafa","giraffe",0,0
+20,35,"hormiga","ant",0,0
+20,38,"gato","cat",1,1
+20,40,"gallina","hen",0,0
+20,41,"foca",NA,0,1
+20,42,"elefante","elephant",0,0
+20,43,"conejo","bunny",0,0
+20,46,"caballo","horse",1,0
+20,47,"burro","donkey",0,0
+20,50,"borrego","lamb",0,0
+20,53,"araña","spider",0,0
+20,54,"animal","animal",0,0
+20,55,"abeja","bee",0,0
+20,57,"triciclo (vehicles)",NA,0,4
+20,58,"tren","train",0,0
+20,60,"moto","motorcycle",0,1
+20,61,"helicóptero","helicopter",0,0
+20,64,"camión/troca","truck",0,0
+20,66,"bicicleta","bicycle",0,0
+20,67,"barco","boat",0,1
+20,68,"avión","airplane",0,0
+20,71,"arroz","rice",0,0
+20,72,"atole","atole",0,0
+20,73,"atún",NA,0,0
+20,74,"azúcar",NA,0,0
+20,75,"café","coffee",0,0
+20,77,"carne","meat",0,0
+20,79,"chícharo",NA,0,0
+20,80,"chicle",NA,0,1
+20,81,"chile","chili",0,1
+20,82,"chocolate",NA,0,0
+20,83,"comida","food",0,0
+20,84,"dulce","candy",0,0
+20,85,"durazno",NA,0,0
+20,87,"elote",NA,0,0
+20,89,"fresa",NA,0,0
+20,90,"frijoles","beans",0,0
+20,92,"gelatina",NA,0,0
+20,94,"helado/nieve","ice cream",0,0
+20,95,"hielo",NA,0,2
+20,97,"huevo","egg",1,0
+20,98,"jamón","ham",0,1
+20,99,"jugo","juice",1,0
+20,103,"cacahuete/maní",NA,0,0
+20,105,"manzana","apple",0,0
+20,106,"melón",NA,0,0
+20,108,"naranja","orange (food)",0,0
+20,109,"paleta","lollipop",1,0
+20,110,"palomitas",NA,0,0
+20,114,"papitas",NA,0,0
+20,115,"pasas",NA,0,1
+20,116,"pastel","cake",0,0
+20,118,"pescado (food_drink)",NA,0,4
+20,119,"plátano/banana","banana",0,0
+20,120,"pollo","chicken (food)",0,0
+20,121,"quesadilla","quesadilla",0,0
+20,122,"queso","cheese",0,0
+20,123,"sal",NA,0,2
+20,124,"salchicha","hot dog",0,0
+20,126,"sandía",NA,0,0
+20,127,"soda/refresco","soda",1,1
+20,129,"taco",NA,0,0
+20,130,"té (food)",NA,0,0
+20,131,"torta/lonche",NA,0,0
+20,132,"tortilla","tortilla",0,0
+20,133,"uvas","grapes",0,0
+20,136,"yoghurt",NA,0,0
+20,137,"zanahoria",NA,0,0
+20,138,"botón","button",0,0
+20,140,"calcetín","sock",0,0
+20,141,"calzón","underpants",0,0
+20,142,"camisa",NA,0,0
+20,143,"chancla",NA,0,0
+20,146,"falda","skirt",0,0
+20,147,"gorra",NA,0,0
+20,148,"guantes",NA,0,0
+20,149,"lentes","glasses",0,0
+20,152,"pantalón","pants",0,0
+20,153,"pijama","pajamas",0,0
+20,154,"playera","t-shirt",0,0
+20,155,"ropa",NA,0,1
+20,156,"shorts","shorts",0,0
+20,157,"sombrero","hat",0,0
+20,158,"suéter","sweater",0,0
+20,159,"vestido","dress (object)",0,0
+20,162,"bigote","moustache",0,0
+20,164,"brazo","arm",0,0
+20,166,"cachete","cheek",0,0
+20,167,"cara","face",0,2
+20,168,"chichi/pecho","breast",1,0
+20,169,"dedo","finger",0,0
+20,170,"dientes","tooth",0,0
+20,171,"garganta/anginas",NA,0,0
+20,172,"hombro",NA,0,0
+20,173,"labios",NA,0,0
+20,174,"lengua","tongue",0,0
+20,176,"nalgas",NA,0,0
+20,179,"ombligo","belly button",0,0
+20,180,"oreja","ear",0,0
+20,181,"panza","tummy",0,0
+20,182,"pelo","hair",1,2
+20,183,"pene","penis",0,1
+20,184,"piernas","leg",0,0
+20,186,"rodilla","knee",0,0
+20,189,"burbujas",NA,0,0
+20,190,"colores",NA,0,0
+20,191,"crayolas",NA,0,0
+20,193,"hoja/papel",NA,0,1
+20,194,"juguete","toy (object)",0,0
+20,195,"lápiz","pen/pencil",0,0
+20,196,"libro","book",0,0
+20,197,"muñeca","doll",0,0
+20,198,"osito","teddybear",0,0
+20,199,"patines",NA,0,0
+20,201,"pinturas",NA,0,0
+20,203,"pluma/plumones",NA,0,0
+20,204,"tambor","drum",0,0
+20,205,"triciclo (toys)",NA,0,4
+20,206,"botas","boots",0,0
+20,207,"bolsa (clothing)","purse",0,4
+20,208,"babero","bib",0,0
+20,209,"aretes","earrings",0,0
+20,211,"almohada","pillow",0,0
+20,213,"basura","trash",0,0
+20,214,"bolsa (household)",NA,0,4
+20,216,"caja","box",0,2
+20,219,"cassette",NA,0,0
+20,220,"cepillo de dientes","toothbrush",0,0
+20,221,"cepillo","brush (object)",0,0
+20,222,"cerillos",NA,0,0
+20,223,"chupón/chupete","pacifier",0,0
+20,224,"cigarros","cigarette",0,0
+20,226,"cobija","blanket",0,0
+20,228,"cubeta",NA,0,0
+20,229,"cuchara","spoon",0,0
+20,230,"cuchillo","knife",0,0
+20,231,"dinero","money",0,0
+20,232,"escoba","broom",0,0
+20,233,"espejo","mirror",0,0
+20,234,"fotos","photos",0,0
+20,235,"jabón","soap",0,1
+20,236,"lámpara",NA,0,0
+20,237,"llave","keys",0,0
+20,238,"luz","light",0,0
+20,240,"medicina","medicine",0,0
+20,241,"olla",NA,0,0
+20,243,"papel","paper",0,0
+20,244,"pasta de dientes",NA,0,0
+20,245,"peine","comb (object)",0,1
+20,247,"plancha",NA,0,1
+20,248,"plato","plate",0,1
+20,249,"radio","radio",0,0
+20,250,"reloj","watch (object)",0,0
+20,251,"servilleta",NA,0,0
+20,253,"taza","cup",0,0
+20,254,"teléfono","telephone",0,0
+20,255,"tenedor","fork",0,0
+20,256,"tijeras","scissors",0,0
+20,257,"toalla","towel",0,0
+20,258,"trapo","cloth",0,0
+20,259,"vasos","glass",0,0
+20,260,"vela","candle",0,0
+20,262,"árbol","tree",0,0
+20,263,"bandera",NA,0,0
+20,264,"cielo","sky",0,1
+20,266,"columpio","swing (object)",0,0
+20,267,"estrella","star",0,0
+20,268,"flor","flower",0,0
+20,270,"hojas",NA,0,2
+20,272,"lluvia","rain",0,0
+20,273,"luna","moon",0,1
+20,274,"maceta",NA,0,0
+20,275,"manguera",NA,0,0
+20,278,"nube","cloud",0,0
+20,280,"palo",NA,0,2
+20,281,"pasto",NA,0,1
+20,282,"piedra","rock (object)",0,0
+20,283,"planta","plant",0,1
+20,285,"resbaladilla","slide (object)",0,0
+20,286,"sol","sun",0,1
+20,288,"techo","roof",0,0
+20,289,"tierra",NA,0,0
+20,290,"timbre",NA,0,0
+20,291,"viento/aire",NA,0,0
+20,292,"bacinica","potty",0,0
+20,293,"banco (outside)",NA,0,1
+20,294,"baño","bathroom",0,0
+20,295,"cajón","drawer",0,0
+20,296,"cama","bed",1,2
+20,297,"champú",NA,0,0
+20,299,"cocina","kitchen",0,0
+20,301,"cuarto","room",0,0
+20,302,"cuna","crib",0,1
+20,303,"escaleras","stairs",0,0
+20,304,"estufa","stove",0,0
+20,307,"lavadora",NA,0,0
+20,309,"mesa","table",0,0
+20,311,"patio (outside)",NA,0,1
+20,312,"puerta","door",0,0
+20,314,"refrigerador","refrigerator",0,0
+20,315,"regadera/ducha","shower",0,0
+20,317,"sala","living room",0,1
+20,319,"silla","chair",1,0
+20,320,"sillón",NA,0,0
+20,322,"televisión","tv",0,0
+20,323,"tina","bathtub",0,0
+20,324,"ventana","window",0,0
+21,13,"víbora",NA,0,0
+21,15,"vaca","cow",1,1
+21,16,"tortuga","turtle",0,0
+21,18,"ratón","mouse",0,0
+21,19,"rana","frog",0,0
+21,20,"puerco","pig",0,0
+21,21,"pollito","chick",0,0
+21,23,"pescado","fish (animal)",0,4
+21,25,"pato","duck",1,5
+21,26,"pájaro","bird",1,0
+21,27,"oso","bear",1,0
+21,28,"mosco",NA,0,1
+21,29,"mosca","fly (animal)",0,1
+21,30,"mono","monkey",0,2
+21,31,"mariposa","butterfly",0,0
+21,32,"lobo","wolf",0,1
+21,33,"león","lion",0,0
+21,34,"jirafa","giraffe",0,0
+21,35,"hormiga","ant",0,0
+21,40,"gallina","hen",0,0
+21,41,"foca",NA,0,1
+21,42,"elefante","elephant",0,0
+21,43,"conejo","bunny",0,0
+21,47,"burro","donkey",0,0
+21,50,"borrego","lamb",0,0
+21,53,"araña","spider",0,0
+21,54,"animal","animal",0,0
+21,55,"abeja","bee",0,0
+21,57,"triciclo (vehicles)",NA,0,4
+21,58,"tren","train",0,0
+21,60,"moto","motorcycle",0,1
+21,61,"helicóptero","helicopter",0,0
+21,64,"camión/troca","truck",0,0
+21,66,"bicicleta","bicycle",0,0
+21,67,"barco","boat",0,1
+21,68,"avión","airplane",1,0
+21,71,"arroz","rice",0,0
+21,72,"atole","atole",0,0
+21,73,"atún",NA,0,0
+21,74,"azúcar",NA,0,0
+21,75,"café","coffee",0,0
+21,77,"carne","meat",1,0
+21,79,"chícharo",NA,0,0
+21,80,"chicle",NA,0,1
+21,81,"chile","chili",0,1
+21,82,"chocolate",NA,1,0
+21,83,"comida","food",0,0
+21,84,"dulce","candy",0,0
+21,85,"durazno",NA,0,0
+21,87,"elote",NA,0,0
+21,89,"fresa",NA,0,0
+21,90,"frijoles","beans",0,0
+21,92,"gelatina",NA,0,0
+21,94,"helado/nieve","ice cream",0,0
+21,95,"hielo",NA,0,2
+21,98,"jamón","ham",0,1
+21,103,"cacahuete/maní",NA,0,0
+21,105,"manzana","apple",0,0
+21,106,"melón",NA,0,0
+21,108,"naranja","orange (food)",0,0
+21,110,"palomitas",NA,0,0
+21,114,"papitas",NA,0,0
+21,115,"pasas",NA,0,1
+21,116,"pastel","cake",0,0
+21,118,"pescado (food_drink)",NA,0,4
+21,119,"plátano/banana","banana",1,0
+21,120,"pollo","chicken (food)",1,0
+21,121,"quesadilla","quesadilla",0,0
+21,122,"queso","cheese",0,0
+21,123,"sal",NA,0,2
+21,124,"salchicha","hot dog",0,0
+21,126,"sandía",NA,0,0
+21,129,"taco",NA,0,0
+21,130,"té (food)",NA,0,0
+21,131,"torta/lonche",NA,0,0
+21,132,"tortilla","tortilla",0,0
+21,133,"uvas","grapes",0,0
+21,136,"yoghurt",NA,0,0
+21,137,"zanahoria",NA,0,0
+21,138,"botón","button",0,0
+21,140,"calcetín","sock",0,0
+21,141,"calzón","underpants",0,0
+21,142,"camisa",NA,0,0
+21,143,"chancla",NA,0,0
+21,146,"falda","skirt",0,0
+21,147,"gorra",NA,0,0
+21,148,"guantes",NA,0,0
+21,149,"lentes","glasses",0,0
+21,152,"pantalón","pants",0,0
+21,153,"pijama","pajamas",0,0
+21,154,"playera","t-shirt",0,0
+21,155,"ropa",NA,0,1
+21,156,"shorts","shorts",0,0
+21,157,"sombrero","hat",0,0
+21,158,"suéter","sweater",0,0
+21,159,"vestido","dress (object)",0,0
+21,162,"bigote","moustache",0,0
+21,164,"brazo","arm",0,0
+21,166,"cachete","cheek",0,0
+21,167,"cara","face",0,2
+21,169,"dedo","finger",1,0
+21,170,"dientes","tooth",1,0
+21,171,"garganta/anginas",NA,0,0
+21,172,"hombro",NA,0,0
+21,173,"labios",NA,0,0
+21,174,"lengua","tongue",0,0
+21,176,"nalgas",NA,0,0
+21,179,"ombligo","belly button",0,0
+21,180,"oreja","ear",0,0
+21,181,"panza","tummy",0,0
+21,183,"pene","penis",0,1
+21,184,"piernas","leg",0,0
+21,186,"rodilla","knee",0,0
+21,189,"burbujas",NA,0,0
+21,190,"colores",NA,0,0
+21,191,"crayolas",NA,0,0
+21,193,"hoja/papel",NA,0,1
+21,194,"juguete","toy (object)",0,0
+21,195,"lápiz","pen/pencil",0,0
+21,196,"libro","book",0,0
+21,197,"muñeca","doll",0,0
+21,198,"osito","teddybear",0,0
+21,199,"patines",NA,0,0
+21,201,"pinturas",NA,0,0
+21,203,"pluma/plumones",NA,0,0
+21,204,"tambor","drum",0,0
+21,205,"triciclo (toys)",NA,0,4
+21,206,"botas","boots",0,0
+21,207,"bolsa (clothing)","purse",0,4
+21,208,"babero","bib",0,0
+21,209,"aretes","earrings",0,0
+21,211,"almohada","pillow",0,0
+21,213,"basura","trash",1,0
+21,214,"bolsa (household)",NA,0,4
+21,216,"caja","box",0,2
+21,219,"cassette",NA,0,0
+21,220,"cepillo de dientes","toothbrush",0,0
+21,221,"cepillo","brush (object)",0,0
+21,222,"cerillos",NA,0,0
+21,223,"chupón/chupete","pacifier",0,0
+21,224,"cigarros","cigarette",0,0
+21,226,"cobija","blanket",0,0
+21,228,"cubeta",NA,0,0
+21,229,"cuchara","spoon",0,0
+21,230,"cuchillo","knife",0,0
+21,231,"dinero","money",0,0
+21,232,"escoba","broom",0,0
+21,233,"espejo","mirror",0,0
+21,234,"fotos","photos",0,0
+21,235,"jabón","soap",1,1
+21,236,"lámpara",NA,0,0
+21,237,"llave","keys",0,0
+21,238,"luz","light",1,0
+21,240,"medicina","medicine",0,0
+21,241,"olla",NA,0,0
+21,243,"papel","paper",0,0
+21,244,"pasta de dientes",NA,0,0
+21,245,"peine","comb (object)",1,1
+21,247,"plancha",NA,0,1
+21,248,"plato","plate",0,1
+21,249,"radio","radio",0,0
+21,250,"reloj","watch (object)",0,0
+21,251,"servilleta",NA,0,0
+21,253,"taza","cup",0,0
+21,254,"teléfono","telephone",0,0
+21,255,"tenedor","fork",0,0
+21,256,"tijeras","scissors",0,0
+21,257,"toalla","towel",0,0
+21,258,"trapo","cloth",0,0
+21,259,"vasos","glass",0,0
+21,260,"vela","candle",0,0
+21,262,"árbol","tree",0,0
+21,263,"bandera",NA,0,0
+21,264,"cielo","sky",0,1
+21,266,"columpio","swing (object)",0,0
+21,267,"estrella","star",0,0
+21,268,"flor","flower",0,0
+21,270,"hojas",NA,0,2
+21,272,"lluvia","rain",0,0
+21,273,"luna","moon",0,1
+21,274,"maceta",NA,0,0
+21,275,"manguera",NA,0,0
+21,278,"nube","cloud",0,0
+21,280,"palo",NA,0,2
+21,281,"pasto",NA,0,1
+21,282,"piedra","rock (object)",0,0
+21,283,"planta","plant",0,1
+21,285,"resbaladilla","slide (object)",0,0
+21,286,"sol","sun",0,1
+21,288,"techo","roof",0,0
+21,289,"tierra",NA,0,0
+21,290,"timbre",NA,0,0
+21,291,"viento/aire",NA,0,0
+21,292,"bacinica","potty",0,0
+21,293,"banco (outside)",NA,0,1
+21,294,"baño","bathroom",1,0
+21,295,"cajón","drawer",0,0
+21,297,"champú",NA,0,0
+21,299,"cocina","kitchen",0,0
+21,301,"cuarto","room",0,0
+21,302,"cuna","crib",0,1
+21,303,"escaleras","stairs",0,0
+21,304,"estufa","stove",0,0
+21,307,"lavadora",NA,0,0
+21,309,"mesa","table",1,0
+21,311,"patio (outside)",NA,0,1
+21,312,"puerta","door",0,0
+21,314,"refrigerador","refrigerator",0,0
+21,315,"regadera/ducha","shower",0,0
+21,317,"sala","living room",0,1
+21,320,"sillón",NA,0,0
+21,322,"televisión","tv",0,0
+21,323,"tina","bathtub",0,0
+21,324,"ventana","window",0,0
+22,13,"víbora",NA,0,0
+22,16,"tortuga","turtle",0,0
+22,18,"ratón","mouse",0,0
+22,19,"rana","frog",0,0
+22,20,"puerco","pig",0,0
+22,21,"pollito","chick",1,0
+22,23,"pescado","fish (animal)",0,4
+22,28,"mosco",NA,0,1
+22,29,"mosca","fly (animal)",0,1
+22,30,"mono","monkey",0,2
+22,31,"mariposa","butterfly",0,0
+22,32,"lobo","wolf",0,1
+22,33,"león","lion",0,0
+22,34,"jirafa","giraffe",0,0
+22,35,"hormiga","ant",0,0
+22,40,"gallina","hen",0,0
+22,41,"foca",NA,0,1
+22,42,"elefante","elephant",0,0
+22,43,"conejo","bunny",0,0
+22,47,"burro","donkey",0,0
+22,50,"borrego","lamb",0,0
+22,53,"araña","spider",0,0
+22,54,"animal","animal",0,0
+22,55,"abeja","bee",0,0
+22,57,"triciclo (vehicles)",NA,0,4
+22,58,"tren","train",0,0
+22,60,"moto","motorcycle",0,1
+22,61,"helicóptero","helicopter",0,0
+22,64,"camión/troca","truck",0,0
+22,66,"bicicleta","bicycle",0,0
+22,67,"barco","boat",0,1
+22,71,"arroz","rice",0,0
+22,72,"atole","atole",0,0
+22,73,"atún",NA,0,0
+22,74,"azúcar",NA,0,0
+22,75,"café","coffee",0,0
+22,79,"chícharo",NA,0,0
+22,80,"chicle",NA,0,1
+22,81,"chile","chili",1,1
+22,83,"comida","food",0,0
+22,84,"dulce","candy",1,0
+22,85,"durazno",NA,0,0
+22,87,"elote",NA,0,0
+22,89,"fresa",NA,0,0
+22,90,"frijoles","beans",0,0
+22,92,"gelatina",NA,1,0
+22,94,"helado/nieve","ice cream",0,0
+22,95,"hielo",NA,0,2
+22,98,"jamón","ham",0,1
+22,103,"cacahuete/maní",NA,0,0
+22,105,"manzana","apple",0,0
+22,106,"melón",NA,0,0
+22,108,"naranja","orange (food)",0,0
+22,110,"palomitas",NA,0,0
+22,114,"papitas",NA,0,0
+22,115,"pasas",NA,0,1
+22,116,"pastel","cake",0,0
+22,118,"pescado (food_drink)",NA,0,4
+22,121,"quesadilla","quesadilla",0,0
+22,122,"queso","cheese",0,0
+22,123,"sal",NA,0,2
+22,124,"salchicha","hot dog",0,0
+22,126,"sandía",NA,0,0
+22,129,"taco",NA,0,0
+22,130,"té (food)",NA,0,0
+22,131,"torta/lonche",NA,0,0
+22,132,"tortilla","tortilla",1,0
+22,133,"uvas","grapes",0,0
+22,136,"yoghurt",NA,0,0
+22,137,"zanahoria",NA,0,0
+22,138,"botón","button",0,0
+22,140,"calcetín","sock",1,0
+22,141,"calzón","underpants",0,0
+22,142,"camisa",NA,0,0
+22,143,"chancla",NA,0,0
+22,146,"falda","skirt",0,0
+22,147,"gorra",NA,0,0
+22,148,"guantes",NA,0,0
+22,149,"lentes","glasses",0,0
+22,152,"pantalón","pants",0,0
+22,153,"pijama","pajamas",0,0
+22,154,"playera","t-shirt",0,0
+22,155,"ropa",NA,0,1
+22,156,"shorts","shorts",0,0
+22,157,"sombrero","hat",0,0
+22,158,"suéter","sweater",0,0
+22,159,"vestido","dress (object)",0,0
+22,162,"bigote","moustache",0,0
+22,164,"brazo","arm",0,0
+22,166,"cachete","cheek",0,0
+22,167,"cara","face",0,2
+22,171,"garganta/anginas",NA,0,0
+22,172,"hombro",NA,0,0
+22,173,"labios",NA,0,0
+22,174,"lengua","tongue",0,0
+22,176,"nalgas",NA,0,0
+22,179,"ombligo","belly button",0,0
+22,180,"oreja","ear",0,0
+22,181,"panza","tummy",1,0
+22,183,"pene","penis",0,1
+22,184,"piernas","leg",0,0
+22,186,"rodilla","knee",0,0
+22,189,"burbujas",NA,0,0
+22,190,"colores",NA,0,0
+22,191,"crayolas",NA,0,0
+22,193,"hoja/papel",NA,0,1
+22,194,"juguete","toy (object)",0,0
+22,195,"lápiz","pen/pencil",0,0
+22,196,"libro","book",0,0
+22,197,"muñeca","doll",0,0
+22,198,"osito","teddybear",0,0
+22,199,"patines",NA,0,0
+22,201,"pinturas",NA,0,0
+22,203,"pluma/plumones",NA,0,0
+22,204,"tambor","drum",0,0
+22,205,"triciclo (toys)",NA,0,4
+22,206,"botas","boots",0,0
+22,207,"bolsa (clothing)","purse",0,4
+22,208,"babero","bib",0,0
+22,209,"aretes","earrings",0,0
+22,211,"almohada","pillow",0,0
+22,214,"bolsa (household)",NA,0,4
+22,216,"caja","box",0,2
+22,219,"cassette",NA,0,0
+22,220,"cepillo de dientes","toothbrush",0,0
+22,221,"cepillo","brush (object)",1,0
+22,222,"cerillos",NA,0,0
+22,223,"chupón/chupete","pacifier",0,0
+22,224,"cigarros","cigarette",0,0
+22,226,"cobija","blanket",0,0
+22,228,"cubeta",NA,0,0
+22,229,"cuchara","spoon",1,0
+22,230,"cuchillo","knife",0,0
+22,231,"dinero","money",0,0
+22,232,"escoba","broom",0,0
+22,233,"espejo","mirror",0,0
+22,234,"fotos","photos",0,0
+22,236,"lámpara",NA,0,0
+22,237,"llave","keys",0,0
+22,240,"medicina","medicine",0,0
+22,241,"olla",NA,0,0
+22,243,"papel","paper",1,0
+22,244,"pasta de dientes",NA,0,0
+22,247,"plancha",NA,0,1
+22,248,"plato","plate",1,1
+22,249,"radio","radio",0,0
+22,250,"reloj","watch (object)",0,0
+22,251,"servilleta",NA,0,0
+22,253,"taza","cup",0,0
+22,254,"teléfono","telephone",1,0
+22,255,"tenedor","fork",0,0
+22,256,"tijeras","scissors",0,0
+22,257,"toalla","towel",0,0
+22,258,"trapo","cloth",0,0
+22,259,"vasos","glass",1,0
+22,260,"vela","candle",0,0
+22,262,"árbol","tree",0,0
+22,263,"bandera",NA,0,0
+22,264,"cielo","sky",0,1
+22,266,"columpio","swing (object)",0,0
+22,267,"estrella","star",0,0
+22,268,"flor","flower",0,0
+22,270,"hojas",NA,0,2
+22,272,"lluvia","rain",0,0
+22,273,"luna","moon",0,1
+22,274,"maceta",NA,0,0
+22,275,"manguera",NA,0,0
+22,278,"nube","cloud",0,0
+22,280,"palo",NA,0,2
+22,281,"pasto",NA,0,1
+22,282,"piedra","rock (object)",0,0
+22,283,"planta","plant",0,1
+22,285,"resbaladilla","slide (object)",0,0
+22,286,"sol","sun",0,1
+22,288,"techo","roof",0,0
+22,289,"tierra",NA,0,0
+22,290,"timbre",NA,0,0
+22,291,"viento/aire",NA,0,0
+22,292,"bacinica","potty",0,0
+22,293,"banco (outside)",NA,0,1
+22,295,"cajón","drawer",0,0
+22,297,"champú",NA,0,0
+22,299,"cocina","kitchen",0,0
+22,301,"cuarto","room",0,0
+22,302,"cuna","crib",0,1
+22,303,"escaleras","stairs",0,0
+22,304,"estufa","stove",0,0
+22,307,"lavadora",NA,0,0
+22,311,"patio (outside)",NA,0,1
+22,312,"puerta","door",0,0
+22,314,"refrigerador","refrigerator",0,0
+22,315,"regadera/ducha","shower",0,0
+22,317,"sala","living room",0,1
+22,320,"sillón",NA,0,0
+22,322,"televisión","tv",1,0
+22,323,"tina","bathtub",0,0
+22,324,"ventana","window",0,0
+23,13,"víbora",NA,0,0
+23,16,"tortuga","turtle",0,0
+23,18,"ratón","mouse",0,0
+23,19,"rana","frog",0,0
+23,20,"puerco","pig",0,0
+23,23,"pescado","fish (animal)",0,4
+23,28,"mosco",NA,0,1
+23,29,"mosca","fly (animal)",0,1
+23,30,"mono","monkey",0,2
+23,31,"mariposa","butterfly",0,0
+23,32,"lobo","wolf",0,1
+23,33,"león","lion",0,0
+23,34,"jirafa","giraffe",0,0
+23,35,"hormiga","ant",0,0
+23,40,"gallina","hen",0,0
+23,41,"foca",NA,0,1
+23,42,"elefante","elephant",0,0
+23,43,"conejo","bunny",0,0
+23,47,"burro","donkey",0,0
+23,50,"borrego","lamb",0,0
+23,53,"araña","spider",0,0
+23,54,"animal","animal",0,0
+23,55,"abeja","bee",0,0
+23,57,"triciclo (vehicles)",NA,0,4
+23,58,"tren","train",0,0
+23,60,"moto","motorcycle",1,1
+23,61,"helicóptero","helicopter",0,0
+23,64,"camión/troca","truck",0,0
+23,66,"bicicleta","bicycle",0,0
+23,67,"barco","boat",0,1
+23,71,"arroz","rice",1,0
+23,72,"atole","atole",0,0
+23,73,"atún",NA,0,0
+23,74,"azúcar",NA,0,0
+23,75,"café","coffee",0,0
+23,79,"chícharo",NA,0,0
+23,80,"chicle",NA,0,1
+23,83,"comida","food",1,0
+23,85,"durazno",NA,0,0
+23,87,"elote",NA,0,0
+23,89,"fresa",NA,0,0
+23,90,"frijoles","beans",1,0
+23,94,"helado/nieve","ice cream",0,0
+23,95,"hielo",NA,0,2
+23,98,"jamón","ham",1,1
+23,103,"cacahuete/maní",NA,0,0
+23,105,"manzana","apple",1,0
+23,106,"melón",NA,0,0
+23,108,"naranja","orange (food)",1,0
+23,110,"palomitas",NA,0,0
+23,114,"papitas",NA,0,0
+23,115,"pasas",NA,0,1
+23,116,"pastel","cake",1,0
+23,118,"pescado (food_drink)",NA,0,4
+23,121,"quesadilla","quesadilla",0,0
+23,122,"queso","cheese",0,0
+23,123,"sal",NA,1,2
+23,124,"salchicha","hot dog",0,0
+23,126,"sandía",NA,0,0
+23,129,"taco",NA,1,0
+23,130,"té (food)",NA,0,0
+23,131,"torta/lonche",NA,0,0
+23,133,"uvas","grapes",0,0
+23,136,"yoghurt",NA,0,0
+23,137,"zanahoria",NA,0,0
+23,138,"botón","button",0,0
+23,141,"calzón","underpants",1,0
+23,142,"camisa",NA,0,0
+23,143,"chancla",NA,0,0
+23,146,"falda","skirt",0,0
+23,147,"gorra",NA,0,0
+23,148,"guantes",NA,0,0
+23,149,"lentes","glasses",0,0
+23,152,"pantalón","pants",1,0
+23,153,"pijama","pajamas",0,0
+23,154,"playera","t-shirt",0,0
+23,155,"ropa",NA,0,1
+23,156,"shorts","shorts",0,0
+23,157,"sombrero","hat",0,0
+23,158,"suéter","sweater",0,0
+23,159,"vestido","dress (object)",0,0
+23,162,"bigote","moustache",0,0
+23,164,"brazo","arm",0,0
+23,166,"cachete","cheek",0,0
+23,167,"cara","face",1,2
+23,171,"garganta/anginas",NA,0,0
+23,172,"hombro",NA,0,0
+23,173,"labios",NA,0,0
+23,174,"lengua","tongue",1,0
+23,176,"nalgas",NA,0,0
+23,179,"ombligo","belly button",0,0
+23,180,"oreja","ear",1,0
+23,183,"pene","penis",0,1
+23,184,"piernas","leg",0,0
+23,186,"rodilla","knee",0,0
+23,189,"burbujas",NA,0,0
+23,190,"colores",NA,0,0
+23,191,"crayolas",NA,0,0
+23,193,"hoja/papel",NA,1,1
+23,194,"juguete","toy (object)",1,0
+23,195,"lápiz","pen/pencil",1,0
+23,196,"libro","book",0,0
+23,197,"muñeca","doll",1,0
+23,198,"osito","teddybear",1,0
+23,199,"patines",NA,0,0
+23,201,"pinturas",NA,0,0
+23,203,"pluma/plumones",NA,0,0
+23,204,"tambor","drum",0,0
+23,205,"triciclo (toys)",NA,0,4
+23,206,"botas","boots",0,0
+23,207,"bolsa (clothing)","purse",0,4
+23,208,"babero","bib",0,0
+23,209,"aretes","earrings",0,0
+23,211,"almohada","pillow",0,0
+23,214,"bolsa (household)",NA,1,4
+23,216,"caja","box",0,2
+23,219,"cassette",NA,0,0
+23,220,"cepillo de dientes","toothbrush",0,0
+23,222,"cerillos",NA,0,0
+23,223,"chupón/chupete","pacifier",0,0
+23,224,"cigarros","cigarette",0,0
+23,226,"cobija","blanket",0,0
+23,228,"cubeta",NA,0,0
+23,230,"cuchillo","knife",0,0
+23,231,"dinero","money",1,0
+23,232,"escoba","broom",0,0
+23,233,"espejo","mirror",0,0
+23,234,"fotos","photos",1,0
+23,236,"lámpara",NA,0,0
+23,237,"llave","keys",1,0
+23,240,"medicina","medicine",0,0
+23,241,"olla",NA,0,0
+23,244,"pasta de dientes",NA,0,0
+23,247,"plancha",NA,0,1
+23,249,"radio","radio",0,0
+23,250,"reloj","watch (object)",0,0
+23,251,"servilleta",NA,0,0
+23,253,"taza","cup",0,0
+23,255,"tenedor","fork",0,0
+23,256,"tijeras","scissors",0,0
+23,257,"toalla","towel",0,0
+23,258,"trapo","cloth",0,0
+23,260,"vela","candle",0,0
+23,262,"árbol","tree",0,0
+23,263,"bandera",NA,0,0
+23,264,"cielo","sky",0,1
+23,266,"columpio","swing (object)",0,0
+23,267,"estrella","star",0,0
+23,268,"flor","flower",0,0
+23,270,"hojas",NA,0,2
+23,272,"lluvia","rain",0,0
+23,273,"luna","moon",1,1
+23,274,"maceta",NA,0,0
+23,275,"manguera",NA,0,0
+23,278,"nube","cloud",0,0
+23,280,"palo",NA,0,2
+23,281,"pasto",NA,0,1
+23,282,"piedra","rock (object)",0,0
+23,283,"planta","plant",0,1
+23,285,"resbaladilla","slide (object)",0,0
+23,286,"sol","sun",1,1
+23,288,"techo","roof",0,0
+23,289,"tierra",NA,0,0
+23,290,"timbre",NA,0,0
+23,291,"viento/aire",NA,0,0
+23,292,"bacinica","potty",0,0
+23,293,"banco (outside)",NA,0,1
+23,295,"cajón","drawer",0,0
+23,297,"champú",NA,0,0
+23,299,"cocina","kitchen",0,0
+23,301,"cuarto","room",0,0
+23,302,"cuna","crib",1,1
+23,303,"escaleras","stairs",0,0
+23,304,"estufa","stove",0,0
+23,307,"lavadora",NA,0,0
+23,311,"patio (outside)",NA,0,1
+23,312,"puerta","door",1,0
+23,314,"refrigerador","refrigerator",0,0
+23,315,"regadera/ducha","shower",0,0
+23,317,"sala","living room",0,1
+23,320,"sillón",NA,0,0
+23,323,"tina","bathtub",0,0
+23,324,"ventana","window",0,0
+24,13,"víbora",NA,0,0
+24,16,"tortuga","turtle",0,0
+24,18,"ratón","mouse",0,0
+24,19,"rana","frog",0,0
+24,20,"puerco","pig",0,0
+24,23,"pescado","fish (animal)",0,4
+24,28,"mosco",NA,0,1
+24,29,"mosca","fly (animal)",1,1
+24,30,"mono","monkey",0,2
+24,31,"mariposa","butterfly",0,0
+24,32,"lobo","wolf",0,1
+24,33,"león","lion",0,0
+24,34,"jirafa","giraffe",0,0
+24,35,"hormiga","ant",0,0
+24,40,"gallina","hen",0,0
+24,41,"foca",NA,0,1
+24,42,"elefante","elephant",0,0
+24,43,"conejo","bunny",0,0
+24,47,"burro","donkey",1,0
+24,50,"borrego","lamb",0,0
+24,53,"araña","spider",1,0
+24,54,"animal","animal",0,0
+24,55,"abeja","bee",0,0
+24,57,"triciclo (vehicles)",NA,0,4
+24,58,"tren","train",1,0
+24,61,"helicóptero","helicopter",0,0
+24,64,"camión/troca","truck",0,0
+24,66,"bicicleta","bicycle",0,0
+24,67,"barco","boat",0,1
+24,72,"atole","atole",0,0
+24,73,"atún",NA,0,0
+24,74,"azúcar",NA,0,0
+24,75,"café","coffee",0,0
+24,79,"chícharo",NA,0,0
+24,80,"chicle",NA,1,1
+24,85,"durazno",NA,0,0
+24,87,"elote",NA,0,0
+24,89,"fresa",NA,0,0
+24,94,"helado/nieve","ice cream",0,0
+24,95,"hielo",NA,0,2
+24,103,"cacahuete/maní",NA,0,0
+24,106,"melón",NA,0,0
+24,110,"palomitas",NA,0,0
+24,114,"papitas",NA,0,0
+24,115,"pasas",NA,0,1
+24,118,"pescado (food_drink)",NA,0,4
+24,121,"quesadilla","quesadilla",0,0
+24,122,"queso","cheese",1,0
+24,124,"salchicha","hot dog",1,0
+24,126,"sandía",NA,0,0
+24,130,"té (food)",NA,0,0
+24,131,"torta/lonche",NA,0,0
+24,133,"uvas","grapes",1,0
+24,136,"yoghurt",NA,0,0
+24,137,"zanahoria",NA,0,0
+24,138,"botón","button",0,0
+24,142,"camisa",NA,0,0
+24,143,"chancla",NA,0,0
+24,146,"falda","skirt",0,0
+24,147,"gorra",NA,1,0
+24,148,"guantes",NA,0,0
+24,149,"lentes","glasses",0,0
+24,153,"pijama","pajamas",0,0
+24,154,"playera","t-shirt",0,0
+24,155,"ropa",NA,1,1
+24,156,"shorts","shorts",0,0
+24,157,"sombrero","hat",0,0
+24,158,"suéter","sweater",1,0
+24,159,"vestido","dress (object)",0,0
+24,162,"bigote","moustache",0,0
+24,164,"brazo","arm",0,0
+24,166,"cachete","cheek",0,0
+24,171,"garganta/anginas",NA,0,0
+24,172,"hombro",NA,0,0
+24,173,"labios",NA,0,0
+24,176,"nalgas",NA,0,0
+24,179,"ombligo","belly button",0,0
+24,183,"pene","penis",0,1
+24,184,"piernas","leg",0,0
+24,186,"rodilla","knee",0,0
+24,189,"burbujas",NA,0,0
+24,190,"colores",NA,0,0
+24,191,"crayolas",NA,0,0
+24,196,"libro","book",0,0
+24,199,"patines",NA,0,0
+24,201,"pinturas",NA,0,0
+24,203,"pluma/plumones",NA,0,0
+24,204,"tambor","drum",0,0
+24,205,"triciclo (toys)",NA,0,4
+24,206,"botas","boots",0,0
+24,207,"bolsa (clothing)","purse",1,4
+24,208,"babero","bib",0,0
+24,209,"aretes","earrings",0,0
+24,211,"almohada","pillow",0,0
+24,216,"caja","box",0,2
+24,219,"cassette",NA,0,0
+24,220,"cepillo de dientes","toothbrush",1,0
+24,222,"cerillos",NA,0,0
+24,223,"chupón/chupete","pacifier",0,0
+24,224,"cigarros","cigarette",0,0
+24,226,"cobija","blanket",0,0
+24,228,"cubeta",NA,0,0
+24,230,"cuchillo","knife",0,0
+24,232,"escoba","broom",0,0
+24,233,"espejo","mirror",0,0
+24,236,"lámpara",NA,0,0
+24,240,"medicina","medicine",1,0
+24,241,"olla",NA,0,0
+24,244,"pasta de dientes",NA,0,0
+24,247,"plancha",NA,0,1
+24,249,"radio","radio",0,0
+24,250,"reloj","watch (object)",0,0
+24,251,"servilleta",NA,0,0
+24,253,"taza","cup",0,0
+24,255,"tenedor","fork",0,0
+24,256,"tijeras","scissors",0,0
+24,257,"toalla","towel",0,0
+24,258,"trapo","cloth",0,0
+24,260,"vela","candle",0,0
+24,262,"árbol","tree",1,0
+24,263,"bandera",NA,0,0
+24,264,"cielo","sky",0,1
+24,266,"columpio","swing (object)",0,0
+24,267,"estrella","star",0,0
+24,268,"flor","flower",1,0
+24,270,"hojas",NA,0,2
+24,272,"lluvia","rain",0,0
+24,274,"maceta",NA,0,0
+24,275,"manguera",NA,0,0
+24,278,"nube","cloud",0,0
+24,280,"palo",NA,1,2
+24,281,"pasto",NA,0,1
+24,282,"piedra","rock (object)",0,0
+24,283,"planta","plant",0,1
+24,285,"resbaladilla","slide (object)",0,0
+24,288,"techo","roof",0,0
+24,289,"tierra",NA,0,0
+24,290,"timbre",NA,0,0
+24,291,"viento/aire",NA,0,0
+24,292,"bacinica","potty",0,0
+24,293,"banco (outside)",NA,0,1
+24,295,"cajón","drawer",0,0
+24,297,"champú",NA,1,0
+24,299,"cocina","kitchen",0,0
+24,301,"cuarto","room",0,0
+24,303,"escaleras","stairs",0,0
+24,304,"estufa","stove",0,0
+24,307,"lavadora",NA,0,0
+24,311,"patio (outside)",NA,0,1
+24,314,"refrigerador","refrigerator",0,0
+24,315,"regadera/ducha","shower",0,0
+24,317,"sala","living room",0,1
+24,320,"sillón",NA,0,0
+24,323,"tina","bathtub",0,0
+24,324,"ventana","window",0,0
+25,13,"víbora",NA,0,0
+25,16,"tortuga","turtle",1,0
+25,18,"ratón","mouse",1,0
+25,19,"rana","frog",1,0
+25,20,"puerco","pig",0,0
+25,23,"pescado","fish (animal)",1,4
+25,28,"mosco",NA,0,1
+25,30,"mono","monkey",0,2
+25,31,"mariposa","butterfly",0,0
+25,32,"lobo","wolf",0,1
+25,33,"león","lion",1,0
+25,34,"jirafa","giraffe",0,0
+25,35,"hormiga","ant",0,0
+25,40,"gallina","hen",1,0
+25,41,"foca",NA,0,1
+25,42,"elefante","elephant",1,0
+25,43,"conejo","bunny",1,0
+25,50,"borrego","lamb",0,0
+25,54,"animal","animal",0,0
+25,55,"abeja","bee",0,0
+25,57,"triciclo (vehicles)",NA,1,4
+25,61,"helicóptero","helicopter",0,0
+25,64,"camión/troca","truck",1,0
+25,66,"bicicleta","bicycle",1,0
+25,67,"barco","boat",0,1
+25,72,"atole","atole",0,0
+25,73,"atún",NA,0,0
+25,74,"azúcar",NA,1,0
+25,75,"café","coffee",1,0
+25,79,"chícharo",NA,0,0
+25,85,"durazno",NA,0,0
+25,87,"elote",NA,0,0
+25,89,"fresa",NA,0,0
+25,94,"helado/nieve","ice cream",1,0
+25,95,"hielo",NA,0,2
+25,103,"cacahuete/maní",NA,0,0
+25,106,"melón",NA,0,0
+25,110,"palomitas",NA,0,0
+25,114,"papitas",NA,1,0
+25,115,"pasas",NA,0,1
+25,118,"pescado (food_drink)",NA,0,4
+25,121,"quesadilla","quesadilla",0,0
+25,126,"sandía",NA,0,0
+25,130,"té (food)",NA,0,0
+25,131,"torta/lonche",NA,0,0
+25,136,"yoghurt",NA,1,0
+25,137,"zanahoria",NA,0,0
+25,138,"botón","button",1,0
+25,142,"camisa",NA,0,0
+25,143,"chancla",NA,1,0
+25,146,"falda","skirt",0,0
+25,148,"guantes",NA,0,0
+25,149,"lentes","glasses",1,0
+25,153,"pijama","pajamas",0,0
+25,154,"playera","t-shirt",0,0
+25,156,"shorts","shorts",0,0
+25,157,"sombrero","hat",0,0
+25,159,"vestido","dress (object)",0,0
+25,162,"bigote","moustache",0,0
+25,164,"brazo","arm",1,0
+25,166,"cachete","cheek",1,0
+25,171,"garganta/anginas",NA,0,0
+25,172,"hombro",NA,0,0
+25,173,"labios",NA,0,0
+25,176,"nalgas",NA,1,0
+25,179,"ombligo","belly button",0,0
+25,183,"pene","penis",0,1
+25,184,"piernas","leg",1,0
+25,186,"rodilla","knee",0,0
+25,189,"burbujas",NA,0,0
+25,190,"colores",NA,1,0
+25,191,"crayolas",NA,0,0
+25,196,"libro","book",1,0
+25,199,"patines",NA,0,0
+25,201,"pinturas",NA,0,0
+25,203,"pluma/plumones",NA,0,0
+25,204,"tambor","drum",0,0
+25,205,"triciclo (toys)",NA,1,4
+25,206,"botas","boots",1,0
+25,208,"babero","bib",0,0
+25,209,"aretes","earrings",1,0
+25,211,"almohada","pillow",1,0
+25,216,"caja","box",1,2
+25,219,"cassette",NA,0,0
+25,222,"cerillos",NA,0,0
+25,223,"chupón/chupete","pacifier",1,0
+25,224,"cigarros","cigarette",0,0
+25,226,"cobija","blanket",1,0
+25,228,"cubeta",NA,0,0
+25,230,"cuchillo","knife",1,0
+25,232,"escoba","broom",1,0
+25,233,"espejo","mirror",0,0
+25,236,"lámpara",NA,0,0
+25,241,"olla",NA,0,0
+25,244,"pasta de dientes",NA,0,0
+25,247,"plancha",NA,0,1
+25,249,"radio","radio",0,0
+25,250,"reloj","watch (object)",1,0
+25,251,"servilleta",NA,0,0
+25,253,"taza","cup",1,0
+25,255,"tenedor","fork",0,0
+25,256,"tijeras","scissors",0,0
+25,257,"toalla","towel",1,0
+25,258,"trapo","cloth",0,0
+25,260,"vela","candle",0,0
+25,263,"bandera",NA,0,0
+25,264,"cielo","sky",1,1
+25,266,"columpio","swing (object)",0,0
+25,267,"estrella","star",1,0
+25,270,"hojas",NA,0,2
+25,272,"lluvia","rain",1,0
+25,274,"maceta",NA,0,0
+25,275,"manguera",NA,0,0
+25,278,"nube","cloud",0,0
+25,281,"pasto",NA,0,1
+25,282,"piedra","rock (object)",1,0
+25,283,"planta","plant",0,1
+25,285,"resbaladilla","slide (object)",0,0
+25,288,"techo","roof",0,0
+25,289,"tierra",NA,1,0
+25,290,"timbre",NA,0,0
+25,291,"viento/aire",NA,0,0
+25,292,"bacinica","potty",0,0
+25,293,"banco (outside)",NA,0,1
+25,295,"cajón","drawer",0,0
+25,299,"cocina","kitchen",1,0
+25,301,"cuarto","room",1,0
+25,303,"escaleras","stairs",1,0
+25,304,"estufa","stove",0,0
+25,307,"lavadora",NA,0,0
+25,311,"patio (outside)",NA,0,1
+25,314,"refrigerador","refrigerator",0,0
+25,315,"regadera/ducha","shower",0,0
+25,317,"sala","living room",0,1
+25,320,"sillón",NA,1,0
+25,323,"tina","bathtub",0,0
+25,324,"ventana","window",1,0
+26,13,"víbora",NA,0,0
+26,20,"puerco","pig",0,0
+26,28,"mosco",NA,0,1
+26,30,"mono","monkey",1,2
+26,31,"mariposa","butterfly",0,0
+26,32,"lobo","wolf",0,1
+26,34,"jirafa","giraffe",0,0
+26,35,"hormiga","ant",1,0
+26,41,"foca",NA,0,1
+26,50,"borrego","lamb",0,0
+26,54,"animal","animal",1,0
+26,55,"abeja","bee",0,0
+26,61,"helicóptero","helicopter",0,0
+26,67,"barco","boat",0,1
+26,72,"atole","atole",0,0
+26,73,"atún",NA,0,0
+26,79,"chícharo",NA,0,0
+26,85,"durazno",NA,0,0
+26,87,"elote",NA,1,0
+26,89,"fresa",NA,0,0
+26,95,"hielo",NA,0,2
+26,103,"cacahuete/maní",NA,0,0
+26,106,"melón",NA,1,0
+26,110,"palomitas",NA,1,0
+26,115,"pasas",NA,0,1
+26,118,"pescado (food_drink)",NA,0,4
+26,121,"quesadilla","quesadilla",0,0
+26,126,"sandía",NA,0,0
+26,130,"té (food)",NA,0,0
+26,131,"torta/lonche",NA,0,0
+26,137,"zanahoria",NA,0,0
+26,142,"camisa",NA,1,0
+26,146,"falda","skirt",0,0
+26,148,"guantes",NA,0,0
+26,153,"pijama","pajamas",1,0
+26,154,"playera","t-shirt",0,0
+26,156,"shorts","shorts",0,0
+26,157,"sombrero","hat",0,0
+26,159,"vestido","dress (object)",1,0
+26,162,"bigote","moustache",0,0
+26,171,"garganta/anginas",NA,0,0
+26,172,"hombro",NA,0,0
+26,173,"labios",NA,0,0
+26,179,"ombligo","belly button",1,0
+26,183,"pene","penis",1,1
+26,186,"rodilla","knee",1,0
+26,189,"burbujas",NA,0,0
+26,191,"crayolas",NA,0,0
+26,199,"patines",NA,0,0
+26,201,"pinturas",NA,0,0
+26,203,"pluma/plumones",NA,1,0
+26,204,"tambor","drum",0,0
+26,208,"babero","bib",1,0
+26,219,"cassette",NA,0,0
+26,222,"cerillos",NA,0,0
+26,224,"cigarros","cigarette",0,0
+26,228,"cubeta",NA,1,0
+26,233,"espejo","mirror",1,0
+26,236,"lámpara",NA,0,0
+26,241,"olla",NA,0,0
+26,244,"pasta de dientes",NA,1,0
+26,247,"plancha",NA,0,1
+26,249,"radio","radio",1,0
+26,251,"servilleta",NA,1,0
+26,255,"tenedor","fork",1,0
+26,256,"tijeras","scissors",0,0
+26,258,"trapo","cloth",0,0
+26,260,"vela","candle",0,0
+26,263,"bandera",NA,0,0
+26,266,"columpio","swing (object)",1,0
+26,270,"hojas",NA,1,2
+26,274,"maceta",NA,0,0
+26,275,"manguera",NA,0,0
+26,278,"nube","cloud",1,0
+26,281,"pasto",NA,0,1
+26,283,"planta","plant",0,1
+26,285,"resbaladilla","slide (object)",0,0
+26,288,"techo","roof",0,0
+26,290,"timbre",NA,0,0
+26,291,"viento/aire",NA,0,0
+26,292,"bacinica","potty",1,0
+26,293,"banco (outside)",NA,0,1
+26,295,"cajón","drawer",1,0
+26,304,"estufa","stove",0,0
+26,307,"lavadora",NA,0,0
+26,311,"patio (outside)",NA,0,1
+26,314,"refrigerador","refrigerator",0,0
+26,315,"regadera/ducha","shower",0,0
+26,317,"sala","living room",0,1
+26,323,"tina","bathtub",1,0
+27,13,"víbora",NA,0,0
+27,20,"puerco","pig",1,0
+27,28,"mosco",NA,1,1
+27,31,"mariposa","butterfly",0,0
+27,32,"lobo","wolf",0,1
+27,34,"jirafa","giraffe",0,0
+27,41,"foca",NA,0,1
+27,50,"borrego","lamb",1,0
+27,55,"abeja","bee",0,0
+27,61,"helicóptero","helicopter",0,0
+27,67,"barco","boat",1,1
+27,72,"atole","atole",0,0
+27,73,"atún",NA,1,0
+27,79,"chícharo",NA,0,0
+27,85,"durazno",NA,0,0
+27,89,"fresa",NA,1,0
+27,95,"hielo",NA,0,2
+27,103,"cacahuete/maní",NA,1,0
+27,115,"pasas",NA,0,1
+27,118,"pescado (food_drink)",NA,1,4
+27,121,"quesadilla","quesadilla",0,0
+27,126,"sandía",NA,0,0
+27,130,"té (food)",NA,1,0
+27,131,"torta/lonche",NA,0,0
+27,137,"zanahoria",NA,0,0
+27,146,"falda","skirt",0,0
+27,148,"guantes",NA,0,0
+27,154,"playera","t-shirt",0,0
+27,156,"shorts","shorts",0,0
+27,157,"sombrero","hat",1,0
+27,162,"bigote","moustache",0,0
+27,171,"garganta/anginas",NA,0,0
+27,172,"hombro",NA,0,0
+27,173,"labios",NA,1,0
+27,189,"burbujas",NA,0,0
+27,191,"crayolas",NA,0,0
+27,199,"patines",NA,0,0
+27,201,"pinturas",NA,0,0
+27,204,"tambor","drum",0,0
+27,219,"cassette",NA,0,0
+27,222,"cerillos",NA,1,0
+27,224,"cigarros","cigarette",0,0
+27,236,"lámpara",NA,0,0
+27,241,"olla",NA,1,0
+27,247,"plancha",NA,1,1
+27,256,"tijeras","scissors",1,0
+27,258,"trapo","cloth",1,0
+27,260,"vela","candle",0,0
+27,263,"bandera",NA,0,0
+27,274,"maceta",NA,0,0
+27,275,"manguera",NA,0,0
+27,281,"pasto",NA,1,1
+27,283,"planta","plant",1,1
+27,285,"resbaladilla","slide (object)",0,0
+27,288,"techo","roof",0,0
+27,290,"timbre",NA,0,0
+27,291,"viento/aire",NA,1,0
+27,293,"banco (outside)",NA,0,1
+27,304,"estufa","stove",1,0
+27,307,"lavadora",NA,0,0
+27,311,"patio (outside)",NA,0,1
+27,314,"refrigerador","refrigerator",1,0
+27,315,"regadera/ducha","shower",0,0
+27,317,"sala","living room",1,1
+28,13,"víbora",NA,0,0
+28,31,"mariposa","butterfly",1,0
+28,32,"lobo","wolf",0,1
+28,34,"jirafa","giraffe",0,0
+28,41,"foca",NA,0,1
+28,55,"abeja","bee",0,0
+28,61,"helicóptero","helicopter",0,0
+28,72,"atole","atole",0,0
+28,79,"chícharo",NA,0,0
+28,85,"durazno",NA,0,0
+28,95,"hielo",NA,0,2
+28,115,"pasas",NA,0,1
+28,121,"quesadilla","quesadilla",1,0
+28,126,"sandía",NA,1,0
+28,131,"torta/lonche",NA,0,0
+28,137,"zanahoria",NA,1,0
+28,146,"falda","skirt",1,0
+28,148,"guantes",NA,0,0
+28,154,"playera","t-shirt",0,0
+28,156,"shorts","shorts",0,0
+28,162,"bigote","moustache",0,0
+28,171,"garganta/anginas",NA,0,0
+28,172,"hombro",NA,1,0
+28,189,"burbujas",NA,0,0
+28,191,"crayolas",NA,0,0
+28,199,"patines",NA,0,0
+28,201,"pinturas",NA,0,0
+28,204,"tambor","drum",0,0
+28,219,"cassette",NA,1,0
+28,224,"cigarros","cigarette",0,0
+28,236,"lámpara",NA,0,0
+28,260,"vela","candle",0,0
+28,263,"bandera",NA,0,0
+28,274,"maceta",NA,0,0
+28,275,"manguera",NA,0,0
+28,285,"resbaladilla","slide (object)",0,0
+28,288,"techo","roof",0,0
+28,290,"timbre",NA,0,0
+28,293,"banco (outside)",NA,1,1
+28,307,"lavadora",NA,0,0
+28,311,"patio (outside)",NA,1,1
+28,315,"regadera/ducha","shower",1,0
+29,13,"víbora",NA,0,0
+29,32,"lobo","wolf",0,1
+29,34,"jirafa","giraffe",0,0
+29,41,"foca",NA,1,1
+29,55,"abeja","bee",0,0
+29,61,"helicóptero","helicopter",0,0
+29,72,"atole","atole",0,0
+29,79,"chícharo",NA,0,0
+29,85,"durazno",NA,0,0
+29,95,"hielo",NA,1,2
+29,115,"pasas",NA,0,1
+29,131,"torta/lonche",NA,0,0
+29,148,"guantes",NA,0,0
+29,154,"playera","t-shirt",0,0
+29,156,"shorts","shorts",1,0
+29,162,"bigote","moustache",0,0
+29,171,"garganta/anginas",NA,0,0
+29,189,"burbujas",NA,0,0
+29,191,"crayolas",NA,0,0
+29,199,"patines",NA,0,0
+29,201,"pinturas",NA,1,0
+29,204,"tambor","drum",0,0
+29,224,"cigarros","cigarette",0,0
+29,236,"lámpara",NA,0,0
+29,260,"vela","candle",0,0
+29,263,"bandera",NA,0,0
+29,274,"maceta",NA,0,0
+29,275,"manguera",NA,0,0
+29,285,"resbaladilla","slide (object)",1,0
+29,288,"techo","roof",0,0
+29,290,"timbre",NA,0,0
+29,307,"lavadora",NA,0,0
+30,13,"víbora",NA,1,0
+30,32,"lobo","wolf",1,1
+30,34,"jirafa","giraffe",1,0
+30,55,"abeja","bee",1,0
+30,61,"helicóptero","helicopter",1,0
+30,72,"atole","atole",1,0
+30,79,"chícharo",NA,1,0
+30,85,"durazno",NA,1,0
+30,115,"pasas",NA,1,1
+30,131,"torta/lonche",NA,1,0
+30,148,"guantes",NA,1,0
+30,154,"playera","t-shirt",1,0
+30,162,"bigote","moustache",1,0
+30,171,"garganta/anginas",NA,1,0
+30,189,"burbujas",NA,1,0
+30,191,"crayolas",NA,1,0
+30,199,"patines",NA,1,0
+30,204,"tambor","drum",1,0
+30,224,"cigarros","cigarette",1,0
+30,236,"lámpara",NA,1,0
+30,260,"vela","candle",1,0
+30,263,"bandera",NA,1,0
+30,274,"maceta",NA,1,0
+30,275,"manguera",NA,1,0
+30,288,"techo","roof",1,0
+30,290,"timbre",NA,1,0
+30,307,"lavadora",NA,1,0

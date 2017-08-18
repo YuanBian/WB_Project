@@ -1,0 +1,1622 @@
+"age","item","definition","uni_lemma","learned","value"
+"16",13,"(meite)mark","worm",0,0
+"16",14,"and","duck",0,3
+"16",15,"apekatt","monkey",0,0
+"16",16,"bjørn","bear",0,0
+"16",17,"dyr","animal",0,6
+"16",18,"ekorn","squirrel",0,0
+"16",19,"elefant","elephant",0,0
+"16",20,"elg","moose",0,5
+"16",22,"fisk (animal)","fish (animal)",0,10
+"16",23,"flue","fly (animal)",0,3
+"16",24,"frosk","frog",0,4
+"16",25,"fugl","bird",0,1
+"16",26,"gås","goose",0,9
+"16",27,"gris","pig",0,3
+"16",29,"hest","horse",0,2
+"16",31,"hund","dog",0,2
+"16",32,"kanin","bunny",0,2
+"16",33,"katt","cat",0,14
+"16",34,"kattunge","kitty",0,1
+"16",36,"ku","cow",0,13
+"16",37,"kylling (animal)","chicken (animal)",0,4
+"16",38,"lam","lamb",0,7
+"16",39,"(leke)bamse","teddybear",0,0
+"16",40,"løve","lion",0,4
+"16",42,"mus","mouse",0,9
+"16",44,"pingvin","penguin",0,0
+"16",46,"reinsdyr","deer",0,0
+"16",47,"sau","sheep",0,8
+"16",49,"sjiraff","giraffe",0,0
+"16",50,"skilpadde","turtle",0,0
+"16",51,"sommerfugl","butterfly",0,0
+"16",52,"tiger","tiger",0,0
+"16",53,"ugle","owl",0,3
+"16",55,"valp","puppy",0,6
+"16",56,"veps","bee",0,2
+"16",58,"barnevogn","stroller",0,0
+"16",59,"bil","car",0,8
+"16",60,"brannbil","firetruck",0,0
+"16",62,"buss","bus",0,14
+"16",63,"fly","airplane",0,4
+"16",64,"helikopter","helicopter",0,0
+"16",65,"lastebil","truck",0,0
+"16",66,"motorsykkel","motorcycle",0,0
+"16",67,"sykkel","bicycle",0,3
+"16",68,"tog","train",0,10
+"16",69,"traktor","tractor",0,0
+"16",71,"ball","ball",1,12
+"16",72,"ballong","balloon",0,0
+"16",73,"blyant","pen/pencil",0,0
+"16",74,"bok","book",0,8
+"16",75,"klosser","block",0,0
+"16",76,"dukke","doll",0,12
+"16",79,"fargeblyant","pen/pencil",0,0
+"16",82,"leke (object)","toy (object)",0,8
+"16",88,"såpebobler","bubbles",0,0
+"16",91,"appelsin","orange (food)",0,0
+"16",92,"banan","banana",0,1
+"16",93,"boller","bun",0,1
+"16",95,"brød","bread",0,1
+"16",98,"corn flakes","cheerios",0,0
+"16",100,"drikke (beverage)","drink (beverage)",0,2
+"16",102,"egg","egg",0,7
+"16",103,"eple","apple",0,5
+"16",105,"fisk (food)","fish (food)",0,10
+"16",110,"gulrot","carrots",0,0
+"16",112,"is","ice cream",0,12
+"16",114,"juice","juice",0,4
+"16",115,"kaffe","coffee",0,0
+"16",116,"kake","cake",0,7
+"16",117,"kjeks","cracker",0,2
+"16",118,"kjøtt","meat",0,5
+"16",121,"kylling (food)","chicken (food)",0,4
+"16",123,"mat","food",0,11
+"16",125,"melk","milk",0,1
+"16",129,"ost","cheese",0,7
+"16",131,"pasta","pasta",0,0
+"16",132,"pizza","pizza",0,0
+"16",140,"rosiner","raisin",0,0
+"16",146,"smør","butter",0,3
+"16",147,"spagetti","pasta",0,0
+"16",148,"sukkertøy","candy",0,0
+"16",155,"vann (beverage)","water (beverage)",0,18
+"16",158,"bleie","diaper",0,0
+"16",159,"bukse","pants",0,2
+"16",161,"genser","sweater",0,1
+"16",162,"glidelås","zipper",0,0
+"16",163,"halskjede","necklace",0,0
+"16",165,"jakke","jacket",0,6
+"16",167,"kjole","dress (object)",0,4
+"16",168,"knapper","button",0,0
+"16",169,"lue","hat",0,15
+"16",170,"pysjamas","pajamas",0,0
+"16",171,"regntøy","coat",0,0
+"16",173,"shorts","shorts",0,0
+"16",174,"skjerf","scarf",0,0
+"16",176,"sko","shoe",0,9
+"16",177,"smekke","bib",0,1
+"16",178,"smokk","pacifier",0,2
+"16",179,"sokker","sock",0,2
+"16",180,"støvler","boots",0,0
+"16",181,"strømpebukse","tights",0,0
+"16",183,"t-skjorte","t-shirt",0,0
+"16",186,"votter","mittens",0,1
+"16",188,"ansikt","face",0,0
+"16",189,"arm","arm",0,4
+"16",190,"bein","leg",0,1
+"16",191,"finger","finger",0,1
+"16",192,"fot","foot",0,9
+"16",194,"hånd","hand",0,2
+"16",195,"hår","hair",0,5
+"16",196,"hode","head",0,1
+"16",197,"kinn","cheek",0,8
+"16",198,"kne","knee",0,9
+"16",200,"mage","tummy",0,3
+"16",201,"munn","mouth",0,13
+"16",202,"navle","belly button",0,0
+"16",203,"nese","nose",0,1
+"16",204,"øre","ear",0,6
+"16",205,"øye","eye",0,6
+"16",210,"tenner","tooth",0,1
+"16",211,"tiss","penis",0,13
+"16",212,"tunge","tongue",0,6
+"16",213,"tå","toe",0,9
+"16",214,"bilde","picture",0,0
+"16",216,"børste","brush (object)",0,0
+"16",219,"briller","glasses",0,1
+"16",221,"dyne","blanket",0,4
+"16",222,"eske","box",0,8
+"16",224,"flaske","bottle",0,0
+"16",226,"gaffel","fork",0,0
+"16",227,"glass","glass",0,3
+"16",228,"hammer","hammer",0,1
+"16",229,"håndkle","towel",0,0
+"16",230,"kam","comb (object)",0,10
+"16",234,"klokke","clock",0,2
+"16",235,"kniv","knife",0,2
+"16",236,"kopp","cup",0,4
+"16",237,"kost","broom",0,3
+"16",240,"lampe","lamp",0,0
+"16",241,"lommebok","purse",0,0
+"16",242,"lys","light",0,11
+"16",243,"medisin","medicine",0,0
+"16",244,"nøkler","keys",0,0
+"16",245,"papir","paper",0,0
+"16",246,"penger","money",0,1
+"16",247,"plante","plant",0,0
+"16",248,"pute","pillow",0,4
+"16",249,"radio","radio",0,0
+"16",250,"saks","scissors",0,3
+"16",251,"såpe","soap",0,3
+"16",254,"skål","bowl",0,4
+"16",255,"skje","spoon",0,6
+"16",256,"søppel","trash",0,1
+"16",258,"støvsuger","vacuum",0,0
+"16",259,"tallerken","plate",0,0
+"16",260,"tannbørste","toothbrush",0,0
+"16",261,"telefon","telephone",0,0
+"16",262,"teppe","blanket",0,4
+"16",263,"veske","purse",0,3
+"16",264,"bad","bathroom",0,11
+"16",265,"badekar","bathtub",0,0
+"16",268,"barnestol","high chair",0,0
+"16",269,"bord","table",0,11
+"16",271,"dør","door",0,5
+"16",273,"garasje","garage",0,0
+"16",276,"kjøkken","kitchen",0,0
+"16",277,"kjøleskap","refrigerator",0,0
+"16",278,"komfyr","stove",0,0
+"16",280,"ovn","oven",0,7
+"16",282,"potte","potty",0,1
+"16",284,"seng","bed",0,6
+"16",286,"skuff","drawer",0,0
+"16",287,"sofa","couch",0,1
+"16",288,"soverom","bedroom",0,0
+"16",289,"stol","chair",0,5
+"16",290,"stue","living room",0,5
+"16",293,"trapp","stairs",0,1
+"16",294,"TV","tv",0,1
+"16",295,"vask","sink",0,10
+"16",297,"vindu","window",0,0
+"16",300,"blomst","flower",0,0
+"16",306,"himmel","sky",0,1
+"16",307,"huske (object)","swing (object)",0,4
+"16",309,"måne","moon",0,4
+"16",311,"regn","rain",0,1
+"16",313,"sklie","slide (object)",0,0
+"16",315,"snø","snow",0,7
+"16",317,"sol","sun",0,14
+"16",318,"spade","shovel",0,0
+"16",319,"steiner","rock (object)",0,1
+"16",321,"stjerner","star",0,1
+"16",324,"tre","tree",0,9
+"16",325,"vann (not beverage)","water (not beverage)",0,18
+"17",13,"(meite)mark","worm",0,0
+"17",14,"and","duck",0,3
+"17",15,"apekatt","monkey",0,0
+"17",16,"bjørn","bear",0,0
+"17",17,"dyr","animal",0,6
+"17",18,"ekorn","squirrel",0,0
+"17",19,"elefant","elephant",0,0
+"17",20,"elg","moose",0,5
+"17",22,"fisk (animal)","fish (animal)",0,10
+"17",23,"flue","fly (animal)",0,3
+"17",24,"frosk","frog",0,4
+"17",25,"fugl","bird",0,1
+"17",26,"gås","goose",0,9
+"17",27,"gris","pig",0,3
+"17",29,"hest","horse",0,2
+"17",31,"hund","dog",0,2
+"17",32,"kanin","bunny",0,2
+"17",33,"katt","cat",0,14
+"17",34,"kattunge","kitty",0,1
+"17",36,"ku","cow",0,13
+"17",37,"kylling (animal)","chicken (animal)",0,4
+"17",38,"lam","lamb",0,7
+"17",39,"(leke)bamse","teddybear",0,0
+"17",40,"løve","lion",0,4
+"17",42,"mus","mouse",0,9
+"17",44,"pingvin","penguin",0,0
+"17",46,"reinsdyr","deer",0,0
+"17",47,"sau","sheep",0,8
+"17",49,"sjiraff","giraffe",0,0
+"17",50,"skilpadde","turtle",0,0
+"17",51,"sommerfugl","butterfly",0,0
+"17",52,"tiger","tiger",0,0
+"17",53,"ugle","owl",0,3
+"17",55,"valp","puppy",0,6
+"17",56,"veps","bee",0,2
+"17",58,"barnevogn","stroller",0,0
+"17",59,"bil","car",0,8
+"17",60,"brannbil","firetruck",0,0
+"17",62,"buss","bus",0,14
+"17",63,"fly","airplane",0,4
+"17",64,"helikopter","helicopter",0,0
+"17",65,"lastebil","truck",0,0
+"17",66,"motorsykkel","motorcycle",0,0
+"17",67,"sykkel","bicycle",0,3
+"17",68,"tog","train",0,10
+"17",69,"traktor","tractor",0,0
+"17",72,"ballong","balloon",0,0
+"17",73,"blyant","pen/pencil",0,0
+"17",74,"bok","book",0,8
+"17",75,"klosser","block",0,0
+"17",76,"dukke","doll",0,12
+"17",79,"fargeblyant","pen/pencil",0,0
+"17",82,"leke (object)","toy (object)",0,8
+"17",88,"såpebobler","bubbles",0,0
+"17",91,"appelsin","orange (food)",0,0
+"17",92,"banan","banana",1,1
+"17",93,"boller","bun",0,1
+"17",95,"brød","bread",0,1
+"17",98,"corn flakes","cheerios",0,0
+"17",100,"drikke (beverage)","drink (beverage)",0,2
+"17",102,"egg","egg",0,7
+"17",103,"eple","apple",0,5
+"17",105,"fisk (food)","fish (food)",0,10
+"17",110,"gulrot","carrots",0,0
+"17",112,"is","ice cream",0,12
+"17",114,"juice","juice",0,4
+"17",115,"kaffe","coffee",0,0
+"17",116,"kake","cake",0,7
+"17",117,"kjeks","cracker",0,2
+"17",118,"kjøtt","meat",0,5
+"17",121,"kylling (food)","chicken (food)",0,4
+"17",123,"mat","food",0,11
+"17",125,"melk","milk",0,1
+"17",129,"ost","cheese",0,7
+"17",131,"pasta","pasta",0,0
+"17",132,"pizza","pizza",0,0
+"17",140,"rosiner","raisin",0,0
+"17",146,"smør","butter",0,3
+"17",147,"spagetti","pasta",0,0
+"17",148,"sukkertøy","candy",0,0
+"17",155,"vann (beverage)","water (beverage)",0,18
+"17",158,"bleie","diaper",0,0
+"17",159,"bukse","pants",0,2
+"17",161,"genser","sweater",0,1
+"17",162,"glidelås","zipper",0,0
+"17",163,"halskjede","necklace",0,0
+"17",165,"jakke","jacket",0,6
+"17",167,"kjole","dress (object)",0,4
+"17",168,"knapper","button",0,0
+"17",169,"lue","hat",0,15
+"17",170,"pysjamas","pajamas",0,0
+"17",171,"regntøy","coat",0,0
+"17",173,"shorts","shorts",0,0
+"17",174,"skjerf","scarf",0,0
+"17",176,"sko","shoe",0,9
+"17",177,"smekke","bib",0,1
+"17",178,"smokk","pacifier",0,2
+"17",179,"sokker","sock",0,2
+"17",180,"støvler","boots",0,0
+"17",181,"strømpebukse","tights",0,0
+"17",183,"t-skjorte","t-shirt",0,0
+"17",186,"votter","mittens",0,1
+"17",188,"ansikt","face",0,0
+"17",189,"arm","arm",0,4
+"17",190,"bein","leg",0,1
+"17",191,"finger","finger",0,1
+"17",192,"fot","foot",0,9
+"17",194,"hånd","hand",0,2
+"17",195,"hår","hair",0,5
+"17",196,"hode","head",0,1
+"17",197,"kinn","cheek",0,8
+"17",198,"kne","knee",0,9
+"17",200,"mage","tummy",0,3
+"17",201,"munn","mouth",0,13
+"17",202,"navle","belly button",0,0
+"17",203,"nese","nose",0,1
+"17",204,"øre","ear",0,6
+"17",205,"øye","eye",0,6
+"17",210,"tenner","tooth",0,1
+"17",211,"tiss","penis",0,13
+"17",212,"tunge","tongue",0,6
+"17",213,"tå","toe",0,9
+"17",214,"bilde","picture",0,0
+"17",216,"børste","brush (object)",0,0
+"17",219,"briller","glasses",0,1
+"17",221,"dyne","blanket",0,4
+"17",222,"eske","box",0,8
+"17",224,"flaske","bottle",0,0
+"17",226,"gaffel","fork",0,0
+"17",227,"glass","glass",0,3
+"17",228,"hammer","hammer",0,1
+"17",229,"håndkle","towel",0,0
+"17",230,"kam","comb (object)",0,10
+"17",234,"klokke","clock",0,2
+"17",235,"kniv","knife",0,2
+"17",236,"kopp","cup",0,4
+"17",237,"kost","broom",0,3
+"17",240,"lampe","lamp",0,0
+"17",241,"lommebok","purse",0,0
+"17",242,"lys","light",0,11
+"17",243,"medisin","medicine",0,0
+"17",244,"nøkler","keys",0,0
+"17",245,"papir","paper",0,0
+"17",246,"penger","money",0,1
+"17",247,"plante","plant",0,0
+"17",248,"pute","pillow",0,4
+"17",249,"radio","radio",0,0
+"17",250,"saks","scissors",0,3
+"17",251,"såpe","soap",0,3
+"17",254,"skål","bowl",0,4
+"17",255,"skje","spoon",0,6
+"17",256,"søppel","trash",0,1
+"17",258,"støvsuger","vacuum",0,0
+"17",259,"tallerken","plate",0,0
+"17",260,"tannbørste","toothbrush",0,0
+"17",261,"telefon","telephone",0,0
+"17",262,"teppe","blanket",0,4
+"17",263,"veske","purse",0,3
+"17",264,"bad","bathroom",0,11
+"17",265,"badekar","bathtub",0,0
+"17",268,"barnestol","high chair",0,0
+"17",269,"bord","table",0,11
+"17",271,"dør","door",0,5
+"17",273,"garasje","garage",0,0
+"17",276,"kjøkken","kitchen",0,0
+"17",277,"kjøleskap","refrigerator",0,0
+"17",278,"komfyr","stove",0,0
+"17",280,"ovn","oven",0,7
+"17",282,"potte","potty",0,1
+"17",284,"seng","bed",0,6
+"17",286,"skuff","drawer",0,0
+"17",287,"sofa","couch",0,1
+"17",288,"soverom","bedroom",0,0
+"17",289,"stol","chair",0,5
+"17",290,"stue","living room",0,5
+"17",293,"trapp","stairs",0,1
+"17",294,"TV","tv",0,1
+"17",295,"vask","sink",0,10
+"17",297,"vindu","window",0,0
+"17",300,"blomst","flower",0,0
+"17",306,"himmel","sky",0,1
+"17",307,"huske (object)","swing (object)",0,4
+"17",309,"måne","moon",0,4
+"17",311,"regn","rain",0,1
+"17",313,"sklie","slide (object)",0,0
+"17",315,"snø","snow",0,7
+"17",317,"sol","sun",0,14
+"17",318,"spade","shovel",0,0
+"17",319,"steiner","rock (object)",0,1
+"17",321,"stjerner","star",0,1
+"17",324,"tre","tree",0,9
+"17",325,"vann (not beverage)","water (not beverage)",0,18
+"18",13,"(meite)mark","worm",0,0
+"18",14,"and","duck",0,3
+"18",15,"apekatt","monkey",0,0
+"18",16,"bjørn","bear",0,0
+"18",17,"dyr","animal",0,6
+"18",18,"ekorn","squirrel",0,0
+"18",19,"elefant","elephant",0,0
+"18",20,"elg","moose",0,5
+"18",22,"fisk (animal)","fish (animal)",0,10
+"18",23,"flue","fly (animal)",0,3
+"18",24,"frosk","frog",0,4
+"18",25,"fugl","bird",0,1
+"18",26,"gås","goose",0,9
+"18",27,"gris","pig",0,3
+"18",29,"hest","horse",0,2
+"18",31,"hund","dog",0,2
+"18",32,"kanin","bunny",0,2
+"18",33,"katt","cat",0,14
+"18",34,"kattunge","kitty",0,1
+"18",36,"ku","cow",0,13
+"18",37,"kylling (animal)","chicken (animal)",0,4
+"18",38,"lam","lamb",0,7
+"18",39,"(leke)bamse","teddybear",0,0
+"18",40,"løve","lion",0,4
+"18",42,"mus","mouse",0,9
+"18",44,"pingvin","penguin",0,0
+"18",46,"reinsdyr","deer",0,0
+"18",47,"sau","sheep",0,8
+"18",49,"sjiraff","giraffe",0,0
+"18",50,"skilpadde","turtle",0,0
+"18",51,"sommerfugl","butterfly",0,0
+"18",52,"tiger","tiger",0,0
+"18",53,"ugle","owl",0,3
+"18",55,"valp","puppy",0,6
+"18",56,"veps","bee",0,2
+"18",58,"barnevogn","stroller",0,0
+"18",59,"bil","car",1,8
+"18",60,"brannbil","firetruck",0,0
+"18",62,"buss","bus",0,14
+"18",63,"fly","airplane",0,4
+"18",64,"helikopter","helicopter",0,0
+"18",65,"lastebil","truck",0,0
+"18",66,"motorsykkel","motorcycle",0,0
+"18",67,"sykkel","bicycle",0,3
+"18",68,"tog","train",0,10
+"18",69,"traktor","tractor",0,0
+"18",72,"ballong","balloon",0,0
+"18",73,"blyant","pen/pencil",0,0
+"18",74,"bok","book",1,8
+"18",75,"klosser","block",0,0
+"18",76,"dukke","doll",0,12
+"18",79,"fargeblyant","pen/pencil",0,0
+"18",82,"leke (object)","toy (object)",0,8
+"18",88,"såpebobler","bubbles",0,0
+"18",91,"appelsin","orange (food)",0,0
+"18",93,"boller","bun",0,1
+"18",95,"brød","bread",0,1
+"18",98,"corn flakes","cheerios",0,0
+"18",100,"drikke (beverage)","drink (beverage)",0,2
+"18",102,"egg","egg",0,7
+"18",103,"eple","apple",0,5
+"18",105,"fisk (food)","fish (food)",0,10
+"18",110,"gulrot","carrots",0,0
+"18",112,"is","ice cream",0,12
+"18",114,"juice","juice",0,4
+"18",115,"kaffe","coffee",0,0
+"18",116,"kake","cake",0,7
+"18",117,"kjeks","cracker",0,2
+"18",118,"kjøtt","meat",0,5
+"18",121,"kylling (food)","chicken (food)",0,4
+"18",123,"mat","food",0,11
+"18",125,"melk","milk",0,1
+"18",129,"ost","cheese",0,7
+"18",131,"pasta","pasta",0,0
+"18",132,"pizza","pizza",0,0
+"18",140,"rosiner","raisin",0,0
+"18",146,"smør","butter",0,3
+"18",147,"spagetti","pasta",0,0
+"18",148,"sukkertøy","candy",0,0
+"18",155,"vann (beverage)","water (beverage)",0,18
+"18",158,"bleie","diaper",1,0
+"18",159,"bukse","pants",0,2
+"18",161,"genser","sweater",0,1
+"18",162,"glidelås","zipper",0,0
+"18",163,"halskjede","necklace",0,0
+"18",165,"jakke","jacket",0,6
+"18",167,"kjole","dress (object)",0,4
+"18",168,"knapper","button",0,0
+"18",169,"lue","hat",0,15
+"18",170,"pysjamas","pajamas",0,0
+"18",171,"regntøy","coat",0,0
+"18",173,"shorts","shorts",0,0
+"18",174,"skjerf","scarf",0,0
+"18",176,"sko","shoe",1,9
+"18",177,"smekke","bib",0,1
+"18",178,"smokk","pacifier",0,2
+"18",179,"sokker","sock",0,2
+"18",180,"støvler","boots",0,0
+"18",181,"strømpebukse","tights",0,0
+"18",183,"t-skjorte","t-shirt",0,0
+"18",186,"votter","mittens",0,1
+"18",188,"ansikt","face",0,0
+"18",189,"arm","arm",0,4
+"18",190,"bein","leg",0,1
+"18",191,"finger","finger",0,1
+"18",192,"fot","foot",0,9
+"18",194,"hånd","hand",0,2
+"18",195,"hår","hair",0,5
+"18",196,"hode","head",0,1
+"18",197,"kinn","cheek",0,8
+"18",198,"kne","knee",0,9
+"18",200,"mage","tummy",0,3
+"18",201,"munn","mouth",0,13
+"18",202,"navle","belly button",0,0
+"18",203,"nese","nose",0,1
+"18",204,"øre","ear",0,6
+"18",205,"øye","eye",0,6
+"18",210,"tenner","tooth",0,1
+"18",211,"tiss","penis",0,13
+"18",212,"tunge","tongue",0,6
+"18",213,"tå","toe",0,9
+"18",214,"bilde","picture",0,0
+"18",216,"børste","brush (object)",0,0
+"18",219,"briller","glasses",0,1
+"18",221,"dyne","blanket",0,4
+"18",222,"eske","box",0,8
+"18",224,"flaske","bottle",0,0
+"18",226,"gaffel","fork",0,0
+"18",227,"glass","glass",0,3
+"18",228,"hammer","hammer",0,1
+"18",229,"håndkle","towel",0,0
+"18",230,"kam","comb (object)",0,10
+"18",234,"klokke","clock",0,2
+"18",235,"kniv","knife",0,2
+"18",236,"kopp","cup",0,4
+"18",237,"kost","broom",0,3
+"18",240,"lampe","lamp",0,0
+"18",241,"lommebok","purse",0,0
+"18",242,"lys","light",1,11
+"18",243,"medisin","medicine",0,0
+"18",244,"nøkler","keys",0,0
+"18",245,"papir","paper",0,0
+"18",246,"penger","money",0,1
+"18",247,"plante","plant",0,0
+"18",248,"pute","pillow",0,4
+"18",249,"radio","radio",0,0
+"18",250,"saks","scissors",0,3
+"18",251,"såpe","soap",0,3
+"18",254,"skål","bowl",0,4
+"18",255,"skje","spoon",0,6
+"18",256,"søppel","trash",0,1
+"18",258,"støvsuger","vacuum",0,0
+"18",259,"tallerken","plate",0,0
+"18",260,"tannbørste","toothbrush",0,0
+"18",261,"telefon","telephone",0,0
+"18",262,"teppe","blanket",0,4
+"18",263,"veske","purse",0,3
+"18",264,"bad","bathroom",0,11
+"18",265,"badekar","bathtub",0,0
+"18",268,"barnestol","high chair",0,0
+"18",269,"bord","table",0,11
+"18",271,"dør","door",0,5
+"18",273,"garasje","garage",0,0
+"18",276,"kjøkken","kitchen",0,0
+"18",277,"kjøleskap","refrigerator",0,0
+"18",278,"komfyr","stove",0,0
+"18",280,"ovn","oven",0,7
+"18",282,"potte","potty",0,1
+"18",284,"seng","bed",0,6
+"18",286,"skuff","drawer",0,0
+"18",287,"sofa","couch",0,1
+"18",288,"soverom","bedroom",0,0
+"18",289,"stol","chair",0,5
+"18",290,"stue","living room",0,5
+"18",293,"trapp","stairs",0,1
+"18",294,"TV","tv",0,1
+"18",295,"vask","sink",0,10
+"18",297,"vindu","window",0,0
+"18",300,"blomst","flower",0,0
+"18",306,"himmel","sky",0,1
+"18",307,"huske (object)","swing (object)",0,4
+"18",309,"måne","moon",0,4
+"18",311,"regn","rain",0,1
+"18",313,"sklie","slide (object)",0,0
+"18",315,"snø","snow",0,7
+"18",317,"sol","sun",0,14
+"18",318,"spade","shovel",0,0
+"18",319,"steiner","rock (object)",0,1
+"18",321,"stjerner","star",0,1
+"18",324,"tre","tree",0,9
+"18",325,"vann (not beverage)","water (not beverage)",0,18
+"19",13,"(meite)mark","worm",0,0
+"19",14,"and","duck",0,3
+"19",15,"apekatt","monkey",0,0
+"19",16,"bjørn","bear",0,0
+"19",17,"dyr","animal",0,6
+"19",18,"ekorn","squirrel",0,0
+"19",19,"elefant","elephant",0,0
+"19",20,"elg","moose",0,5
+"19",22,"fisk (animal)","fish (animal)",0,10
+"19",23,"flue","fly (animal)",0,3
+"19",24,"frosk","frog",0,4
+"19",25,"fugl","bird",0,1
+"19",26,"gås","goose",0,9
+"19",27,"gris","pig",0,3
+"19",29,"hest","horse",1,2
+"19",31,"hund","dog",0,2
+"19",32,"kanin","bunny",0,2
+"19",33,"katt","cat",1,14
+"19",34,"kattunge","kitty",0,1
+"19",36,"ku","cow",0,13
+"19",37,"kylling (animal)","chicken (animal)",0,4
+"19",38,"lam","lamb",0,7
+"19",39,"(leke)bamse","teddybear",0,0
+"19",40,"løve","lion",0,4
+"19",42,"mus","mouse",0,9
+"19",44,"pingvin","penguin",0,0
+"19",46,"reinsdyr","deer",0,0
+"19",47,"sau","sheep",0,8
+"19",49,"sjiraff","giraffe",0,0
+"19",50,"skilpadde","turtle",0,0
+"19",51,"sommerfugl","butterfly",0,0
+"19",52,"tiger","tiger",0,0
+"19",53,"ugle","owl",0,3
+"19",55,"valp","puppy",0,6
+"19",56,"veps","bee",0,2
+"19",58,"barnevogn","stroller",0,0
+"19",60,"brannbil","firetruck",0,0
+"19",62,"buss","bus",0,14
+"19",63,"fly","airplane",0,4
+"19",64,"helikopter","helicopter",0,0
+"19",65,"lastebil","truck",0,0
+"19",66,"motorsykkel","motorcycle",0,0
+"19",67,"sykkel","bicycle",0,3
+"19",68,"tog","train",0,10
+"19",69,"traktor","tractor",0,0
+"19",72,"ballong","balloon",0,0
+"19",73,"blyant","pen/pencil",0,0
+"19",75,"klosser","block",0,0
+"19",76,"dukke","doll",0,12
+"19",79,"fargeblyant","pen/pencil",0,0
+"19",82,"leke (object)","toy (object)",0,8
+"19",88,"såpebobler","bubbles",0,0
+"19",91,"appelsin","orange (food)",0,0
+"19",93,"boller","bun",0,1
+"19",95,"brød","bread",0,1
+"19",98,"corn flakes","cheerios",0,0
+"19",100,"drikke (beverage)","drink (beverage)",0,2
+"19",102,"egg","egg",0,7
+"19",103,"eple","apple",1,5
+"19",105,"fisk (food)","fish (food)",0,10
+"19",110,"gulrot","carrots",0,0
+"19",112,"is","ice cream",1,12
+"19",114,"juice","juice",0,4
+"19",115,"kaffe","coffee",0,0
+"19",116,"kake","cake",0,7
+"19",117,"kjeks","cracker",0,2
+"19",118,"kjøtt","meat",0,5
+"19",121,"kylling (food)","chicken (food)",0,4
+"19",123,"mat","food",0,11
+"19",125,"melk","milk",1,1
+"19",129,"ost","cheese",0,7
+"19",131,"pasta","pasta",0,0
+"19",132,"pizza","pizza",0,0
+"19",140,"rosiner","raisin",0,0
+"19",146,"smør","butter",0,3
+"19",147,"spagetti","pasta",0,0
+"19",148,"sukkertøy","candy",0,0
+"19",155,"vann (beverage)","water (beverage)",1,18
+"19",159,"bukse","pants",0,2
+"19",161,"genser","sweater",0,1
+"19",162,"glidelås","zipper",0,0
+"19",163,"halskjede","necklace",0,0
+"19",165,"jakke","jacket",0,6
+"19",167,"kjole","dress (object)",0,4
+"19",168,"knapper","button",0,0
+"19",169,"lue","hat",1,15
+"19",170,"pysjamas","pajamas",0,0
+"19",171,"regntøy","coat",0,0
+"19",173,"shorts","shorts",0,0
+"19",174,"skjerf","scarf",0,0
+"19",177,"smekke","bib",0,1
+"19",178,"smokk","pacifier",0,2
+"19",179,"sokker","sock",0,2
+"19",180,"støvler","boots",0,0
+"19",181,"strømpebukse","tights",0,0
+"19",183,"t-skjorte","t-shirt",0,0
+"19",186,"votter","mittens",0,1
+"19",188,"ansikt","face",0,0
+"19",189,"arm","arm",0,4
+"19",190,"bein","leg",0,1
+"19",191,"finger","finger",0,1
+"19",192,"fot","foot",0,9
+"19",194,"hånd","hand",0,2
+"19",195,"hår","hair",0,5
+"19",196,"hode","head",0,1
+"19",197,"kinn","cheek",0,8
+"19",198,"kne","knee",0,9
+"19",200,"mage","tummy",0,3
+"19",201,"munn","mouth",0,13
+"19",202,"navle","belly button",0,0
+"19",203,"nese","nose",1,1
+"19",204,"øre","ear",0,6
+"19",205,"øye","eye",1,6
+"19",210,"tenner","tooth",0,1
+"19",211,"tiss","penis",0,13
+"19",212,"tunge","tongue",0,6
+"19",213,"tå","toe",0,9
+"19",214,"bilde","picture",0,0
+"19",216,"børste","brush (object)",0,0
+"19",219,"briller","glasses",0,1
+"19",221,"dyne","blanket",0,4
+"19",222,"eske","box",0,8
+"19",224,"flaske","bottle",0,0
+"19",226,"gaffel","fork",0,0
+"19",227,"glass","glass",0,3
+"19",228,"hammer","hammer",0,1
+"19",229,"håndkle","towel",0,0
+"19",230,"kam","comb (object)",0,10
+"19",234,"klokke","clock",0,2
+"19",235,"kniv","knife",0,2
+"19",236,"kopp","cup",0,4
+"19",237,"kost","broom",0,3
+"19",240,"lampe","lamp",0,0
+"19",241,"lommebok","purse",0,0
+"19",243,"medisin","medicine",0,0
+"19",244,"nøkler","keys",0,0
+"19",245,"papir","paper",0,0
+"19",246,"penger","money",0,1
+"19",247,"plante","plant",0,0
+"19",248,"pute","pillow",0,4
+"19",249,"radio","radio",0,0
+"19",250,"saks","scissors",0,3
+"19",251,"såpe","soap",0,3
+"19",254,"skål","bowl",0,4
+"19",255,"skje","spoon",0,6
+"19",256,"søppel","trash",0,1
+"19",258,"støvsuger","vacuum",0,0
+"19",259,"tallerken","plate",0,0
+"19",260,"tannbørste","toothbrush",0,0
+"19",261,"telefon","telephone",0,0
+"19",262,"teppe","blanket",0,4
+"19",263,"veske","purse",0,3
+"19",264,"bad","bathroom",1,11
+"19",265,"badekar","bathtub",0,0
+"19",268,"barnestol","high chair",0,0
+"19",269,"bord","table",0,11
+"19",271,"dør","door",0,5
+"19",273,"garasje","garage",0,0
+"19",276,"kjøkken","kitchen",0,0
+"19",277,"kjøleskap","refrigerator",0,0
+"19",278,"komfyr","stove",0,0
+"19",280,"ovn","oven",0,7
+"19",282,"potte","potty",0,1
+"19",284,"seng","bed",0,6
+"19",286,"skuff","drawer",0,0
+"19",287,"sofa","couch",0,1
+"19",288,"soverom","bedroom",0,0
+"19",289,"stol","chair",0,5
+"19",290,"stue","living room",0,5
+"19",293,"trapp","stairs",0,1
+"19",294,"TV","tv",0,1
+"19",295,"vask","sink",0,10
+"19",297,"vindu","window",0,0
+"19",300,"blomst","flower",0,0
+"19",306,"himmel","sky",0,1
+"19",307,"huske (object)","swing (object)",0,4
+"19",309,"måne","moon",0,4
+"19",311,"regn","rain",0,1
+"19",313,"sklie","slide (object)",0,0
+"19",315,"snø","snow",0,7
+"19",317,"sol","sun",0,14
+"19",318,"spade","shovel",0,0
+"19",319,"steiner","rock (object)",0,1
+"19",321,"stjerner","star",0,1
+"19",324,"tre","tree",0,9
+"19",325,"vann (not beverage)","water (not beverage)",0,18
+"20",13,"(meite)mark","worm",0,0
+"20",14,"and","duck",0,3
+"20",15,"apekatt","monkey",0,0
+"20",16,"bjørn","bear",0,0
+"20",17,"dyr","animal",0,6
+"20",18,"ekorn","squirrel",0,0
+"20",19,"elefant","elephant",0,0
+"20",20,"elg","moose",0,5
+"20",22,"fisk (animal)","fish (animal)",1,10
+"20",23,"flue","fly (animal)",0,3
+"20",24,"frosk","frog",0,4
+"20",25,"fugl","bird",0,1
+"20",26,"gås","goose",0,9
+"20",27,"gris","pig",1,3
+"20",31,"hund","dog",1,2
+"20",32,"kanin","bunny",0,2
+"20",34,"kattunge","kitty",0,1
+"20",36,"ku","cow",1,13
+"20",37,"kylling (animal)","chicken (animal)",0,4
+"20",38,"lam","lamb",0,7
+"20",39,"(leke)bamse","teddybear",1,0
+"20",40,"løve","lion",0,4
+"20",42,"mus","mouse",0,9
+"20",44,"pingvin","penguin",0,0
+"20",46,"reinsdyr","deer",0,0
+"20",47,"sau","sheep",0,8
+"20",49,"sjiraff","giraffe",0,0
+"20",50,"skilpadde","turtle",0,0
+"20",51,"sommerfugl","butterfly",0,0
+"20",52,"tiger","tiger",0,0
+"20",53,"ugle","owl",0,3
+"20",55,"valp","puppy",0,6
+"20",56,"veps","bee",0,2
+"20",58,"barnevogn","stroller",0,0
+"20",60,"brannbil","firetruck",0,0
+"20",62,"buss","bus",1,14
+"20",63,"fly","airplane",1,4
+"20",64,"helikopter","helicopter",0,0
+"20",65,"lastebil","truck",0,0
+"20",66,"motorsykkel","motorcycle",0,0
+"20",67,"sykkel","bicycle",0,3
+"20",68,"tog","train",1,10
+"20",69,"traktor","tractor",0,0
+"20",72,"ballong","balloon",1,0
+"20",73,"blyant","pen/pencil",0,0
+"20",75,"klosser","block",0,0
+"20",76,"dukke","doll",1,12
+"20",79,"fargeblyant","pen/pencil",0,0
+"20",82,"leke (object)","toy (object)",0,8
+"20",88,"såpebobler","bubbles",0,0
+"20",91,"appelsin","orange (food)",0,0
+"20",93,"boller","bun",1,1
+"20",95,"brød","bread",0,1
+"20",98,"corn flakes","cheerios",0,0
+"20",100,"drikke (beverage)","drink (beverage)",1,2
+"20",102,"egg","egg",0,7
+"20",105,"fisk (food)","fish (food)",0,10
+"20",110,"gulrot","carrots",0,0
+"20",114,"juice","juice",1,4
+"20",115,"kaffe","coffee",0,0
+"20",116,"kake","cake",1,7
+"20",117,"kjeks","cracker",1,2
+"20",118,"kjøtt","meat",0,5
+"20",121,"kylling (food)","chicken (food)",0,4
+"20",123,"mat","food",1,11
+"20",129,"ost","cheese",1,7
+"20",131,"pasta","pasta",0,0
+"20",132,"pizza","pizza",0,0
+"20",140,"rosiner","raisin",0,0
+"20",146,"smør","butter",0,3
+"20",147,"spagetti","pasta",0,0
+"20",148,"sukkertøy","candy",0,0
+"20",159,"bukse","pants",1,2
+"20",161,"genser","sweater",0,1
+"20",162,"glidelås","zipper",0,0
+"20",163,"halskjede","necklace",0,0
+"20",165,"jakke","jacket",1,6
+"20",167,"kjole","dress (object)",0,4
+"20",168,"knapper","button",0,0
+"20",170,"pysjamas","pajamas",0,0
+"20",171,"regntøy","coat",0,0
+"20",173,"shorts","shorts",0,0
+"20",174,"skjerf","scarf",0,0
+"20",177,"smekke","bib",0,1
+"20",178,"smokk","pacifier",1,2
+"20",179,"sokker","sock",1,2
+"20",180,"støvler","boots",0,0
+"20",181,"strømpebukse","tights",0,0
+"20",183,"t-skjorte","t-shirt",0,0
+"20",186,"votter","mittens",0,1
+"20",188,"ansikt","face",0,0
+"20",189,"arm","arm",0,4
+"20",190,"bein","leg",0,1
+"20",191,"finger","finger",0,1
+"20",192,"fot","foot",0,9
+"20",194,"hånd","hand",0,2
+"20",195,"hår","hair",0,5
+"20",196,"hode","head",0,1
+"20",197,"kinn","cheek",0,8
+"20",198,"kne","knee",0,9
+"20",200,"mage","tummy",1,3
+"20",201,"munn","mouth",1,13
+"20",202,"navle","belly button",0,0
+"20",204,"øre","ear",1,6
+"20",210,"tenner","tooth",0,1
+"20",211,"tiss","penis",1,13
+"20",212,"tunge","tongue",0,6
+"20",213,"tå","toe",0,9
+"20",214,"bilde","picture",0,0
+"20",216,"børste","brush (object)",0,0
+"20",219,"briller","glasses",0,1
+"20",221,"dyne","blanket",0,4
+"20",222,"eske","box",0,8
+"20",224,"flaske","bottle",0,0
+"20",226,"gaffel","fork",0,0
+"20",227,"glass","glass",0,3
+"20",228,"hammer","hammer",0,1
+"20",229,"håndkle","towel",0,0
+"20",230,"kam","comb (object)",0,10
+"20",234,"klokke","clock",0,2
+"20",235,"kniv","knife",0,2
+"20",236,"kopp","cup",1,4
+"20",237,"kost","broom",0,3
+"20",240,"lampe","lamp",0,0
+"20",241,"lommebok","purse",0,0
+"20",243,"medisin","medicine",0,0
+"20",244,"nøkler","keys",0,0
+"20",245,"papir","paper",0,0
+"20",246,"penger","money",0,1
+"20",247,"plante","plant",0,0
+"20",248,"pute","pillow",0,4
+"20",249,"radio","radio",0,0
+"20",250,"saks","scissors",0,3
+"20",251,"såpe","soap",0,3
+"20",254,"skål","bowl",0,4
+"20",255,"skje","spoon",0,6
+"20",256,"søppel","trash",0,1
+"20",258,"støvsuger","vacuum",0,0
+"20",259,"tallerken","plate",0,0
+"20",260,"tannbørste","toothbrush",0,0
+"20",261,"telefon","telephone",0,0
+"20",262,"teppe","blanket",0,4
+"20",263,"veske","purse",0,3
+"20",265,"badekar","bathtub",0,0
+"20",268,"barnestol","high chair",0,0
+"20",269,"bord","table",0,11
+"20",271,"dør","door",0,5
+"20",273,"garasje","garage",0,0
+"20",276,"kjøkken","kitchen",0,0
+"20",277,"kjøleskap","refrigerator",0,0
+"20",278,"komfyr","stove",0,0
+"20",280,"ovn","oven",0,7
+"20",282,"potte","potty",0,1
+"20",284,"seng","bed",0,6
+"20",286,"skuff","drawer",0,0
+"20",287,"sofa","couch",0,1
+"20",288,"soverom","bedroom",0,0
+"20",289,"stol","chair",0,5
+"20",290,"stue","living room",0,5
+"20",293,"trapp","stairs",0,1
+"20",294,"TV","tv",0,1
+"20",295,"vask","sink",0,10
+"20",297,"vindu","window",0,0
+"20",300,"blomst","flower",1,0
+"20",306,"himmel","sky",0,1
+"20",307,"huske (object)","swing (object)",0,4
+"20",309,"måne","moon",0,4
+"20",311,"regn","rain",0,1
+"20",313,"sklie","slide (object)",0,0
+"20",315,"snø","snow",0,7
+"20",317,"sol","sun",0,14
+"20",318,"spade","shovel",0,0
+"20",319,"steiner","rock (object)",0,1
+"20",321,"stjerner","star",0,1
+"20",324,"tre","tree",0,9
+"20",325,"vann (not beverage)","water (not beverage)",1,18
+"21",13,"(meite)mark","worm",0,0
+"21",14,"and","duck",0,3
+"21",15,"apekatt","monkey",0,0
+"21",16,"bjørn","bear",0,0
+"21",17,"dyr","animal",0,6
+"21",18,"ekorn","squirrel",0,0
+"21",19,"elefant","elephant",0,0
+"21",20,"elg","moose",0,5
+"21",23,"flue","fly (animal)",0,3
+"21",24,"frosk","frog",0,4
+"21",25,"fugl","bird",0,1
+"21",26,"gås","goose",0,9
+"21",32,"kanin","bunny",0,2
+"21",34,"kattunge","kitty",0,1
+"21",37,"kylling (animal)","chicken (animal)",0,4
+"21",38,"lam","lamb",0,7
+"21",40,"løve","lion",0,4
+"21",42,"mus","mouse",1,9
+"21",44,"pingvin","penguin",0,0
+"21",46,"reinsdyr","deer",0,0
+"21",47,"sau","sheep",0,8
+"21",49,"sjiraff","giraffe",0,0
+"21",50,"skilpadde","turtle",0,0
+"21",51,"sommerfugl","butterfly",0,0
+"21",52,"tiger","tiger",0,0
+"21",53,"ugle","owl",0,3
+"21",55,"valp","puppy",0,6
+"21",56,"veps","bee",0,2
+"21",58,"barnevogn","stroller",0,0
+"21",60,"brannbil","firetruck",0,0
+"21",64,"helikopter","helicopter",0,0
+"21",65,"lastebil","truck",0,0
+"21",66,"motorsykkel","motorcycle",0,0
+"21",67,"sykkel","bicycle",0,3
+"21",69,"traktor","tractor",1,0
+"21",73,"blyant","pen/pencil",0,0
+"21",75,"klosser","block",0,0
+"21",79,"fargeblyant","pen/pencil",0,0
+"21",82,"leke (object)","toy (object)",0,8
+"21",88,"såpebobler","bubbles",0,0
+"21",91,"appelsin","orange (food)",0,0
+"21",95,"brød","bread",0,1
+"21",98,"corn flakes","cheerios",0,0
+"21",102,"egg","egg",1,7
+"21",105,"fisk (food)","fish (food)",1,10
+"21",110,"gulrot","carrots",0,0
+"21",115,"kaffe","coffee",0,0
+"21",118,"kjøtt","meat",0,5
+"21",121,"kylling (food)","chicken (food)",0,4
+"21",131,"pasta","pasta",0,0
+"21",132,"pizza","pizza",0,0
+"21",140,"rosiner","raisin",0,0
+"21",146,"smør","butter",0,3
+"21",147,"spagetti","pasta",0,0
+"21",148,"sukkertøy","candy",0,0
+"21",161,"genser","sweater",0,1
+"21",162,"glidelås","zipper",0,0
+"21",163,"halskjede","necklace",0,0
+"21",167,"kjole","dress (object)",0,4
+"21",168,"knapper","button",0,0
+"21",170,"pysjamas","pajamas",0,0
+"21",171,"regntøy","coat",0,0
+"21",173,"shorts","shorts",0,0
+"21",174,"skjerf","scarf",0,0
+"21",177,"smekke","bib",0,1
+"21",180,"støvler","boots",0,0
+"21",181,"strømpebukse","tights",0,0
+"21",183,"t-skjorte","t-shirt",0,0
+"21",186,"votter","mittens",0,1
+"21",188,"ansikt","face",0,0
+"21",189,"arm","arm",0,4
+"21",190,"bein","leg",0,1
+"21",191,"finger","finger",0,1
+"21",192,"fot","foot",1,9
+"21",194,"hånd","hand",0,2
+"21",195,"hår","hair",1,5
+"21",196,"hode","head",0,1
+"21",197,"kinn","cheek",0,8
+"21",198,"kne","knee",0,9
+"21",202,"navle","belly button",0,0
+"21",210,"tenner","tooth",0,1
+"21",212,"tunge","tongue",0,6
+"21",213,"tå","toe",0,9
+"21",214,"bilde","picture",0,0
+"21",216,"børste","brush (object)",0,0
+"21",219,"briller","glasses",0,1
+"21",221,"dyne","blanket",0,4
+"21",222,"eske","box",0,8
+"21",224,"flaske","bottle",0,0
+"21",226,"gaffel","fork",0,0
+"21",227,"glass","glass",0,3
+"21",228,"hammer","hammer",0,1
+"21",229,"håndkle","towel",0,0
+"21",230,"kam","comb (object)",0,10
+"21",234,"klokke","clock",0,2
+"21",235,"kniv","knife",0,2
+"21",237,"kost","broom",0,3
+"21",240,"lampe","lamp",0,0
+"21",241,"lommebok","purse",0,0
+"21",243,"medisin","medicine",0,0
+"21",244,"nøkler","keys",0,0
+"21",245,"papir","paper",0,0
+"21",246,"penger","money",0,1
+"21",247,"plante","plant",0,0
+"21",248,"pute","pillow",0,4
+"21",249,"radio","radio",0,0
+"21",250,"saks","scissors",0,3
+"21",251,"såpe","soap",0,3
+"21",254,"skål","bowl",0,4
+"21",255,"skje","spoon",1,6
+"21",256,"søppel","trash",0,1
+"21",258,"støvsuger","vacuum",0,0
+"21",259,"tallerken","plate",0,0
+"21",260,"tannbørste","toothbrush",0,0
+"21",261,"telefon","telephone",0,0
+"21",262,"teppe","blanket",0,4
+"21",263,"veske","purse",0,3
+"21",265,"badekar","bathtub",0,0
+"21",268,"barnestol","high chair",0,0
+"21",269,"bord","table",0,11
+"21",271,"dør","door",0,5
+"21",273,"garasje","garage",0,0
+"21",276,"kjøkken","kitchen",0,0
+"21",277,"kjøleskap","refrigerator",0,0
+"21",278,"komfyr","stove",0,0
+"21",280,"ovn","oven",0,7
+"21",282,"potte","potty",0,1
+"21",284,"seng","bed",1,6
+"21",286,"skuff","drawer",0,0
+"21",287,"sofa","couch",0,1
+"21",288,"soverom","bedroom",0,0
+"21",289,"stol","chair",1,5
+"21",290,"stue","living room",0,5
+"21",293,"trapp","stairs",0,1
+"21",294,"TV","tv",0,1
+"21",295,"vask","sink",0,10
+"21",297,"vindu","window",0,0
+"21",306,"himmel","sky",0,1
+"21",307,"huske (object)","swing (object)",0,4
+"21",309,"måne","moon",0,4
+"21",311,"regn","rain",0,1
+"21",313,"sklie","slide (object)",0,0
+"21",315,"snø","snow",0,7
+"21",317,"sol","sun",0,14
+"21",318,"spade","shovel",0,0
+"21",319,"steiner","rock (object)",0,1
+"21",321,"stjerner","star",0,1
+"21",324,"tre","tree",0,9
+"22",13,"(meite)mark","worm",0,0
+"22",14,"and","duck",0,3
+"22",15,"apekatt","monkey",1,0
+"22",16,"bjørn","bear",0,0
+"22",17,"dyr","animal",0,6
+"22",18,"ekorn","squirrel",0,0
+"22",19,"elefant","elephant",1,0
+"22",20,"elg","moose",0,5
+"22",23,"flue","fly (animal)",0,3
+"22",24,"frosk","frog",0,4
+"22",25,"fugl","bird",1,1
+"22",26,"gås","goose",0,9
+"22",32,"kanin","bunny",1,2
+"22",34,"kattunge","kitty",0,1
+"22",37,"kylling (animal)","chicken (animal)",0,4
+"22",38,"lam","lamb",0,7
+"22",40,"løve","lion",0,4
+"22",44,"pingvin","penguin",0,0
+"22",46,"reinsdyr","deer",0,0
+"22",47,"sau","sheep",1,8
+"22",49,"sjiraff","giraffe",0,0
+"22",50,"skilpadde","turtle",0,0
+"22",51,"sommerfugl","butterfly",0,0
+"22",52,"tiger","tiger",0,0
+"22",53,"ugle","owl",0,3
+"22",55,"valp","puppy",0,6
+"22",56,"veps","bee",0,2
+"22",58,"barnevogn","stroller",0,0
+"22",60,"brannbil","firetruck",0,0
+"22",64,"helikopter","helicopter",0,0
+"22",65,"lastebil","truck",0,0
+"22",66,"motorsykkel","motorcycle",0,0
+"22",67,"sykkel","bicycle",1,3
+"22",73,"blyant","pen/pencil",0,0
+"22",75,"klosser","block",0,0
+"22",79,"fargeblyant","pen/pencil",0,0
+"22",82,"leke (object)","toy (object)",1,8
+"22",88,"såpebobler","bubbles",0,0
+"22",91,"appelsin","orange (food)",1,0
+"22",95,"brød","bread",1,1
+"22",98,"corn flakes","cheerios",0,0
+"22",110,"gulrot","carrots",0,0
+"22",115,"kaffe","coffee",0,0
+"22",118,"kjøtt","meat",0,5
+"22",121,"kylling (food)","chicken (food)",0,4
+"22",131,"pasta","pasta",0,0
+"22",132,"pizza","pizza",1,0
+"22",140,"rosiner","raisin",0,0
+"22",146,"smør","butter",0,3
+"22",147,"spagetti","pasta",0,0
+"22",148,"sukkertøy","candy",0,0
+"22",161,"genser","sweater",1,1
+"22",162,"glidelås","zipper",0,0
+"22",163,"halskjede","necklace",0,0
+"22",167,"kjole","dress (object)",0,4
+"22",168,"knapper","button",0,0
+"22",170,"pysjamas","pajamas",1,0
+"22",171,"regntøy","coat",0,0
+"22",173,"shorts","shorts",0,0
+"22",174,"skjerf","scarf",0,0
+"22",177,"smekke","bib",1,1
+"22",180,"støvler","boots",0,0
+"22",181,"strømpebukse","tights",0,0
+"22",183,"t-skjorte","t-shirt",0,0
+"22",186,"votter","mittens",1,1
+"22",188,"ansikt","face",0,0
+"22",189,"arm","arm",0,4
+"22",190,"bein","leg",0,1
+"22",191,"finger","finger",1,1
+"22",194,"hånd","hand",1,2
+"22",196,"hode","head",1,1
+"22",197,"kinn","cheek",0,8
+"22",198,"kne","knee",0,9
+"22",202,"navle","belly button",0,0
+"22",210,"tenner","tooth",1,1
+"22",212,"tunge","tongue",0,6
+"22",213,"tå","toe",1,9
+"22",214,"bilde","picture",1,0
+"22",216,"børste","brush (object)",0,0
+"22",219,"briller","glasses",1,1
+"22",221,"dyne","blanket",1,4
+"22",222,"eske","box",0,8
+"22",224,"flaske","bottle",1,0
+"22",226,"gaffel","fork",0,0
+"22",227,"glass","glass",0,3
+"22",228,"hammer","hammer",0,1
+"22",229,"håndkle","towel",0,0
+"22",230,"kam","comb (object)",0,10
+"22",234,"klokke","clock",1,2
+"22",235,"kniv","knife",0,2
+"22",237,"kost","broom",0,3
+"22",240,"lampe","lamp",0,0
+"22",241,"lommebok","purse",0,0
+"22",243,"medisin","medicine",0,0
+"22",244,"nøkler","keys",0,0
+"22",245,"papir","paper",0,0
+"22",246,"penger","money",0,1
+"22",247,"plante","plant",0,0
+"22",248,"pute","pillow",1,4
+"22",249,"radio","radio",0,0
+"22",250,"saks","scissors",0,3
+"22",251,"såpe","soap",0,3
+"22",254,"skål","bowl",0,4
+"22",256,"søppel","trash",0,1
+"22",258,"støvsuger","vacuum",0,0
+"22",259,"tallerken","plate",0,0
+"22",260,"tannbørste","toothbrush",0,0
+"22",261,"telefon","telephone",1,0
+"22",262,"teppe","blanket",0,4
+"22",263,"veske","purse",0,3
+"22",265,"badekar","bathtub",0,0
+"22",268,"barnestol","high chair",0,0
+"22",269,"bord","table",1,11
+"22",271,"dør","door",0,5
+"22",273,"garasje","garage",0,0
+"22",276,"kjøkken","kitchen",0,0
+"22",277,"kjøleskap","refrigerator",0,0
+"22",278,"komfyr","stove",0,0
+"22",280,"ovn","oven",0,7
+"22",282,"potte","potty",0,1
+"22",286,"skuff","drawer",0,0
+"22",287,"sofa","couch",0,1
+"22",288,"soverom","bedroom",0,0
+"22",290,"stue","living room",0,5
+"22",293,"trapp","stairs",0,1
+"22",294,"TV","tv",0,1
+"22",295,"vask","sink",0,10
+"22",297,"vindu","window",0,0
+"22",306,"himmel","sky",0,1
+"22",307,"huske (object)","swing (object)",0,4
+"22",309,"måne","moon",1,4
+"22",311,"regn","rain",0,1
+"22",313,"sklie","slide (object)",0,0
+"22",315,"snø","snow",1,7
+"22",317,"sol","sun",1,14
+"22",318,"spade","shovel",1,0
+"22",319,"steiner","rock (object)",0,1
+"22",321,"stjerner","star",0,1
+"22",324,"tre","tree",0,9
+"23",13,"(meite)mark","worm",0,0
+"23",14,"and","duck",0,3
+"23",16,"bjørn","bear",1,0
+"23",17,"dyr","animal",0,6
+"23",18,"ekorn","squirrel",0,0
+"23",20,"elg","moose",0,5
+"23",23,"flue","fly (animal)",0,3
+"23",24,"frosk","frog",0,4
+"23",26,"gås","goose",0,9
+"23",34,"kattunge","kitty",0,1
+"23",37,"kylling (animal)","chicken (animal)",0,4
+"23",38,"lam","lamb",0,7
+"23",40,"løve","lion",1,4
+"23",44,"pingvin","penguin",0,0
+"23",46,"reinsdyr","deer",0,0
+"23",49,"sjiraff","giraffe",0,0
+"23",50,"skilpadde","turtle",0,0
+"23",51,"sommerfugl","butterfly",0,0
+"23",52,"tiger","tiger",0,0
+"23",53,"ugle","owl",0,3
+"23",55,"valp","puppy",0,6
+"23",56,"veps","bee",0,2
+"23",58,"barnevogn","stroller",1,0
+"23",60,"brannbil","firetruck",0,0
+"23",64,"helikopter","helicopter",0,0
+"23",65,"lastebil","truck",1,0
+"23",66,"motorsykkel","motorcycle",0,0
+"23",73,"blyant","pen/pencil",0,0
+"23",75,"klosser","block",0,0
+"23",79,"fargeblyant","pen/pencil",0,0
+"23",88,"såpebobler","bubbles",0,0
+"23",98,"corn flakes","cheerios",0,0
+"23",110,"gulrot","carrots",1,0
+"23",115,"kaffe","coffee",1,0
+"23",118,"kjøtt","meat",0,5
+"23",121,"kylling (food)","chicken (food)",0,4
+"23",131,"pasta","pasta",0,0
+"23",140,"rosiner","raisin",1,0
+"23",146,"smør","butter",1,3
+"23",147,"spagetti","pasta",0,0
+"23",148,"sukkertøy","candy",0,0
+"23",162,"glidelås","zipper",0,0
+"23",163,"halskjede","necklace",0,0
+"23",167,"kjole","dress (object)",0,4
+"23",168,"knapper","button",1,0
+"23",171,"regntøy","coat",0,0
+"23",173,"shorts","shorts",0,0
+"23",174,"skjerf","scarf",0,0
+"23",180,"støvler","boots",1,0
+"23",181,"strømpebukse","tights",0,0
+"23",183,"t-skjorte","t-shirt",0,0
+"23",188,"ansikt","face",0,0
+"23",189,"arm","arm",1,4
+"23",190,"bein","leg",0,1
+"23",197,"kinn","cheek",0,8
+"23",198,"kne","knee",0,9
+"23",202,"navle","belly button",0,0
+"23",212,"tunge","tongue",0,6
+"23",216,"børste","brush (object)",1,0
+"23",222,"eske","box",0,8
+"23",226,"gaffel","fork",1,0
+"23",227,"glass","glass",1,3
+"23",228,"hammer","hammer",0,1
+"23",229,"håndkle","towel",0,0
+"23",230,"kam","comb (object)",0,10
+"23",235,"kniv","knife",1,2
+"23",237,"kost","broom",0,3
+"23",240,"lampe","lamp",0,0
+"23",241,"lommebok","purse",0,0
+"23",243,"medisin","medicine",0,0
+"23",244,"nøkler","keys",1,0
+"23",245,"papir","paper",1,0
+"23",246,"penger","money",0,1
+"23",247,"plante","plant",0,0
+"23",249,"radio","radio",0,0
+"23",250,"saks","scissors",0,3
+"23",251,"såpe","soap",1,3
+"23",254,"skål","bowl",0,4
+"23",256,"søppel","trash",1,1
+"23",258,"støvsuger","vacuum",0,0
+"23",259,"tallerken","plate",0,0
+"23",260,"tannbørste","toothbrush",1,0
+"23",262,"teppe","blanket",1,4
+"23",263,"veske","purse",0,3
+"23",265,"badekar","bathtub",0,0
+"23",268,"barnestol","high chair",0,0
+"23",271,"dør","door",1,5
+"23",273,"garasje","garage",0,0
+"23",276,"kjøkken","kitchen",0,0
+"23",277,"kjøleskap","refrigerator",0,0
+"23",278,"komfyr","stove",0,0
+"23",280,"ovn","oven",0,7
+"23",282,"potte","potty",0,1
+"23",286,"skuff","drawer",0,0
+"23",287,"sofa","couch",1,1
+"23",288,"soverom","bedroom",0,0
+"23",290,"stue","living room",0,5
+"23",293,"trapp","stairs",1,1
+"23",294,"TV","tv",1,1
+"23",295,"vask","sink",0,10
+"23",297,"vindu","window",0,0
+"23",306,"himmel","sky",0,1
+"23",307,"huske (object)","swing (object)",1,4
+"23",311,"regn","rain",0,1
+"23",313,"sklie","slide (object)",1,0
+"23",319,"steiner","rock (object)",1,1
+"23",321,"stjerner","star",0,1
+"23",324,"tre","tree",1,9
+"24",13,"(meite)mark","worm",0,0
+"24",14,"and","duck",1,3
+"24",17,"dyr","animal",0,6
+"24",18,"ekorn","squirrel",0,0
+"24",20,"elg","moose",0,5
+"24",23,"flue","fly (animal)",1,3
+"24",24,"frosk","frog",1,4
+"24",26,"gås","goose",0,9
+"24",34,"kattunge","kitty",0,1
+"24",37,"kylling (animal)","chicken (animal)",0,4
+"24",38,"lam","lamb",0,7
+"24",44,"pingvin","penguin",0,0
+"24",46,"reinsdyr","deer",0,0
+"24",49,"sjiraff","giraffe",1,0
+"24",50,"skilpadde","turtle",0,0
+"24",51,"sommerfugl","butterfly",0,0
+"24",52,"tiger","tiger",1,0
+"24",53,"ugle","owl",0,3
+"24",55,"valp","puppy",0,6
+"24",56,"veps","bee",0,2
+"24",60,"brannbil","firetruck",0,0
+"24",64,"helikopter","helicopter",1,0
+"24",66,"motorsykkel","motorcycle",0,0
+"24",73,"blyant","pen/pencil",0,0
+"24",75,"klosser","block",1,0
+"24",79,"fargeblyant","pen/pencil",0,0
+"24",88,"såpebobler","bubbles",0,0
+"24",98,"corn flakes","cheerios",0,0
+"24",118,"kjøtt","meat",0,5
+"24",121,"kylling (food)","chicken (food)",0,4
+"24",131,"pasta","pasta",0,0
+"24",147,"spagetti","pasta",0,0
+"24",148,"sukkertøy","candy",0,0
+"24",162,"glidelås","zipper",0,0
+"24",163,"halskjede","necklace",0,0
+"24",167,"kjole","dress (object)",0,4
+"24",171,"regntøy","coat",0,0
+"24",173,"shorts","shorts",0,0
+"24",174,"skjerf","scarf",0,0
+"24",181,"strømpebukse","tights",1,0
+"24",183,"t-skjorte","t-shirt",0,0
+"24",188,"ansikt","face",0,0
+"24",190,"bein","leg",1,1
+"24",197,"kinn","cheek",1,8
+"24",198,"kne","knee",0,9
+"24",202,"navle","belly button",1,0
+"24",212,"tunge","tongue",0,6
+"24",222,"eske","box",0,8
+"24",228,"hammer","hammer",0,1
+"24",229,"håndkle","towel",0,0
+"24",230,"kam","comb (object)",0,10
+"24",237,"kost","broom",0,3
+"24",240,"lampe","lamp",1,0
+"24",241,"lommebok","purse",0,0
+"24",243,"medisin","medicine",0,0
+"24",246,"penger","money",0,1
+"24",247,"plante","plant",0,0
+"24",249,"radio","radio",0,0
+"24",250,"saks","scissors",0,3
+"24",254,"skål","bowl",0,4
+"24",258,"støvsuger","vacuum",0,0
+"24",259,"tallerken","plate",0,0
+"24",263,"veske","purse",0,3
+"24",265,"badekar","bathtub",0,0
+"24",268,"barnestol","high chair",0,0
+"24",273,"garasje","garage",0,0
+"24",276,"kjøkken","kitchen",1,0
+"24",277,"kjøleskap","refrigerator",0,0
+"24",278,"komfyr","stove",0,0
+"24",280,"ovn","oven",0,7
+"24",282,"potte","potty",0,1
+"24",286,"skuff","drawer",0,0
+"24",288,"soverom","bedroom",0,0
+"24",290,"stue","living room",0,5
+"24",295,"vask","sink",0,10
+"24",297,"vindu","window",0,0
+"24",306,"himmel","sky",0,1
+"24",311,"regn","rain",1,1
+"24",321,"stjerner","star",0,1
+"25",13,"(meite)mark","worm",0,0
+"25",17,"dyr","animal",1,6
+"25",18,"ekorn","squirrel",0,0
+"25",20,"elg","moose",0,5
+"25",26,"gås","goose",0,9
+"25",34,"kattunge","kitty",0,1
+"25",37,"kylling (animal)","chicken (animal)",0,4
+"25",38,"lam","lamb",0,7
+"25",44,"pingvin","penguin",0,0
+"25",46,"reinsdyr","deer",0,0
+"25",50,"skilpadde","turtle",0,0
+"25",51,"sommerfugl","butterfly",1,0
+"25",53,"ugle","owl",0,3
+"25",55,"valp","puppy",0,6
+"25",56,"veps","bee",0,2
+"25",60,"brannbil","firetruck",1,0
+"25",66,"motorsykkel","motorcycle",1,0
+"25",73,"blyant","pen/pencil",0,0
+"25",79,"fargeblyant","pen/pencil",0,0
+"25",88,"såpebobler","bubbles",0,0
+"25",98,"corn flakes","cheerios",0,0
+"25",118,"kjøtt","meat",0,5
+"25",121,"kylling (food)","chicken (food)",1,4
+"25",131,"pasta","pasta",0,0
+"25",147,"spagetti","pasta",1,0
+"25",148,"sukkertøy","candy",0,0
+"25",162,"glidelås","zipper",0,0
+"25",163,"halskjede","necklace",0,0
+"25",167,"kjole","dress (object)",1,4
+"25",171,"regntøy","coat",0,0
+"25",173,"shorts","shorts",0,0
+"25",174,"skjerf","scarf",0,0
+"25",183,"t-skjorte","t-shirt",0,0
+"25",188,"ansikt","face",1,0
+"25",198,"kne","knee",1,9
+"25",212,"tunge","tongue",1,6
+"25",222,"eske","box",0,8
+"25",228,"hammer","hammer",0,1
+"25",229,"håndkle","towel",1,0
+"25",230,"kam","comb (object)",0,10
+"25",237,"kost","broom",1,3
+"25",241,"lommebok","purse",0,0
+"25",243,"medisin","medicine",0,0
+"25",246,"penger","money",1,1
+"25",247,"plante","plant",0,0
+"25",249,"radio","radio",0,0
+"25",250,"saks","scissors",1,3
+"25",254,"skål","bowl",0,4
+"25",258,"støvsuger","vacuum",1,0
+"25",259,"tallerken","plate",1,0
+"25",263,"veske","purse",1,3
+"25",265,"badekar","bathtub",1,0
+"25",268,"barnestol","high chair",0,0
+"25",273,"garasje","garage",0,0
+"25",277,"kjøleskap","refrigerator",1,0
+"25",278,"komfyr","stove",0,0
+"25",280,"ovn","oven",1,7
+"25",282,"potte","potty",1,1
+"25",286,"skuff","drawer",0,0
+"25",288,"soverom","bedroom",0,0
+"25",290,"stue","living room",1,5
+"25",295,"vask","sink",1,10
+"25",297,"vindu","window",1,0
+"25",306,"himmel","sky",1,1
+"25",321,"stjerner","star",1,1
+"26",13,"(meite)mark","worm",0,0
+"26",18,"ekorn","squirrel",1,0
+"26",20,"elg","moose",0,5
+"26",26,"gås","goose",0,9
+"26",34,"kattunge","kitty",0,1
+"26",37,"kylling (animal)","chicken (animal)",1,4
+"26",38,"lam","lamb",1,7
+"26",44,"pingvin","penguin",0,0
+"26",46,"reinsdyr","deer",0,0
+"26",50,"skilpadde","turtle",0,0
+"26",53,"ugle","owl",1,3
+"26",55,"valp","puppy",0,6
+"26",56,"veps","bee",0,2
+"26",73,"blyant","pen/pencil",0,0
+"26",79,"fargeblyant","pen/pencil",0,0
+"26",88,"såpebobler","bubbles",1,0
+"26",98,"corn flakes","cheerios",0,0
+"26",118,"kjøtt","meat",1,5
+"26",131,"pasta","pasta",1,0
+"26",148,"sukkertøy","candy",0,0
+"26",162,"glidelås","zipper",0,0
+"26",163,"halskjede","necklace",0,0
+"26",171,"regntøy","coat",1,0
+"26",173,"shorts","shorts",0,0
+"26",174,"skjerf","scarf",1,0
+"26",183,"t-skjorte","t-shirt",0,0
+"26",222,"eske","box",0,8
+"26",228,"hammer","hammer",1,1
+"26",230,"kam","comb (object)",0,10
+"26",241,"lommebok","purse",0,0
+"26",243,"medisin","medicine",0,0
+"26",247,"plante","plant",0,0
+"26",249,"radio","radio",0,0
+"26",254,"skål","bowl",0,4
+"26",268,"barnestol","high chair",0,0
+"26",273,"garasje","garage",0,0
+"26",278,"komfyr","stove",0,0
+"26",286,"skuff","drawer",1,0
+"26",288,"soverom","bedroom",0,0
+"27",13,"(meite)mark","worm",0,0
+"27",20,"elg","moose",0,5
+"27",26,"gås","goose",0,9
+"27",34,"kattunge","kitty",0,1
+"27",44,"pingvin","penguin",1,0
+"27",46,"reinsdyr","deer",0,0
+"27",50,"skilpadde","turtle",1,0
+"27",55,"valp","puppy",0,6
+"27",56,"veps","bee",1,2
+"27",73,"blyant","pen/pencil",1,0
+"27",79,"fargeblyant","pen/pencil",0,0
+"27",98,"corn flakes","cheerios",0,0
+"27",148,"sukkertøy","candy",0,0
+"27",162,"glidelås","zipper",1,0
+"27",163,"halskjede","necklace",0,0
+"27",173,"shorts","shorts",0,0
+"27",183,"t-skjorte","t-shirt",0,0
+"27",222,"eske","box",1,8
+"27",230,"kam","comb (object)",0,10
+"27",241,"lommebok","purse",0,0
+"27",243,"medisin","medicine",0,0
+"27",247,"plante","plant",0,0
+"27",249,"radio","radio",0,0
+"27",254,"skål","bowl",0,4
+"27",268,"barnestol","high chair",0,0
+"27",273,"garasje","garage",1,0
+"27",278,"komfyr","stove",0,0
+"27",288,"soverom","bedroom",1,0
+"28",13,"(meite)mark","worm",1,0
+"28",20,"elg","moose",1,5
+"28",26,"gås","goose",0,9
+"28",34,"kattunge","kitty",0,1
+"28",46,"reinsdyr","deer",0,0
+"28",55,"valp","puppy",0,6
+"28",79,"fargeblyant","pen/pencil",0,0
+"28",98,"corn flakes","cheerios",0,0
+"28",148,"sukkertøy","candy",0,0
+"28",163,"halskjede","necklace",0,0
+"28",173,"shorts","shorts",1,0
+"28",183,"t-skjorte","t-shirt",1,0
+"28",230,"kam","comb (object)",0,10
+"28",241,"lommebok","purse",1,0
+"28",243,"medisin","medicine",1,0
+"28",247,"plante","plant",0,0
+"28",249,"radio","radio",1,0
+"28",254,"skål","bowl",1,4
+"28",268,"barnestol","high chair",0,0
+"28",278,"komfyr","stove",0,0
+"29",26,"gås","goose",0,9
+"29",34,"kattunge","kitty",0,1
+"29",46,"reinsdyr","deer",0,0
+"29",55,"valp","puppy",0,6
+"29",79,"fargeblyant","pen/pencil",0,0
+"29",98,"corn flakes","cheerios",0,0
+"29",148,"sukkertøy","candy",0,0
+"29",163,"halskjede","necklace",0,0
+"29",230,"kam","comb (object)",0,10
+"29",247,"plante","plant",0,0
+"29",268,"barnestol","high chair",0,0
+"29",278,"komfyr","stove",0,0
+"30",26,"gås","goose",0,9
+"30",34,"kattunge","kitty",0,1
+"30",46,"reinsdyr","deer",0,0
+"30",55,"valp","puppy",0,6
+"30",79,"fargeblyant","pen/pencil",0,0
+"30",98,"corn flakes","cheerios",0,0
+"30",148,"sukkertøy","candy",0,0
+"30",163,"halskjede","necklace",0,0
+"30",230,"kam","comb (object)",1,10
+"30",247,"plante","plant",1,0
+"30",268,"barnestol","high chair",0,0
+"30",278,"komfyr","stove",0,0
+"31",26,"gås","goose",0,9
+"31",34,"kattunge","kitty",1,1
+"31",46,"reinsdyr","deer",0,0
+"31",55,"valp","puppy",0,6
+"31",79,"fargeblyant","pen/pencil",1,0
+"31",98,"corn flakes","cheerios",0,0
+"31",148,"sukkertøy","candy",0,0
+"31",163,"halskjede","necklace",0,0
+"31",268,"barnestol","high chair",1,0
+"31",278,"komfyr","stove",0,0
+"32",26,"gås","goose",0,9
+"32",46,"reinsdyr","deer",0,0
+"32",55,"valp","puppy",0,6
+"32",98,"corn flakes","cheerios",0,0
+"32",148,"sukkertøy","candy",0,0
+"32",163,"halskjede","necklace",1,0
+"32",278,"komfyr","stove",1,0
+"33",26,"gås","goose",0,9
+"33",46,"reinsdyr","deer",0,0
+"33",55,"valp","puppy",0,6
+"33",98,"corn flakes","cheerios",0,0
+"33",148,"sukkertøy","candy",0,0
+"34",26,"gås","goose",0,9
+"34",46,"reinsdyr","deer",0,0
+"34",55,"valp","puppy",0,6
+"34",98,"corn flakes","cheerios",0,0
+"34",148,"sukkertøy","candy",1,0
+"35",26,"gås","goose",1,9
+"35",46,"reinsdyr","deer",0,0
+"35",55,"valp","puppy",1,6
+"35",98,"corn flakes","cheerios",0,0
+"36",46,"reinsdyr","deer",1,0
+"36",98,"corn flakes","cheerios",1,0

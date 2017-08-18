@@ -1,3 +1,5 @@
+
+
 # 
 # make_assoc_pairs <- function(lemma_list) {
 #   #Filter all the cues and targets that are not learnt after 30 months and are not normed
@@ -108,3 +110,22 @@
 #   geom_smooth(method = "lm", se = FALSE)
 # 
 # }
+
+# ##########################################################################################################
+# PAC_generator_od<- function(vocab_month, pairs){
+#   vocab_month<- vocab_month %>% filter((item %in% assoc_pairs$item) | (item %in% assoc_pairs$pair) )
+#   
+#   item_value<- pairs %>% 
+#     group_by(pair) %>%
+#     summarise(value=sum(link)) %>%
+#     rename(item=pair)
+#   
+#   PAC<-vocab_month %>%
+#     mutate(value=0) %>%
+#     rowwise() %>%
+#     mutate(value=ifelse((item %in% item_value$item), item_value$value[which(item_value$item ==item)], 0)) 
+#   
+#   return(PAC)
+# }
+# 
+# ###########################################################################################################

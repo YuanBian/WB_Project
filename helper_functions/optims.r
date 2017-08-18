@@ -1,3 +1,29 @@
+get_confint<- function(language, type, r = 3000){
+  optim_par<- optim(0, loglike1)$par
+  full_model_nLLK<- optim(0, loglike1)$value
+  null_model_nLLK<- optim(0, loglike0)$value
+  dataset=final_df %>% mutate(n=row_number())
+  ci_value1 <- vector(mode = "numeric", length = r)
+  #ci_value2 <- vector(mode = "numeric", length = r)
+  n_sample <- length(dataset[, 1])
+  for (i in 1:r) {
+    cur_sample <- as.data.frame(dataset$n[sample(n_sample, n_sample, replace = T)])
+    colnames(cur_sample) <- "n"
+    final_df <<- cur_sample %>% left_join(dataset)
+    ci_value1[i] <- optim(0, loglike1)$par[1]
+    #ci_value2[i] <- optim(c(0,0), loglike2)$par[2]
+  }
+  ci_value1 <- sort(ci_value1, decreasing = F)
+  len <- length(ci_value1)
+  #ci_value2 <- sort(ci_value2, decreasing = F)
+  
+  new_row<-c(language, type,
+             ci_value1[as.integer(0.025 * len+1)],  optim_par,ci_value1[as.integer(0.975 * len)], 
+             full_model_nLLK, null_model_nLLK)
+  return(new_row)
+}
+
+
 # A bunch of optims
 ######################################################################################################
 # Return the nLLK of each model
@@ -9,9 +35,9 @@ optim_nllk <- function(par_n) {
     second_par_model <- optim(c(0, 0), loglike01)$value
     
     return(data.frame(random_model,
-      two_par_model,
-      first_par_model,
-      second_par_model, row.names = "nLLK"))
+                      two_par_model,
+                      first_par_model,
+                      second_par_model, row.names = "nLLK"))
   }
   else {
     random_model <- optim(0, loglike0)$value
@@ -45,16 +71,16 @@ optim_par <- function(par_n) {
 loglike1 <- function(beta){
   
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -70,16 +96,16 @@ loglike0 <- function(beta){
   beta=0
   
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -92,18 +118,18 @@ loglike0 <- function(beta){
 ######################################################################################################
 loglike10 <- function(betas){
   beta<-betas[1]
-
+  
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -116,20 +142,20 @@ loglike10 <- function(betas){
 
 ######################################################################################################
 loglike01 <- function(betas){
-
+  
   beta2<- betas[2]
-
+  
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value2*beta2)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value2*beta2))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -141,21 +167,21 @@ loglike01 <- function(betas){
 }
 
 ######################################################################################################
-loglike_11 <- function(betas){
+loglike11 <- function(betas){
   beta<-betas[1]
   beta2<- betas[2]
-
+  
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta+value2*beta2)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta+value2*beta2))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -168,20 +194,20 @@ loglike_11 <- function(betas){
 
 ######################################################################################################
 loglike00 <- function(betas){
-
+  
   beta=0
   beta2=0
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta+value2*beta2)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta+value2*beta2))) %>%
-    select(month, denominator)
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%
@@ -200,16 +226,44 @@ loglike111 <- function(betas, control){
   beta3<- betas[3]
   
   # calculate numerator
-  learned_words<- data %>%
+  learned_words<- final_df %>%
     filter(learned==1) %>%
     mutate(numerator=exp(value*beta+value2*beta2+value3*beta3)) %>%
-    select(month, numerator)
+    select(age, numerator)
   
   # calculate denumerator
-  all_words<- data %>%
-    group_by(month) %>%
+  all_words<- final_df %>%
+    group_by(age) %>%
     summarise(denominator=sum(exp(value*beta+value2*beta2+value3*beta3))) %>%
-    select(month, denominator)
+    select(age, denominator)
+  
+  # calculate the return value
+  ret<- learned_words %>%
+    left_join(all_words) %>%
+    summarise(nLLK=sum(log(numerator/denominator)))
+  
+  return(-ret$nLLK)
+  
+}
+
+
+######################################################################################################
+loglike011 <- function(betas, control){
+  
+  beta2<- betas[2]
+  beta3<- betas[3]
+  
+  # calculate numerator
+  learned_words<- final_df %>%
+    filter(learned==1) %>%
+    mutate(numerator=exp(value2*beta2+value3*beta3)) %>%
+    select(age, numerator)
+  
+  # calculate denumerator
+  all_words<- final_df %>%
+    group_by(age) %>%
+    summarise(denominator=sum(exp(value2*beta2+value3*beta3))) %>%
+    select(age, denominator)
   
   # calculate the return value
   ret<- learned_words %>%

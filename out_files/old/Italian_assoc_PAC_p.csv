@@ -1,0 +1,1296 @@
+"month","item","definition","uni_lemma","learned","value"
+18,1,"organo genitale femminile","vagina",0,0
+18,2,"orecchio","ear",0,3
+18,4,"occhio","eye",0,4
+18,5,"naso","nose",0,7
+18,6,"mano","hand",1,4
+18,7,"lingua","tongue",0,1
+18,12,"gambe","leg",0,6
+18,13,"faccia","face",0,8
+18,14,"dito","finger",0,2
+18,15,"denti","tooth",0,0
+18,17,"capelli","hair",0,5
+18,18,"braccio","arm",0,3
+18,19,"bocca","mouth",0,3
+18,20,"vestito","dress (object)",0,5
+18,23,"sciarpa","scarf",0,1
+18,24,"scarpe","shoe",1,3
+18,25,"pigiama","pajamas",0,0
+18,27,"pantaloni","pants",0,4
+18,28,"pannolino","diaper",0,0
+18,29,"occhiali","glasses",0,1
+18,31,"maglione","sweater",0,3
+18,33,"guanti","gloves",0,0
+18,35,"gonna","skirt",0,2
+18,36,"giacca","jacket",0,3
+18,37,"collana","necklace",0,0
+18,39,"cappotto","coat",0,5
+18,40,"cappello","hat",0,7
+18,43,"calze","sock",0,1
+18,45,"bottone","button",0,1
+18,49,"zucchero","sugar",0,4
+18,50,"yogurt","yogurt",0,1
+18,54,"uovo","egg",0,3
+18,56,"torta","cake",0,3
+18,59,"sugo","sauce",0,1
+18,64,"riso","rice",0,0
+18,66,"polpette","meatball",0,0
+18,67,"pollo","chicken (food)",0,9
+18,69,"piselli","peas",0,1
+18,70,"pesca","peach",0,2
+18,71,"pera","pear",0,2
+18,72,"patatine","chips",0,0
+18,73,"patate","potato",0,4
+18,74,"pasta","pasta",0,0
+18,75,"pappa","baby food",1,0
+18,78,"pane","bread",1,2
+18,82,"miele","honey",0,2
+18,84,"mela","apple",0,6
+18,88,"latte","milk",1,9
+18,92,"gelato","ice cream",0,4
+18,94,"formaggio","cheese",0,5
+18,98,"cracker","cracker",0,1
+18,101,"cioccolata","chocolate",0,7
+18,103,"carote","carrots",0,1
+18,104,"carne","meat",0,5
+18,105,"caramella","candy",0,4
+18,111,"biscotti","cookie",1,5
+18,112,"banana","banana",0,2
+18,114,"arancia","orange (food)",0,4
+18,115,"acqua","water (beverage)",1,25
+18,116,"trottola","top",0,11
+18,121,"secchiello","bucket",0,0
+18,123,"pistola","gun",0,4
+18,125,"palla","ball",1,3
+18,126,"paletta","spade",0,0
+18,127,"giocattolo","toy (object)",0,4
+18,128,"favola/storia","book",0,6
+18,129,"cubi","block",0,1
+18,133,"bambola","doll",0,1
+18,134,"treno","train",0,3
+18,135,"trattore","tractor",0,0
+18,137,"passeggino","stroller",0,0
+18,138,"motocicletta","motorcycle",0,1
+18,139,"jeep","jeep",0,0
+18,140,"gru","crane",0,0
+18,142,"camion","truck",0,5
+18,143,"bicicletta","bicycle",0,1
+18,144,"barca","boat",0,4
+18,145,"automobile","car",0,15
+18,146,"autobus","bus",0,3
+18,147,"aereo","airplane",0,1
+18,149,"zanzara","mosquito",0,1
+18,150,"uccellino","bird",0,14
+18,151,"topo","mouse",0,4
+18,152,"tigre","tiger",0,3
+18,153,"tartaruga","turtle",0,0
+18,156,"scimmia","monkey",0,3
+18,157,"rana","frog",0,0
+18,158,"pulcino","chick",0,1
+18,159,"pinguino","penguin",0,0
+18,160,"pesciolino","fish (animal)",0,3
+18,161,"pecora","sheep",0,2
+18,162,"papera","duck",0,2
+18,163,"orso","bear",0,4
+18,164,"oca","goose",0,2
+18,165,"mucca","cow",0,6
+18,166,"mosca","fly (animal)",0,7
+18,167,"maiale","pig",0,2
+18,168,"lupo","wolf",0,1
+18,169,"leone","lion",0,3
+18,172,"giraffa","giraffe",0,1
+18,173,"gatto","cat",0,10
+18,174,"gallo","rooster",0,2
+18,175,"gallina","hen",0,5
+18,176,"formica","ant",0,0
+18,178,"farfalla","butterfly",0,0
+18,179,"elefante","elephant",0,1
+18,181,"coniglio","bunny",0,1
+18,182,"coccodrillo","crocodile",0,0
+18,183,"cerbiatto","fawn",0,0
+18,184,"cavallo","horse",0,3
+18,185,"capra","goat",0,2
+18,186,"cane","dog",0,11
+18,187,"asino","donkey",0,1
+18,189,"animale","animal",0,24
+18,190,"agnello","lamb",0,1
+18,203,"organo genitale maschile","penis",0,0
+18,204,"pancia","tummy",0,0
+18,205,"piede","feet",0,1
+18,206,"sederino","butt",0,0
+18,207,"seno","breast",0,1
+18,209,"testa","head",0,12
+18,213,"biberon","bottle",0,4
+18,214,"bicchiere","glass",0,8
+18,215,"bottiglia","bottle",0,4
+18,218,"chiave","keys",0,0
+18,219,"ciuccio","pacifier",1,0
+18,221,"coltello","knife",0,4
+18,222,"coperchio","cover (object)",0,5
+18,223,"coperta","blanket",0,2
+18,224,"cucchiaio","spoon",0,4
+18,225,"cuscino","pillow",0,2
+18,228,"fazzoletto","tissue",0,0
+18,229,"forbici","scissors",0,0
+18,230,"forchetta","fork",0,2
+18,232,"giornale","paper",0,10
+18,233,"luce","light",0,4
+18,234,"libro","book",0,6
+18,235,"martello","hammer",0,0
+18,238,"musica","music",0,1
+18,239,"ombrello","umbrella",0,1
+18,240,"orologio","clock",0,0
+18,241,"pentola","pot",0,6
+18,242,"pettine","comb (object)",0,2
+18,243,"pianta","plant",0,2
+18,244,"piatto","dish",0,2
+18,246,"sapone","soap",0,3
+18,247,"scatola","box",0,4
+18,248,"scopa","broom",0,0
+18,251,"soldi","money",0,6
+18,252,"spazzolino da denti","toothbrush",0,0
+18,253,"specchio","mirror",0,4
+18,255,"tappo","cap",0,6
+18,256,"tazza","cup",0,2
+18,257,"telefono","telephone",0,0
+18,260,"vasino","potty",0,0
+18,261,"armadio","closet",0,3
+18,262,"bagno","bathroom",0,3
+18,264,"camera","room",0,4
+18,266,"cassetto","drawer",0,1
+18,267,"cucina","kitchen",0,3
+18,268,"culla","crib",0,0
+18,269,"divano","couch",0,2
+18,270,"doccia","shower",0,4
+18,272,"finestra","window",0,2
+18,275,"frigorifero","refrigerator",0,0
+18,276,"lavandino","sink",0,3
+18,278,"letto","bed",0,8
+18,281,"porta","door",0,9
+18,285,"salotto","living room",0,1
+18,286,"scala","stairs",0,0
+18,287,"sedia","chair",0,8
+18,289,"tappeto","carpet",0,0
+18,290,"tavolo","table",0,3
+18,291,"televisione/TV","tv",0,0
+18,292,"terrazza","porch",0,1
+18,293,"vasca da bagno","bathtub",0,1
+18,294,"albero","tree",0,13
+18,295,"altalena","swing (object)",0,2
+18,296,"ascensore","elevator",0,1
+18,300,"cielo","sky",0,5
+18,302,"fiore","flower",0,4
+18,306,"garage","garage",0,0
+18,307,"luna","moon",0,4
+18,309,"neve","snow",0,4
+18,310,"nuvola","cloud",0,2
+18,311,"pioggia","rain",0,6
+18,314,"prato","lawn",0,0
+18,315,"sasso","stone",0,0
+18,316,"scivolo","slide (object)",0,1
+18,317,"sole","sun",0,9
+18,318,"stella","star",0,3
+18,319,"strada","street",0,2
+18,320,"terra","earth",0,0
+18,324,"vento","wind",0,2
+19,1,"organo genitale femminile","vagina",0,0
+19,2,"orecchio","ear",0,3
+19,4,"occhio","eye",0,4
+19,5,"naso","nose",0,7
+19,7,"lingua","tongue",0,1
+19,12,"gambe","leg",0,6
+19,13,"faccia","face",0,8
+19,14,"dito","finger",0,2
+19,15,"denti","tooth",0,0
+19,17,"capelli","hair",0,5
+19,18,"braccio","arm",0,3
+19,19,"bocca","mouth",1,3
+19,20,"vestito","dress (object)",0,5
+19,23,"sciarpa","scarf",0,1
+19,25,"pigiama","pajamas",0,0
+19,27,"pantaloni","pants",0,4
+19,28,"pannolino","diaper",0,0
+19,29,"occhiali","glasses",0,1
+19,31,"maglione","sweater",0,3
+19,33,"guanti","gloves",0,0
+19,35,"gonna","skirt",0,2
+19,36,"giacca","jacket",0,3
+19,37,"collana","necklace",0,0
+19,39,"cappotto","coat",0,5
+19,40,"cappello","hat",0,7
+19,43,"calze","sock",0,1
+19,45,"bottone","button",0,1
+19,49,"zucchero","sugar",0,4
+19,50,"yogurt","yogurt",0,1
+19,54,"uovo","egg",0,3
+19,56,"torta","cake",0,3
+19,59,"sugo","sauce",0,1
+19,64,"riso","rice",0,0
+19,66,"polpette","meatball",0,0
+19,67,"pollo","chicken (food)",0,9
+19,69,"piselli","peas",0,1
+19,70,"pesca","peach",0,2
+19,71,"pera","pear",0,2
+19,72,"patatine","chips",0,0
+19,73,"patate","potato",0,4
+19,74,"pasta","pasta",0,0
+19,82,"miele","honey",0,2
+19,84,"mela","apple",0,6
+19,92,"gelato","ice cream",0,4
+19,94,"formaggio","cheese",0,5
+19,98,"cracker","cracker",0,1
+19,101,"cioccolata","chocolate",0,7
+19,103,"carote","carrots",0,1
+19,104,"carne","meat",0,5
+19,105,"caramella","candy",0,4
+19,112,"banana","banana",0,2
+19,114,"arancia","orange (food)",0,4
+19,116,"trottola","top",0,11
+19,121,"secchiello","bucket",0,0
+19,123,"pistola","gun",0,4
+19,126,"paletta","spade",0,0
+19,127,"giocattolo","toy (object)",0,4
+19,128,"favola/storia","book",0,6
+19,129,"cubi","block",0,1
+19,133,"bambola","doll",0,1
+19,134,"treno","train",0,3
+19,135,"trattore","tractor",0,0
+19,137,"passeggino","stroller",0,0
+19,138,"motocicletta","motorcycle",0,1
+19,139,"jeep","jeep",0,0
+19,140,"gru","crane",0,0
+19,142,"camion","truck",0,5
+19,143,"bicicletta","bicycle",0,1
+19,144,"barca","boat",0,4
+19,145,"automobile","car",0,15
+19,146,"autobus","bus",0,3
+19,147,"aereo","airplane",0,1
+19,149,"zanzara","mosquito",0,1
+19,150,"uccellino","bird",0,14
+19,151,"topo","mouse",0,4
+19,152,"tigre","tiger",0,3
+19,153,"tartaruga","turtle",0,0
+19,156,"scimmia","monkey",0,3
+19,157,"rana","frog",0,0
+19,158,"pulcino","chick",0,1
+19,159,"pinguino","penguin",0,0
+19,160,"pesciolino","fish (animal)",0,3
+19,161,"pecora","sheep",0,2
+19,162,"papera","duck",0,2
+19,163,"orso","bear",0,4
+19,164,"oca","goose",0,2
+19,165,"mucca","cow",0,6
+19,166,"mosca","fly (animal)",0,7
+19,167,"maiale","pig",0,2
+19,168,"lupo","wolf",0,1
+19,169,"leone","lion",0,3
+19,172,"giraffa","giraffe",0,1
+19,173,"gatto","cat",0,10
+19,174,"gallo","rooster",0,2
+19,175,"gallina","hen",0,5
+19,176,"formica","ant",0,0
+19,178,"farfalla","butterfly",0,0
+19,179,"elefante","elephant",0,1
+19,181,"coniglio","bunny",0,1
+19,182,"coccodrillo","crocodile",0,0
+19,183,"cerbiatto","fawn",0,0
+19,184,"cavallo","horse",0,3
+19,185,"capra","goat",0,2
+19,186,"cane","dog",0,11
+19,187,"asino","donkey",0,1
+19,189,"animale","animal",0,24
+19,190,"agnello","lamb",0,1
+19,203,"organo genitale maschile","penis",0,0
+19,204,"pancia","tummy",0,0
+19,205,"piede","feet",0,1
+19,206,"sederino","butt",0,0
+19,207,"seno","breast",0,1
+19,209,"testa","head",0,12
+19,213,"biberon","bottle",0,4
+19,214,"bicchiere","glass",0,8
+19,215,"bottiglia","bottle",0,4
+19,218,"chiave","keys",0,0
+19,221,"coltello","knife",0,4
+19,222,"coperchio","cover (object)",0,5
+19,223,"coperta","blanket",0,2
+19,224,"cucchiaio","spoon",0,4
+19,225,"cuscino","pillow",0,2
+19,228,"fazzoletto","tissue",0,0
+19,229,"forbici","scissors",0,0
+19,230,"forchetta","fork",0,2
+19,232,"giornale","paper",0,10
+19,233,"luce","light",0,4
+19,234,"libro","book",0,6
+19,235,"martello","hammer",0,0
+19,238,"musica","music",0,1
+19,239,"ombrello","umbrella",0,1
+19,240,"orologio","clock",0,0
+19,241,"pentola","pot",0,6
+19,242,"pettine","comb (object)",0,2
+19,243,"pianta","plant",0,2
+19,244,"piatto","dish",0,2
+19,246,"sapone","soap",0,3
+19,247,"scatola","box",0,4
+19,248,"scopa","broom",0,0
+19,251,"soldi","money",0,6
+19,252,"spazzolino da denti","toothbrush",0,0
+19,253,"specchio","mirror",0,4
+19,255,"tappo","cap",0,6
+19,256,"tazza","cup",0,2
+19,257,"telefono","telephone",0,0
+19,260,"vasino","potty",0,0
+19,261,"armadio","closet",0,3
+19,262,"bagno","bathroom",0,3
+19,264,"camera","room",0,4
+19,266,"cassetto","drawer",0,1
+19,267,"cucina","kitchen",0,3
+19,268,"culla","crib",0,0
+19,269,"divano","couch",0,2
+19,270,"doccia","shower",0,4
+19,272,"finestra","window",0,2
+19,275,"frigorifero","refrigerator",0,0
+19,276,"lavandino","sink",0,3
+19,278,"letto","bed",0,8
+19,281,"porta","door",0,9
+19,285,"salotto","living room",0,1
+19,286,"scala","stairs",0,0
+19,287,"sedia","chair",0,8
+19,289,"tappeto","carpet",0,0
+19,290,"tavolo","table",0,3
+19,291,"televisione/TV","tv",0,0
+19,292,"terrazza","porch",0,1
+19,293,"vasca da bagno","bathtub",0,1
+19,294,"albero","tree",0,13
+19,295,"altalena","swing (object)",0,2
+19,296,"ascensore","elevator",0,1
+19,300,"cielo","sky",0,5
+19,302,"fiore","flower",0,4
+19,306,"garage","garage",0,0
+19,307,"luna","moon",0,4
+19,309,"neve","snow",0,4
+19,310,"nuvola","cloud",0,2
+19,311,"pioggia","rain",0,6
+19,314,"prato","lawn",0,0
+19,315,"sasso","stone",0,0
+19,316,"scivolo","slide (object)",0,1
+19,317,"sole","sun",0,9
+19,318,"stella","star",0,3
+19,319,"strada","street",0,2
+19,320,"terra","earth",0,0
+19,324,"vento","wind",0,2
+20,1,"organo genitale femminile","vagina",0,0
+20,2,"orecchio","ear",0,3
+20,4,"occhio","eye",0,4
+20,5,"naso","nose",0,7
+20,7,"lingua","tongue",0,1
+20,12,"gambe","leg",0,6
+20,13,"faccia","face",0,8
+20,14,"dito","finger",0,2
+20,15,"denti","tooth",0,0
+20,17,"capelli","hair",0,5
+20,18,"braccio","arm",0,3
+20,20,"vestito","dress (object)",0,5
+20,23,"sciarpa","scarf",0,1
+20,25,"pigiama","pajamas",0,0
+20,27,"pantaloni","pants",0,4
+20,28,"pannolino","diaper",0,0
+20,29,"occhiali","glasses",0,1
+20,31,"maglione","sweater",0,3
+20,33,"guanti","gloves",0,0
+20,35,"gonna","skirt",0,2
+20,36,"giacca","jacket",0,3
+20,37,"collana","necklace",0,0
+20,39,"cappotto","coat",0,5
+20,40,"cappello","hat",0,7
+20,43,"calze","sock",0,1
+20,45,"bottone","button",0,1
+20,49,"zucchero","sugar",0,4
+20,50,"yogurt","yogurt",0,1
+20,54,"uovo","egg",0,3
+20,56,"torta","cake",0,3
+20,59,"sugo","sauce",0,1
+20,64,"riso","rice",0,0
+20,66,"polpette","meatball",0,0
+20,67,"pollo","chicken (food)",0,9
+20,69,"piselli","peas",0,1
+20,70,"pesca","peach",0,2
+20,71,"pera","pear",0,2
+20,72,"patatine","chips",0,0
+20,73,"patate","potato",0,4
+20,74,"pasta","pasta",0,0
+20,82,"miele","honey",0,2
+20,84,"mela","apple",1,6
+20,92,"gelato","ice cream",0,4
+20,94,"formaggio","cheese",0,5
+20,98,"cracker","cracker",0,1
+20,101,"cioccolata","chocolate",0,7
+20,103,"carote","carrots",0,1
+20,104,"carne","meat",0,5
+20,105,"caramella","candy",0,4
+20,112,"banana","banana",1,2
+20,114,"arancia","orange (food)",0,4
+20,116,"trottola","top",0,11
+20,121,"secchiello","bucket",0,0
+20,123,"pistola","gun",0,4
+20,126,"paletta","spade",0,0
+20,127,"giocattolo","toy (object)",0,4
+20,128,"favola/storia","book",0,6
+20,129,"cubi","block",0,1
+20,133,"bambola","doll",0,1
+20,134,"treno","train",0,3
+20,135,"trattore","tractor",0,0
+20,137,"passeggino","stroller",0,0
+20,138,"motocicletta","motorcycle",0,1
+20,139,"jeep","jeep",0,0
+20,140,"gru","crane",0,0
+20,142,"camion","truck",0,5
+20,143,"bicicletta","bicycle",0,1
+20,144,"barca","boat",0,4
+20,145,"automobile","car",0,15
+20,146,"autobus","bus",0,3
+20,147,"aereo","airplane",0,1
+20,149,"zanzara","mosquito",0,1
+20,150,"uccellino","bird",0,14
+20,151,"topo","mouse",0,4
+20,152,"tigre","tiger",0,3
+20,153,"tartaruga","turtle",0,0
+20,156,"scimmia","monkey",0,3
+20,157,"rana","frog",0,0
+20,158,"pulcino","chick",0,1
+20,159,"pinguino","penguin",0,0
+20,160,"pesciolino","fish (animal)",0,3
+20,161,"pecora","sheep",0,2
+20,162,"papera","duck",0,2
+20,163,"orso","bear",0,4
+20,164,"oca","goose",0,2
+20,165,"mucca","cow",0,6
+20,166,"mosca","fly (animal)",0,7
+20,167,"maiale","pig",0,2
+20,168,"lupo","wolf",0,1
+20,169,"leone","lion",0,3
+20,172,"giraffa","giraffe",0,1
+20,173,"gatto","cat",0,10
+20,174,"gallo","rooster",0,2
+20,175,"gallina","hen",0,5
+20,176,"formica","ant",0,0
+20,178,"farfalla","butterfly",0,0
+20,179,"elefante","elephant",0,1
+20,181,"coniglio","bunny",0,1
+20,182,"coccodrillo","crocodile",0,0
+20,183,"cerbiatto","fawn",0,0
+20,184,"cavallo","horse",0,3
+20,185,"capra","goat",0,2
+20,186,"cane","dog",0,11
+20,187,"asino","donkey",0,1
+20,189,"animale","animal",0,24
+20,190,"agnello","lamb",0,1
+20,203,"organo genitale maschile","penis",0,0
+20,204,"pancia","tummy",0,0
+20,205,"piede","feet",0,1
+20,206,"sederino","butt",0,0
+20,207,"seno","breast",0,1
+20,209,"testa","head",0,12
+20,213,"biberon","bottle",0,4
+20,214,"bicchiere","glass",0,8
+20,215,"bottiglia","bottle",0,4
+20,218,"chiave","keys",0,0
+20,221,"coltello","knife",0,4
+20,222,"coperchio","cover (object)",0,5
+20,223,"coperta","blanket",0,2
+20,224,"cucchiaio","spoon",0,4
+20,225,"cuscino","pillow",0,2
+20,228,"fazzoletto","tissue",0,0
+20,229,"forbici","scissors",0,0
+20,230,"forchetta","fork",0,2
+20,232,"giornale","paper",0,10
+20,233,"luce","light",0,4
+20,234,"libro","book",0,6
+20,235,"martello","hammer",0,0
+20,238,"musica","music",0,1
+20,239,"ombrello","umbrella",0,1
+20,240,"orologio","clock",0,0
+20,241,"pentola","pot",0,6
+20,242,"pettine","comb (object)",0,2
+20,243,"pianta","plant",0,2
+20,244,"piatto","dish",0,2
+20,246,"sapone","soap",0,3
+20,247,"scatola","box",0,4
+20,248,"scopa","broom",0,0
+20,251,"soldi","money",0,6
+20,252,"spazzolino da denti","toothbrush",0,0
+20,253,"specchio","mirror",0,4
+20,255,"tappo","cap",0,6
+20,256,"tazza","cup",0,2
+20,257,"telefono","telephone",0,0
+20,260,"vasino","potty",0,0
+20,261,"armadio","closet",0,3
+20,262,"bagno","bathroom",0,3
+20,264,"camera","room",0,4
+20,266,"cassetto","drawer",0,1
+20,267,"cucina","kitchen",0,3
+20,268,"culla","crib",0,0
+20,269,"divano","couch",0,2
+20,270,"doccia","shower",0,4
+20,272,"finestra","window",0,2
+20,275,"frigorifero","refrigerator",0,0
+20,276,"lavandino","sink",0,3
+20,278,"letto","bed",0,8
+20,281,"porta","door",0,9
+20,285,"salotto","living room",0,1
+20,286,"scala","stairs",0,0
+20,287,"sedia","chair",0,8
+20,289,"tappeto","carpet",0,0
+20,290,"tavolo","table",0,3
+20,291,"televisione/TV","tv",0,0
+20,292,"terrazza","porch",0,1
+20,293,"vasca da bagno","bathtub",0,1
+20,294,"albero","tree",0,13
+20,295,"altalena","swing (object)",0,2
+20,296,"ascensore","elevator",0,1
+20,300,"cielo","sky",0,5
+20,302,"fiore","flower",0,4
+20,306,"garage","garage",0,0
+20,307,"luna","moon",0,4
+20,309,"neve","snow",0,4
+20,310,"nuvola","cloud",0,2
+20,311,"pioggia","rain",0,6
+20,314,"prato","lawn",0,0
+20,315,"sasso","stone",0,0
+20,316,"scivolo","slide (object)",0,1
+20,317,"sole","sun",0,9
+20,318,"stella","star",0,3
+20,319,"strada","street",0,2
+20,320,"terra","earth",0,0
+20,324,"vento","wind",0,2
+21,1,"organo genitale femminile","vagina",0,0
+21,2,"orecchio","ear",1,3
+21,4,"occhio","eye",1,4
+21,5,"naso","nose",1,7
+21,7,"lingua","tongue",0,1
+21,12,"gambe","leg",0,6
+21,13,"faccia","face",0,8
+21,14,"dito","finger",1,2
+21,15,"denti","tooth",1,0
+21,17,"capelli","hair",1,5
+21,18,"braccio","arm",0,3
+21,20,"vestito","dress (object)",0,5
+21,23,"sciarpa","scarf",0,1
+21,25,"pigiama","pajamas",0,0
+21,27,"pantaloni","pants",0,4
+21,28,"pannolino","diaper",1,0
+21,29,"occhiali","glasses",0,1
+21,31,"maglione","sweater",0,3
+21,33,"guanti","gloves",0,0
+21,35,"gonna","skirt",0,2
+21,36,"giacca","jacket",0,3
+21,37,"collana","necklace",0,0
+21,39,"cappotto","coat",0,5
+21,40,"cappello","hat",0,7
+21,43,"calze","sock",0,1
+21,45,"bottone","button",0,1
+21,49,"zucchero","sugar",0,4
+21,50,"yogurt","yogurt",0,1
+21,54,"uovo","egg",0,3
+21,56,"torta","cake",0,3
+21,59,"sugo","sauce",0,1
+21,64,"riso","rice",0,0
+21,66,"polpette","meatball",0,0
+21,67,"pollo","chicken (food)",0,9
+21,69,"piselli","peas",0,1
+21,70,"pesca","peach",0,2
+21,71,"pera","pear",1,2
+21,72,"patatine","chips",0,0
+21,73,"patate","potato",1,4
+21,74,"pasta","pasta",1,0
+21,82,"miele","honey",0,2
+21,92,"gelato","ice cream",1,4
+21,94,"formaggio","cheese",0,5
+21,98,"cracker","cracker",0,1
+21,101,"cioccolata","chocolate",0,7
+21,103,"carote","carrots",0,1
+21,104,"carne","meat",1,5
+21,105,"caramella","candy",1,4
+21,114,"arancia","orange (food)",0,4
+21,116,"trottola","top",0,11
+21,121,"secchiello","bucket",0,0
+21,123,"pistola","gun",0,4
+21,126,"paletta","spade",0,0
+21,127,"giocattolo","toy (object)",0,4
+21,128,"favola/storia","book",0,6
+21,129,"cubi","block",0,1
+21,133,"bambola","doll",0,1
+21,134,"treno","train",0,3
+21,135,"trattore","tractor",0,0
+21,137,"passeggino","stroller",0,0
+21,138,"motocicletta","motorcycle",0,1
+21,139,"jeep","jeep",0,0
+21,140,"gru","crane",0,0
+21,142,"camion","truck",0,5
+21,143,"bicicletta","bicycle",0,1
+21,144,"barca","boat",0,4
+21,145,"automobile","car",0,15
+21,146,"autobus","bus",0,3
+21,147,"aereo","airplane",1,1
+21,149,"zanzara","mosquito",0,1
+21,150,"uccellino","bird",0,14
+21,151,"topo","mouse",0,4
+21,152,"tigre","tiger",0,3
+21,153,"tartaruga","turtle",0,0
+21,156,"scimmia","monkey",0,3
+21,157,"rana","frog",0,0
+21,158,"pulcino","chick",0,1
+21,159,"pinguino","penguin",0,0
+21,160,"pesciolino","fish (animal)",0,3
+21,161,"pecora","sheep",0,2
+21,162,"papera","duck",0,2
+21,163,"orso","bear",0,4
+21,164,"oca","goose",0,2
+21,165,"mucca","cow",0,6
+21,166,"mosca","fly (animal)",0,7
+21,167,"maiale","pig",0,2
+21,168,"lupo","wolf",0,1
+21,169,"leone","lion",0,3
+21,172,"giraffa","giraffe",0,1
+21,173,"gatto","cat",1,10
+21,174,"gallo","rooster",0,2
+21,175,"gallina","hen",0,5
+21,176,"formica","ant",0,0
+21,178,"farfalla","butterfly",0,0
+21,179,"elefante","elephant",0,1
+21,181,"coniglio","bunny",0,1
+21,182,"coccodrillo","crocodile",0,0
+21,183,"cerbiatto","fawn",0,0
+21,184,"cavallo","horse",1,3
+21,185,"capra","goat",0,2
+21,186,"cane","dog",1,11
+21,187,"asino","donkey",0,1
+21,189,"animale","animal",0,24
+21,190,"agnello","lamb",0,1
+21,203,"organo genitale maschile","penis",0,0
+21,204,"pancia","tummy",1,0
+21,205,"piede","feet",1,1
+21,206,"sederino","butt",0,0
+21,207,"seno","breast",0,1
+21,209,"testa","head",1,12
+21,213,"biberon","bottle",1,4
+21,214,"bicchiere","glass",1,8
+21,215,"bottiglia","bottle",0,4
+21,218,"chiave","keys",1,0
+21,221,"coltello","knife",0,4
+21,222,"coperchio","cover (object)",0,5
+21,223,"coperta","blanket",0,2
+21,224,"cucchiaio","spoon",1,4
+21,225,"cuscino","pillow",0,2
+21,228,"fazzoletto","tissue",0,0
+21,229,"forbici","scissors",0,0
+21,230,"forchetta","fork",0,2
+21,232,"giornale","paper",0,10
+21,233,"luce","light",1,4
+21,234,"libro","book",0,6
+21,235,"martello","hammer",0,0
+21,238,"musica","music",0,1
+21,239,"ombrello","umbrella",0,1
+21,240,"orologio","clock",1,0
+21,241,"pentola","pot",0,6
+21,242,"pettine","comb (object)",0,2
+21,243,"pianta","plant",0,2
+21,244,"piatto","dish",0,2
+21,246,"sapone","soap",0,3
+21,247,"scatola","box",0,4
+21,248,"scopa","broom",0,0
+21,251,"soldi","money",0,6
+21,252,"spazzolino da denti","toothbrush",0,0
+21,253,"specchio","mirror",0,4
+21,255,"tappo","cap",1,6
+21,256,"tazza","cup",0,2
+21,257,"telefono","telephone",0,0
+21,260,"vasino","potty",0,0
+21,261,"armadio","closet",0,3
+21,262,"bagno","bathroom",0,3
+21,264,"camera","room",0,4
+21,266,"cassetto","drawer",0,1
+21,267,"cucina","kitchen",0,3
+21,268,"culla","crib",0,0
+21,269,"divano","couch",0,2
+21,270,"doccia","shower",0,4
+21,272,"finestra","window",0,2
+21,275,"frigorifero","refrigerator",0,0
+21,276,"lavandino","sink",0,3
+21,278,"letto","bed",1,8
+21,281,"porta","door",1,9
+21,285,"salotto","living room",0,1
+21,286,"scala","stairs",0,0
+21,287,"sedia","chair",0,8
+21,289,"tappeto","carpet",0,0
+21,290,"tavolo","table",0,3
+21,291,"televisione/TV","tv",0,0
+21,292,"terrazza","porch",0,1
+21,293,"vasca da bagno","bathtub",0,1
+21,294,"albero","tree",0,13
+21,295,"altalena","swing (object)",0,2
+21,296,"ascensore","elevator",0,1
+21,300,"cielo","sky",0,5
+21,302,"fiore","flower",1,4
+21,306,"garage","garage",0,0
+21,307,"luna","moon",0,4
+21,309,"neve","snow",0,4
+21,310,"nuvola","cloud",0,2
+21,311,"pioggia","rain",0,6
+21,314,"prato","lawn",0,0
+21,315,"sasso","stone",0,0
+21,316,"scivolo","slide (object)",0,1
+21,317,"sole","sun",0,9
+21,318,"stella","star",0,3
+21,319,"strada","street",0,2
+21,320,"terra","earth",0,0
+21,324,"vento","wind",0,2
+22,1,"organo genitale femminile","vagina",0,0
+22,7,"lingua","tongue",0,1
+22,12,"gambe","leg",1,6
+22,13,"faccia","face",0,8
+22,18,"braccio","arm",0,3
+22,20,"vestito","dress (object)",0,5
+22,23,"sciarpa","scarf",0,1
+22,25,"pigiama","pajamas",1,0
+22,27,"pantaloni","pants",1,4
+22,29,"occhiali","glasses",1,1
+22,31,"maglione","sweater",0,3
+22,33,"guanti","gloves",0,0
+22,35,"gonna","skirt",0,2
+22,36,"giacca","jacket",0,3
+22,37,"collana","necklace",0,0
+22,39,"cappotto","coat",1,5
+22,40,"cappello","hat",1,7
+22,43,"calze","sock",0,1
+22,45,"bottone","button",0,1
+22,49,"zucchero","sugar",1,4
+22,50,"yogurt","yogurt",0,1
+22,54,"uovo","egg",1,3
+22,56,"torta","cake",1,3
+22,59,"sugo","sauce",0,1
+22,64,"riso","rice",0,0
+22,66,"polpette","meatball",0,0
+22,67,"pollo","chicken (food)",1,9
+22,69,"piselli","peas",0,1
+22,70,"pesca","peach",0,2
+22,72,"patatine","chips",0,0
+22,82,"miele","honey",0,2
+22,94,"formaggio","cheese",1,5
+22,98,"cracker","cracker",0,1
+22,101,"cioccolata","chocolate",0,7
+22,103,"carote","carrots",0,1
+22,114,"arancia","orange (food)",0,4
+22,116,"trottola","top",0,11
+22,121,"secchiello","bucket",0,0
+22,123,"pistola","gun",0,4
+22,126,"paletta","spade",0,0
+22,127,"giocattolo","toy (object)",0,4
+22,128,"favola/storia","book",0,6
+22,129,"cubi","block",0,1
+22,133,"bambola","doll",1,1
+22,134,"treno","train",1,3
+22,135,"trattore","tractor",0,0
+22,137,"passeggino","stroller",0,0
+22,138,"motocicletta","motorcycle",0,1
+22,139,"jeep","jeep",0,0
+22,140,"gru","crane",0,0
+22,142,"camion","truck",0,5
+22,143,"bicicletta","bicycle",1,1
+22,144,"barca","boat",0,4
+22,145,"automobile","car",0,15
+22,146,"autobus","bus",0,3
+22,149,"zanzara","mosquito",0,1
+22,150,"uccellino","bird",0,14
+22,151,"topo","mouse",0,4
+22,152,"tigre","tiger",0,3
+22,153,"tartaruga","turtle",0,0
+22,156,"scimmia","monkey",0,3
+22,157,"rana","frog",0,0
+22,158,"pulcino","chick",0,1
+22,159,"pinguino","penguin",0,0
+22,160,"pesciolino","fish (animal)",1,3
+22,161,"pecora","sheep",0,2
+22,162,"papera","duck",0,2
+22,163,"orso","bear",0,4
+22,164,"oca","goose",0,2
+22,165,"mucca","cow",1,6
+22,166,"mosca","fly (animal)",0,7
+22,167,"maiale","pig",0,2
+22,168,"lupo","wolf",1,1
+22,169,"leone","lion",0,3
+22,172,"giraffa","giraffe",0,1
+22,174,"gallo","rooster",0,2
+22,175,"gallina","hen",0,5
+22,176,"formica","ant",0,0
+22,178,"farfalla","butterfly",1,0
+22,179,"elefante","elephant",0,1
+22,181,"coniglio","bunny",0,1
+22,182,"coccodrillo","crocodile",0,0
+22,183,"cerbiatto","fawn",0,0
+22,185,"capra","goat",0,2
+22,187,"asino","donkey",0,1
+22,189,"animale","animal",0,24
+22,190,"agnello","lamb",0,1
+22,203,"organo genitale maschile","penis",0,0
+22,206,"sederino","butt",0,0
+22,207,"seno","breast",0,1
+22,215,"bottiglia","bottle",0,4
+22,221,"coltello","knife",0,4
+22,222,"coperchio","cover (object)",0,5
+22,223,"coperta","blanket",0,2
+22,225,"cuscino","pillow",0,2
+22,228,"fazzoletto","tissue",0,0
+22,229,"forbici","scissors",0,0
+22,230,"forchetta","fork",0,2
+22,232,"giornale","paper",0,10
+22,234,"libro","book",1,6
+22,235,"martello","hammer",0,0
+22,238,"musica","music",0,1
+22,239,"ombrello","umbrella",1,1
+22,241,"pentola","pot",0,6
+22,242,"pettine","comb (object)",1,2
+22,243,"pianta","plant",0,2
+22,244,"piatto","dish",1,2
+22,246,"sapone","soap",1,3
+22,247,"scatola","box",0,4
+22,248,"scopa","broom",0,0
+22,251,"soldi","money",1,6
+22,252,"spazzolino da denti","toothbrush",0,0
+22,253,"specchio","mirror",0,4
+22,256,"tazza","cup",0,2
+22,257,"telefono","telephone",1,0
+22,260,"vasino","potty",0,0
+22,261,"armadio","closet",0,3
+22,262,"bagno","bathroom",1,3
+22,264,"camera","room",0,4
+22,266,"cassetto","drawer",0,1
+22,267,"cucina","kitchen",0,3
+22,268,"culla","crib",0,0
+22,269,"divano","couch",0,2
+22,270,"doccia","shower",0,4
+22,272,"finestra","window",0,2
+22,275,"frigorifero","refrigerator",0,0
+22,276,"lavandino","sink",0,3
+22,285,"salotto","living room",0,1
+22,286,"scala","stairs",0,0
+22,287,"sedia","chair",1,8
+22,289,"tappeto","carpet",0,0
+22,290,"tavolo","table",0,3
+22,291,"televisione/TV","tv",1,0
+22,292,"terrazza","porch",0,1
+22,293,"vasca da bagno","bathtub",0,1
+22,294,"albero","tree",0,13
+22,295,"altalena","swing (object)",0,2
+22,296,"ascensore","elevator",0,1
+22,300,"cielo","sky",0,5
+22,306,"garage","garage",0,0
+22,307,"luna","moon",1,4
+22,309,"neve","snow",0,4
+22,310,"nuvola","cloud",0,2
+22,311,"pioggia","rain",1,6
+22,314,"prato","lawn",0,0
+22,315,"sasso","stone",1,0
+22,316,"scivolo","slide (object)",0,1
+22,317,"sole","sun",1,9
+22,318,"stella","star",1,3
+22,319,"strada","street",0,2
+22,320,"terra","earth",0,0
+22,324,"vento","wind",0,2
+23,1,"organo genitale femminile","vagina",0,0
+23,7,"lingua","tongue",0,1
+23,13,"faccia","face",1,8
+23,18,"braccio","arm",0,3
+23,20,"vestito","dress (object)",0,5
+23,23,"sciarpa","scarf",0,1
+23,31,"maglione","sweater",0,3
+23,33,"guanti","gloves",0,0
+23,35,"gonna","skirt",0,2
+23,36,"giacca","jacket",0,3
+23,37,"collana","necklace",0,0
+23,43,"calze","sock",1,1
+23,45,"bottone","button",0,1
+23,50,"yogurt","yogurt",0,1
+23,59,"sugo","sauce",0,1
+23,64,"riso","rice",1,0
+23,66,"polpette","meatball",0,0
+23,69,"piselli","peas",0,1
+23,70,"pesca","peach",0,2
+23,72,"patatine","chips",0,0
+23,82,"miele","honey",0,2
+23,98,"cracker","cracker",1,1
+23,101,"cioccolata","chocolate",1,7
+23,103,"carote","carrots",0,1
+23,114,"arancia","orange (food)",0,4
+23,116,"trottola","top",0,11
+23,121,"secchiello","bucket",0,0
+23,123,"pistola","gun",0,4
+23,126,"paletta","spade",0,0
+23,127,"giocattolo","toy (object)",0,4
+23,128,"favola/storia","book",0,6
+23,129,"cubi","block",0,1
+23,135,"trattore","tractor",0,0
+23,137,"passeggino","stroller",1,0
+23,138,"motocicletta","motorcycle",0,1
+23,139,"jeep","jeep",0,0
+23,140,"gru","crane",0,0
+23,142,"camion","truck",1,5
+23,144,"barca","boat",1,4
+23,145,"automobile","car",0,15
+23,146,"autobus","bus",0,3
+23,149,"zanzara","mosquito",0,1
+23,150,"uccellino","bird",1,14
+23,151,"topo","mouse",0,4
+23,152,"tigre","tiger",0,3
+23,153,"tartaruga","turtle",0,0
+23,156,"scimmia","monkey",0,3
+23,157,"rana","frog",0,0
+23,158,"pulcino","chick",0,1
+23,159,"pinguino","penguin",0,0
+23,161,"pecora","sheep",1,2
+23,162,"papera","duck",0,2
+23,163,"orso","bear",1,4
+23,164,"oca","goose",0,2
+23,166,"mosca","fly (animal)",0,7
+23,167,"maiale","pig",0,2
+23,169,"leone","lion",0,3
+23,172,"giraffa","giraffe",0,1
+23,174,"gallo","rooster",0,2
+23,175,"gallina","hen",1,5
+23,176,"formica","ant",0,0
+23,179,"elefante","elephant",1,1
+23,181,"coniglio","bunny",0,1
+23,182,"coccodrillo","crocodile",0,0
+23,183,"cerbiatto","fawn",0,0
+23,185,"capra","goat",0,2
+23,187,"asino","donkey",0,1
+23,189,"animale","animal",0,24
+23,190,"agnello","lamb",0,1
+23,203,"organo genitale maschile","penis",0,0
+23,206,"sederino","butt",1,0
+23,207,"seno","breast",0,1
+23,215,"bottiglia","bottle",1,4
+23,221,"coltello","knife",1,4
+23,222,"coperchio","cover (object)",0,5
+23,223,"coperta","blanket",0,2
+23,225,"cuscino","pillow",0,2
+23,228,"fazzoletto","tissue",0,0
+23,229,"forbici","scissors",0,0
+23,230,"forchetta","fork",1,2
+23,232,"giornale","paper",0,10
+23,235,"martello","hammer",0,0
+23,238,"musica","music",0,1
+23,241,"pentola","pot",0,6
+23,243,"pianta","plant",0,2
+23,247,"scatola","box",0,4
+23,248,"scopa","broom",1,0
+23,252,"spazzolino da denti","toothbrush",0,0
+23,253,"specchio","mirror",0,4
+23,256,"tazza","cup",0,2
+23,260,"vasino","potty",0,0
+23,261,"armadio","closet",0,3
+23,264,"camera","room",0,4
+23,266,"cassetto","drawer",0,1
+23,267,"cucina","kitchen",0,3
+23,268,"culla","crib",0,0
+23,269,"divano","couch",0,2
+23,270,"doccia","shower",0,4
+23,272,"finestra","window",0,2
+23,275,"frigorifero","refrigerator",0,0
+23,276,"lavandino","sink",0,3
+23,285,"salotto","living room",0,1
+23,286,"scala","stairs",0,0
+23,289,"tappeto","carpet",0,0
+23,290,"tavolo","table",0,3
+23,292,"terrazza","porch",0,1
+23,293,"vasca da bagno","bathtub",0,1
+23,294,"albero","tree",1,13
+23,295,"altalena","swing (object)",0,2
+23,296,"ascensore","elevator",0,1
+23,300,"cielo","sky",1,5
+23,306,"garage","garage",0,0
+23,309,"neve","snow",0,4
+23,310,"nuvola","cloud",0,2
+23,314,"prato","lawn",0,0
+23,316,"scivolo","slide (object)",0,1
+23,319,"strada","street",0,2
+23,320,"terra","earth",1,0
+23,324,"vento","wind",0,2
+24,1,"organo genitale femminile","vagina",0,0
+24,7,"lingua","tongue",1,1
+24,18,"braccio","arm",1,3
+24,20,"vestito","dress (object)",0,5
+24,23,"sciarpa","scarf",0,1
+24,31,"maglione","sweater",0,3
+24,33,"guanti","gloves",1,0
+24,35,"gonna","skirt",0,2
+24,36,"giacca","jacket",0,3
+24,37,"collana","necklace",1,0
+24,45,"bottone","button",1,1
+24,50,"yogurt","yogurt",1,1
+24,59,"sugo","sauce",0,1
+24,66,"polpette","meatball",0,0
+24,69,"piselli","peas",0,1
+24,70,"pesca","peach",0,2
+24,72,"patatine","chips",1,0
+24,82,"miele","honey",0,2
+24,103,"carote","carrots",1,1
+24,114,"arancia","orange (food)",1,4
+24,116,"trottola","top",0,11
+24,121,"secchiello","bucket",1,0
+24,123,"pistola","gun",0,4
+24,126,"paletta","spade",1,0
+24,127,"giocattolo","toy (object)",0,4
+24,128,"favola/storia","book",0,6
+24,129,"cubi","block",0,1
+24,135,"trattore","tractor",0,0
+24,138,"motocicletta","motorcycle",1,1
+24,139,"jeep","jeep",0,0
+24,140,"gru","crane",0,0
+24,145,"automobile","car",1,15
+24,146,"autobus","bus",0,3
+24,149,"zanzara","mosquito",0,1
+24,151,"topo","mouse",1,4
+24,152,"tigre","tiger",0,3
+24,153,"tartaruga","turtle",0,0
+24,156,"scimmia","monkey",0,3
+24,157,"rana","frog",0,0
+24,158,"pulcino","chick",0,1
+24,159,"pinguino","penguin",0,0
+24,162,"papera","duck",0,2
+24,164,"oca","goose",0,2
+24,166,"mosca","fly (animal)",1,7
+24,167,"maiale","pig",1,2
+24,169,"leone","lion",1,3
+24,172,"giraffa","giraffe",0,1
+24,174,"gallo","rooster",1,2
+24,176,"formica","ant",0,0
+24,181,"coniglio","bunny",0,1
+24,182,"coccodrillo","crocodile",0,0
+24,183,"cerbiatto","fawn",0,0
+24,185,"capra","goat",0,2
+24,187,"asino","donkey",0,1
+24,189,"animale","animal",0,24
+24,190,"agnello","lamb",0,1
+24,203,"organo genitale maschile","penis",0,0
+24,207,"seno","breast",0,1
+24,222,"coperchio","cover (object)",0,5
+24,223,"coperta","blanket",1,2
+24,225,"cuscino","pillow",1,2
+24,228,"fazzoletto","tissue",0,0
+24,229,"forbici","scissors",1,0
+24,232,"giornale","paper",0,10
+24,235,"martello","hammer",0,0
+24,238,"musica","music",1,1
+24,241,"pentola","pot",0,6
+24,243,"pianta","plant",0,2
+24,247,"scatola","box",0,4
+24,252,"spazzolino da denti","toothbrush",1,0
+24,253,"specchio","mirror",0,4
+24,256,"tazza","cup",1,2
+24,260,"vasino","potty",0,0
+24,261,"armadio","closet",0,3
+24,264,"camera","room",0,4
+24,266,"cassetto","drawer",0,1
+24,267,"cucina","kitchen",1,3
+24,268,"culla","crib",0,0
+24,269,"divano","couch",0,2
+24,270,"doccia","shower",1,4
+24,272,"finestra","window",0,2
+24,275,"frigorifero","refrigerator",0,0
+24,276,"lavandino","sink",0,3
+24,285,"salotto","living room",0,1
+24,286,"scala","stairs",1,0
+24,289,"tappeto","carpet",0,0
+24,290,"tavolo","table",1,3
+24,292,"terrazza","porch",0,1
+24,293,"vasca da bagno","bathtub",0,1
+24,295,"altalena","swing (object)",1,2
+24,296,"ascensore","elevator",0,1
+24,306,"garage","garage",0,0
+24,309,"neve","snow",1,4
+24,310,"nuvola","cloud",0,2
+24,314,"prato","lawn",0,0
+24,316,"scivolo","slide (object)",1,1
+24,319,"strada","street",0,2
+24,324,"vento","wind",0,2
+25,1,"organo genitale femminile","vagina",0,0
+25,20,"vestito","dress (object)",1,5
+25,23,"sciarpa","scarf",0,1
+25,31,"maglione","sweater",1,3
+25,35,"gonna","skirt",0,2
+25,36,"giacca","jacket",0,3
+25,59,"sugo","sauce",1,1
+25,66,"polpette","meatball",0,0
+25,69,"piselli","peas",1,1
+25,70,"pesca","peach",0,2
+25,82,"miele","honey",0,2
+25,116,"trottola","top",0,11
+25,123,"pistola","gun",0,4
+25,127,"giocattolo","toy (object)",1,4
+25,128,"favola/storia","book",1,6
+25,129,"cubi","block",0,1
+25,135,"trattore","tractor",1,0
+25,139,"jeep","jeep",0,0
+25,140,"gru","crane",0,0
+25,146,"autobus","bus",0,3
+25,149,"zanzara","mosquito",1,1
+25,152,"tigre","tiger",0,3
+25,153,"tartaruga","turtle",1,0
+25,156,"scimmia","monkey",1,3
+25,157,"rana","frog",1,0
+25,158,"pulcino","chick",1,1
+25,159,"pinguino","penguin",0,0
+25,162,"papera","duck",0,2
+25,164,"oca","goose",0,2
+25,172,"giraffa","giraffe",1,1
+25,176,"formica","ant",1,0
+25,181,"coniglio","bunny",1,1
+25,182,"coccodrillo","crocodile",1,0
+25,183,"cerbiatto","fawn",0,0
+25,185,"capra","goat",0,2
+25,187,"asino","donkey",0,1
+25,189,"animale","animal",0,24
+25,190,"agnello","lamb",0,1
+25,203,"organo genitale maschile","penis",1,0
+25,207,"seno","breast",1,1
+25,222,"coperchio","cover (object)",0,5
+25,228,"fazzoletto","tissue",1,0
+25,232,"giornale","paper",1,10
+25,235,"martello","hammer",0,0
+25,241,"pentola","pot",1,6
+25,243,"pianta","plant",1,2
+25,247,"scatola","box",0,4
+25,253,"specchio","mirror",1,4
+25,260,"vasino","potty",0,0
+25,261,"armadio","closet",0,3
+25,264,"camera","room",1,4
+25,266,"cassetto","drawer",1,1
+25,268,"culla","crib",0,0
+25,269,"divano","couch",1,2
+25,272,"finestra","window",1,2
+25,275,"frigorifero","refrigerator",1,0
+25,276,"lavandino","sink",1,3
+25,285,"salotto","living room",0,1
+25,289,"tappeto","carpet",0,0
+25,292,"terrazza","porch",0,1
+25,293,"vasca da bagno","bathtub",0,1
+25,296,"ascensore","elevator",1,1
+25,306,"garage","garage",0,0
+25,310,"nuvola","cloud",1,2
+25,314,"prato","lawn",0,0
+25,319,"strada","street",1,2
+25,324,"vento","wind",1,2
+26,1,"organo genitale femminile","vagina",0,0
+26,23,"sciarpa","scarf",0,1
+26,35,"gonna","skirt",0,2
+26,36,"giacca","jacket",1,3
+26,66,"polpette","meatball",1,0
+26,70,"pesca","peach",0,2
+26,82,"miele","honey",1,2
+26,116,"trottola","top",0,11
+26,123,"pistola","gun",1,4
+26,129,"cubi","block",0,1
+26,139,"jeep","jeep",0,0
+26,140,"gru","crane",0,0
+26,146,"autobus","bus",1,3
+26,152,"tigre","tiger",1,3
+26,159,"pinguino","penguin",0,0
+26,162,"papera","duck",1,2
+26,164,"oca","goose",1,2
+26,183,"cerbiatto","fawn",0,0
+26,185,"capra","goat",0,2
+26,187,"asino","donkey",0,1
+26,189,"animale","animal",1,24
+26,190,"agnello","lamb",0,1
+26,222,"coperchio","cover (object)",0,5
+26,235,"martello","hammer",1,0
+26,247,"scatola","box",0,4
+26,260,"vasino","potty",1,0
+26,261,"armadio","closet",1,3
+26,268,"culla","crib",0,0
+26,285,"salotto","living room",0,1
+26,289,"tappeto","carpet",0,0
+26,292,"terrazza","porch",0,1
+26,293,"vasca da bagno","bathtub",0,1
+26,306,"garage","garage",0,0
+26,314,"prato","lawn",1,0
+27,1,"organo genitale femminile","vagina",0,0
+27,23,"sciarpa","scarf",1,1
+27,35,"gonna","skirt",0,2
+27,70,"pesca","peach",0,2
+27,116,"trottola","top",0,11
+27,129,"cubi","block",1,1
+27,139,"jeep","jeep",0,0
+27,140,"gru","crane",0,0
+27,159,"pinguino","penguin",0,0
+27,183,"cerbiatto","fawn",0,0
+27,185,"capra","goat",0,2
+27,187,"asino","donkey",1,1
+27,190,"agnello","lamb",0,1
+27,222,"coperchio","cover (object)",0,5
+27,247,"scatola","box",0,4
+27,268,"culla","crib",0,0
+27,285,"salotto","living room",0,1
+27,289,"tappeto","carpet",0,0
+27,292,"terrazza","porch",0,1
+27,293,"vasca da bagno","bathtub",0,1
+27,306,"garage","garage",0,0
+28,1,"organo genitale femminile","vagina",0,0
+28,35,"gonna","skirt",1,2
+28,70,"pesca","peach",1,2
+28,116,"trottola","top",0,11
+28,139,"jeep","jeep",0,0
+28,140,"gru","crane",1,0
+28,159,"pinguino","penguin",0,0
+28,183,"cerbiatto","fawn",0,0
+28,185,"capra","goat",0,2
+28,190,"agnello","lamb",0,1
+28,222,"coperchio","cover (object)",0,5
+28,247,"scatola","box",1,4
+28,268,"culla","crib",0,0
+28,285,"salotto","living room",0,1
+28,289,"tappeto","carpet",0,0
+28,292,"terrazza","porch",0,1
+28,293,"vasca da bagno","bathtub",1,1
+28,306,"garage","garage",0,0
+29,1,"organo genitale femminile","vagina",0,0
+29,116,"trottola","top",1,11
+29,139,"jeep","jeep",0,0
+29,159,"pinguino","penguin",0,0
+29,183,"cerbiatto","fawn",0,0
+29,185,"capra","goat",0,2
+29,190,"agnello","lamb",0,1
+29,222,"coperchio","cover (object)",1,5
+29,268,"culla","crib",0,0
+29,285,"salotto","living room",0,1
+29,289,"tappeto","carpet",1,0
+29,292,"terrazza","porch",0,1
+29,306,"garage","garage",1,0
+30,1,"organo genitale femminile","vagina",1,0
+30,139,"jeep","jeep",0,0
+30,159,"pinguino","penguin",1,0
+30,183,"cerbiatto","fawn",0,0
+30,185,"capra","goat",0,2
+30,190,"agnello","lamb",0,1
+30,268,"culla","crib",0,0
+30,285,"salotto","living room",0,1
+30,292,"terrazza","porch",0,1
+31,139,"jeep","jeep",0,0
+31,183,"cerbiatto","fawn",1,0
+31,185,"capra","goat",1,2
+31,190,"agnello","lamb",0,1
+31,268,"culla","crib",1,0
+31,285,"salotto","living room",0,1
+31,292,"terrazza","porch",0,1
+32,139,"jeep","jeep",0,0
+32,190,"agnello","lamb",0,1
+32,285,"salotto","living room",0,1
+32,292,"terrazza","porch",0,1
+33,139,"jeep","jeep",0,0
+33,190,"agnello","lamb",0,1
+33,285,"salotto","living room",1,1
+33,292,"terrazza","porch",1,1
+34,139,"jeep","jeep",1,0
+34,190,"agnello","lamb",0,1
+35,190,"agnello","lamb",0,1
+36,190,"agnello","lamb",1,1

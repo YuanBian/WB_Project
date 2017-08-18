@@ -1,0 +1,1351 @@
+"age","item","definition","uni_lemma","learned","value"
+"16",15,"vaca","cow",0,1
+"16",16,"tortuga","turtle",0,0
+"16",18,"ratón","mouse",0,0
+"16",19,"rana","frog",0,0
+"16",20,"puerco","pig",0,0
+"16",21,"pollito","chick",0,0
+"16",23,"pescado","fish (animal)",0,0
+"16",24,"perro","dog",0,0
+"16",25,"pato","duck",0,2
+"16",26,"pájaro","bird",0,0
+"16",27,"oso","bear",0,0
+"16",29,"mosca","fly (animal)",0,0
+"16",30,"mono","monkey",0,2
+"16",31,"mariposa","butterfly",0,0
+"16",32,"lobo","wolf",0,1
+"16",33,"león","lion",0,0
+"16",34,"jirafa","giraffe",0,0
+"16",35,"hormiga","ant",0,0
+"16",38,"gato","cat",0,1
+"16",40,"gallina","hen",0,0
+"16",42,"elefante","elephant",0,0
+"16",43,"conejo","bunny",0,0
+"16",46,"caballo","horse",0,0
+"16",47,"burro","donkey",0,0
+"16",50,"borrego","lamb",0,0
+"16",53,"araña","spider",0,0
+"16",54,"animal","animal",0,0
+"16",55,"abeja","bee",0,0
+"16",58,"tren","train",0,0
+"16",60,"moto","motorcycle",0,1
+"16",61,"helicóptero","helicopter",0,0
+"16",62,"carro/coche","car",0,0
+"16",64,"camión/troca","truck",0,0
+"16",66,"bicicleta","bicycle",0,0
+"16",67,"barco","boat",0,0
+"16",68,"avión","airplane",0,0
+"16",70,"agua","water (beverage)",1,0
+"16",71,"arroz","rice",0,0
+"16",72,"atole","atole",0,0
+"16",75,"café","coffee",0,0
+"16",77,"carne","meat",0,0
+"16",81,"chile","chili",0,0
+"16",83,"comida","food",0,0
+"16",84,"dulce","candy",0,0
+"16",90,"frijoles","beans",0,0
+"16",91,"galleta","cookie",0,0
+"16",94,"helado/nieve","ice cream",0,0
+"16",97,"huevo","egg",0,0
+"16",98,"jamón","ham",0,1
+"16",99,"jugo","juice",0,0
+"16",100,"leche","milk",1,0
+"16",105,"manzana","apple",0,0
+"16",108,"naranja","orange (food)",0,0
+"16",109,"paleta","lollipop",0,0
+"16",111,"pan","bread",1,0
+"16",116,"pastel","cake",0,0
+"16",119,"plátano/banana","banana",0,0
+"16",120,"pollo","chicken (food)",0,0
+"16",121,"quesadilla","quesadilla",0,0
+"16",122,"queso","cheese",0,0
+"16",124,"salchicha","hot dog",0,0
+"16",127,"soda/refresco","soda",0,1
+"16",128,"sopa","soup",0,1
+"16",132,"tortilla","tortilla",0,0
+"16",133,"uvas","grapes",0,0
+"16",138,"botón","button",0,0
+"16",140,"calcetín","sock",0,0
+"16",141,"calzón","underpants",0,0
+"16",146,"falda","skirt",0,0
+"16",149,"lentes","glasses",0,0
+"16",151,"pañal","diaper",0,0
+"16",152,"pantalón","pants",0,0
+"16",153,"pijama","pajamas",0,0
+"16",154,"playera","t-shirt",0,0
+"16",156,"shorts","shorts",0,0
+"16",157,"sombrero","hat",0,0
+"16",158,"suéter","sweater",0,0
+"16",159,"vestido","dress (object)",0,0
+"16",160,"zapato","shoe",1,0
+"16",162,"bigote","moustache",0,0
+"16",163,"boca","mouth",0,1
+"16",164,"brazo","arm",0,0
+"16",165,"cabeza","head",0,0
+"16",166,"cachete","cheek",0,0
+"16",167,"cara","face",0,2
+"16",168,"chichi/pecho","breast",0,0
+"16",169,"dedo","finger",0,0
+"16",170,"dientes","tooth",0,0
+"16",174,"lengua","tongue",0,0
+"16",175,"mano","hand",0,1
+"16",177,"nariz","nose",0,0
+"16",178,"ojos","eye",0,0
+"16",179,"ombligo","belly button",0,0
+"16",180,"oreja","ear",0,0
+"16",181,"panza","tummy",0,0
+"16",182,"pelo","hair",0,0
+"16",183,"pene","penis",0,1
+"16",184,"piernas","leg",0,0
+"16",185,"pies","foot",0,0
+"16",186,"rodilla","knee",0,0
+"16",192,"globo/bomba","balloon",0,1
+"16",194,"juguete","toy (object)",0,0
+"16",195,"lápiz","pen/pencil",0,0
+"16",196,"libro","book",0,0
+"16",197,"muñeca","doll",0,0
+"16",198,"osito","teddybear",0,0
+"16",200,"pelota","ball",1,0
+"16",204,"tambor","drum",0,0
+"16",206,"botas","boots",0,0
+"16",207,"bolsa (clothing)","purse",0,0
+"16",208,"babero","bib",0,0
+"16",209,"aretes","earrings",0,0
+"16",211,"almohada","pillow",0,0
+"16",213,"basura","trash",0,0
+"16",215,"botella/mamila","bottle",0,0
+"16",216,"caja","box",0,2
+"16",220,"cepillo de dientes","toothbrush",0,0
+"16",221,"cepillo","brush (object)",0,0
+"16",223,"chupón/chupete","pacifier",0,0
+"16",224,"cigarros","cigarette",0,0
+"16",226,"cobija","blanket",0,0
+"16",229,"cuchara","spoon",0,0
+"16",230,"cuchillo","knife",0,0
+"16",231,"dinero","money",0,0
+"16",232,"escoba","broom",0,0
+"16",233,"espejo","mirror",0,0
+"16",234,"fotos","photos",0,0
+"16",235,"jabón","soap",0,1
+"16",237,"llave","keys",0,0
+"16",238,"luz","light",0,0
+"16",240,"medicina","medicine",0,0
+"16",243,"papel","paper",0,0
+"16",245,"peine","comb (object)",0,1
+"16",248,"plato","plate",0,1
+"16",249,"radio","radio",0,0
+"16",250,"reloj","watch (object)",0,0
+"16",253,"taza","cup",0,0
+"16",254,"teléfono","telephone",0,0
+"16",255,"tenedor","fork",0,0
+"16",256,"tijeras","scissors",0,0
+"16",257,"toalla","towel",0,0
+"16",258,"trapo","cloth",0,0
+"16",259,"vasos","glass",0,0
+"16",260,"vela","candle",0,0
+"16",262,"árbol","tree",0,0
+"16",264,"cielo","sky",0,0
+"16",266,"columpio","swing (object)",0,0
+"16",267,"estrella","star",0,0
+"16",268,"flor","flower",0,0
+"16",272,"lluvia","rain",0,0
+"16",273,"luna","moon",0,1
+"16",278,"nube","cloud",0,0
+"16",282,"piedra","rock (object)",0,0
+"16",283,"planta","plant",0,0
+"16",285,"resbaladilla","slide (object)",0,0
+"16",286,"sol","sun",0,0
+"16",288,"techo","roof",0,0
+"16",292,"bacinica","potty",0,0
+"16",294,"baño","bathroom",0,0
+"16",295,"cajón","drawer",0,0
+"16",296,"cama","bed",0,2
+"16",299,"cocina","kitchen",0,0
+"16",301,"cuarto","room",0,0
+"16",302,"cuna","crib",0,1
+"16",303,"escaleras","stairs",0,0
+"16",304,"estufa","stove",0,0
+"16",309,"mesa","table",0,0
+"16",312,"puerta","door",0,0
+"16",314,"refrigerador","refrigerator",0,0
+"16",315,"regadera/ducha","shower",0,0
+"16",317,"sala","living room",0,0
+"16",319,"silla","chair",0,0
+"16",322,"televisión","tv",0,0
+"16",323,"tina","bathtub",0,0
+"16",324,"ventana","window",0,0
+"18",15,"vaca","cow",0,1
+"18",16,"tortuga","turtle",0,0
+"18",18,"ratón","mouse",0,0
+"18",19,"rana","frog",0,0
+"18",20,"puerco","pig",0,0
+"18",21,"pollito","chick",0,0
+"18",23,"pescado","fish (animal)",0,0
+"18",24,"perro","dog",1,0
+"18",25,"pato","duck",0,2
+"18",26,"pájaro","bird",0,0
+"18",27,"oso","bear",0,0
+"18",29,"mosca","fly (animal)",0,0
+"18",30,"mono","monkey",0,2
+"18",31,"mariposa","butterfly",0,0
+"18",32,"lobo","wolf",0,1
+"18",33,"león","lion",0,0
+"18",34,"jirafa","giraffe",0,0
+"18",35,"hormiga","ant",0,0
+"18",38,"gato","cat",0,1
+"18",40,"gallina","hen",0,0
+"18",42,"elefante","elephant",0,0
+"18",43,"conejo","bunny",0,0
+"18",46,"caballo","horse",0,0
+"18",47,"burro","donkey",0,0
+"18",50,"borrego","lamb",0,0
+"18",53,"araña","spider",0,0
+"18",54,"animal","animal",0,0
+"18",55,"abeja","bee",0,0
+"18",58,"tren","train",0,0
+"18",60,"moto","motorcycle",0,1
+"18",61,"helicóptero","helicopter",0,0
+"18",62,"carro/coche","car",1,0
+"18",64,"camión/troca","truck",0,0
+"18",66,"bicicleta","bicycle",0,0
+"18",67,"barco","boat",0,0
+"18",68,"avión","airplane",0,0
+"18",71,"arroz","rice",0,0
+"18",72,"atole","atole",0,0
+"18",75,"café","coffee",0,0
+"18",77,"carne","meat",0,0
+"18",81,"chile","chili",0,0
+"18",83,"comida","food",0,0
+"18",84,"dulce","candy",0,0
+"18",90,"frijoles","beans",0,0
+"18",91,"galleta","cookie",0,0
+"18",94,"helado/nieve","ice cream",0,0
+"18",97,"huevo","egg",0,0
+"18",98,"jamón","ham",0,1
+"18",99,"jugo","juice",0,0
+"18",105,"manzana","apple",0,0
+"18",108,"naranja","orange (food)",0,0
+"18",109,"paleta","lollipop",0,0
+"18",116,"pastel","cake",0,0
+"18",119,"plátano/banana","banana",0,0
+"18",120,"pollo","chicken (food)",0,0
+"18",121,"quesadilla","quesadilla",0,0
+"18",122,"queso","cheese",0,0
+"18",124,"salchicha","hot dog",0,0
+"18",127,"soda/refresco","soda",0,1
+"18",128,"sopa","soup",1,1
+"18",132,"tortilla","tortilla",0,0
+"18",133,"uvas","grapes",0,0
+"18",138,"botón","button",0,0
+"18",140,"calcetín","sock",0,0
+"18",141,"calzón","underpants",0,0
+"18",146,"falda","skirt",0,0
+"18",149,"lentes","glasses",0,0
+"18",151,"pañal","diaper",0,0
+"18",152,"pantalón","pants",0,0
+"18",153,"pijama","pajamas",0,0
+"18",154,"playera","t-shirt",0,0
+"18",156,"shorts","shorts",0,0
+"18",157,"sombrero","hat",0,0
+"18",158,"suéter","sweater",0,0
+"18",159,"vestido","dress (object)",0,0
+"18",162,"bigote","moustache",0,0
+"18",163,"boca","mouth",0,1
+"18",164,"brazo","arm",0,0
+"18",165,"cabeza","head",0,0
+"18",166,"cachete","cheek",0,0
+"18",167,"cara","face",0,2
+"18",168,"chichi/pecho","breast",0,0
+"18",169,"dedo","finger",0,0
+"18",170,"dientes","tooth",0,0
+"18",174,"lengua","tongue",0,0
+"18",175,"mano","hand",1,1
+"18",177,"nariz","nose",0,0
+"18",178,"ojos","eye",0,0
+"18",179,"ombligo","belly button",0,0
+"18",180,"oreja","ear",0,0
+"18",181,"panza","tummy",0,0
+"18",182,"pelo","hair",0,0
+"18",183,"pene","penis",0,1
+"18",184,"piernas","leg",0,0
+"18",185,"pies","foot",0,0
+"18",186,"rodilla","knee",0,0
+"18",192,"globo/bomba","balloon",1,1
+"18",194,"juguete","toy (object)",0,0
+"18",195,"lápiz","pen/pencil",0,0
+"18",196,"libro","book",0,0
+"18",197,"muñeca","doll",0,0
+"18",198,"osito","teddybear",0,0
+"18",204,"tambor","drum",0,0
+"18",206,"botas","boots",0,0
+"18",207,"bolsa (clothing)","purse",0,0
+"18",208,"babero","bib",0,0
+"18",209,"aretes","earrings",0,0
+"18",211,"almohada","pillow",0,0
+"18",213,"basura","trash",0,0
+"18",215,"botella/mamila","bottle",0,0
+"18",216,"caja","box",0,2
+"18",220,"cepillo de dientes","toothbrush",0,0
+"18",221,"cepillo","brush (object)",0,0
+"18",223,"chupón/chupete","pacifier",0,0
+"18",224,"cigarros","cigarette",0,0
+"18",226,"cobija","blanket",0,0
+"18",229,"cuchara","spoon",0,0
+"18",230,"cuchillo","knife",0,0
+"18",231,"dinero","money",0,0
+"18",232,"escoba","broom",0,0
+"18",233,"espejo","mirror",0,0
+"18",234,"fotos","photos",0,0
+"18",235,"jabón","soap",0,1
+"18",237,"llave","keys",0,0
+"18",238,"luz","light",0,0
+"18",240,"medicina","medicine",0,0
+"18",243,"papel","paper",0,0
+"18",245,"peine","comb (object)",0,1
+"18",248,"plato","plate",0,1
+"18",249,"radio","radio",0,0
+"18",250,"reloj","watch (object)",0,0
+"18",253,"taza","cup",0,0
+"18",254,"teléfono","telephone",0,0
+"18",255,"tenedor","fork",0,0
+"18",256,"tijeras","scissors",0,0
+"18",257,"toalla","towel",0,0
+"18",258,"trapo","cloth",0,0
+"18",259,"vasos","glass",0,0
+"18",260,"vela","candle",0,0
+"18",262,"árbol","tree",0,0
+"18",264,"cielo","sky",0,0
+"18",266,"columpio","swing (object)",0,0
+"18",267,"estrella","star",0,0
+"18",268,"flor","flower",0,0
+"18",272,"lluvia","rain",0,0
+"18",273,"luna","moon",0,1
+"18",278,"nube","cloud",0,0
+"18",282,"piedra","rock (object)",0,0
+"18",283,"planta","plant",0,0
+"18",285,"resbaladilla","slide (object)",0,0
+"18",286,"sol","sun",0,0
+"18",288,"techo","roof",0,0
+"18",292,"bacinica","potty",0,0
+"18",294,"baño","bathroom",0,0
+"18",295,"cajón","drawer",0,0
+"18",296,"cama","bed",0,2
+"18",299,"cocina","kitchen",0,0
+"18",301,"cuarto","room",0,0
+"18",302,"cuna","crib",0,1
+"18",303,"escaleras","stairs",0,0
+"18",304,"estufa","stove",0,0
+"18",309,"mesa","table",0,0
+"18",312,"puerta","door",0,0
+"18",314,"refrigerador","refrigerator",0,0
+"18",315,"regadera/ducha","shower",0,0
+"18",317,"sala","living room",0,0
+"18",319,"silla","chair",0,0
+"18",322,"televisión","tv",0,0
+"18",323,"tina","bathtub",0,0
+"18",324,"ventana","window",0,0
+"19",15,"vaca","cow",0,1
+"19",16,"tortuga","turtle",0,0
+"19",18,"ratón","mouse",0,0
+"19",19,"rana","frog",0,0
+"19",20,"puerco","pig",0,0
+"19",21,"pollito","chick",0,0
+"19",23,"pescado","fish (animal)",0,0
+"19",25,"pato","duck",0,2
+"19",26,"pájaro","bird",0,0
+"19",27,"oso","bear",0,0
+"19",29,"mosca","fly (animal)",0,0
+"19",30,"mono","monkey",0,2
+"19",31,"mariposa","butterfly",0,0
+"19",32,"lobo","wolf",0,1
+"19",33,"león","lion",0,0
+"19",34,"jirafa","giraffe",0,0
+"19",35,"hormiga","ant",0,0
+"19",38,"gato","cat",0,1
+"19",40,"gallina","hen",0,0
+"19",42,"elefante","elephant",0,0
+"19",43,"conejo","bunny",0,0
+"19",46,"caballo","horse",0,0
+"19",47,"burro","donkey",0,0
+"19",50,"borrego","lamb",0,0
+"19",53,"araña","spider",0,0
+"19",54,"animal","animal",0,0
+"19",55,"abeja","bee",0,0
+"19",58,"tren","train",0,0
+"19",60,"moto","motorcycle",0,1
+"19",61,"helicóptero","helicopter",0,0
+"19",64,"camión/troca","truck",0,0
+"19",66,"bicicleta","bicycle",0,0
+"19",67,"barco","boat",0,0
+"19",68,"avión","airplane",0,0
+"19",71,"arroz","rice",0,0
+"19",72,"atole","atole",0,0
+"19",75,"café","coffee",0,0
+"19",77,"carne","meat",0,0
+"19",81,"chile","chili",0,0
+"19",83,"comida","food",0,0
+"19",84,"dulce","candy",0,0
+"19",90,"frijoles","beans",0,0
+"19",91,"galleta","cookie",1,0
+"19",94,"helado/nieve","ice cream",0,0
+"19",97,"huevo","egg",0,0
+"19",98,"jamón","ham",0,1
+"19",99,"jugo","juice",0,0
+"19",105,"manzana","apple",0,0
+"19",108,"naranja","orange (food)",0,0
+"19",109,"paleta","lollipop",0,0
+"19",116,"pastel","cake",0,0
+"19",119,"plátano/banana","banana",0,0
+"19",120,"pollo","chicken (food)",0,0
+"19",121,"quesadilla","quesadilla",0,0
+"19",122,"queso","cheese",0,0
+"19",124,"salchicha","hot dog",0,0
+"19",127,"soda/refresco","soda",0,1
+"19",132,"tortilla","tortilla",0,0
+"19",133,"uvas","grapes",0,0
+"19",138,"botón","button",0,0
+"19",140,"calcetín","sock",0,0
+"19",141,"calzón","underpants",0,0
+"19",146,"falda","skirt",0,0
+"19",149,"lentes","glasses",0,0
+"19",151,"pañal","diaper",1,0
+"19",152,"pantalón","pants",0,0
+"19",153,"pijama","pajamas",0,0
+"19",154,"playera","t-shirt",0,0
+"19",156,"shorts","shorts",0,0
+"19",157,"sombrero","hat",0,0
+"19",158,"suéter","sweater",0,0
+"19",159,"vestido","dress (object)",0,0
+"19",162,"bigote","moustache",0,0
+"19",163,"boca","mouth",1,1
+"19",164,"brazo","arm",0,0
+"19",165,"cabeza","head",1,0
+"19",166,"cachete","cheek",0,0
+"19",167,"cara","face",0,2
+"19",168,"chichi/pecho","breast",0,0
+"19",169,"dedo","finger",0,0
+"19",170,"dientes","tooth",0,0
+"19",174,"lengua","tongue",0,0
+"19",177,"nariz","nose",1,0
+"19",178,"ojos","eye",1,0
+"19",179,"ombligo","belly button",0,0
+"19",180,"oreja","ear",0,0
+"19",181,"panza","tummy",0,0
+"19",182,"pelo","hair",0,0
+"19",183,"pene","penis",0,1
+"19",184,"piernas","leg",0,0
+"19",185,"pies","foot",1,0
+"19",186,"rodilla","knee",0,0
+"19",194,"juguete","toy (object)",0,0
+"19",195,"lápiz","pen/pencil",0,0
+"19",196,"libro","book",0,0
+"19",197,"muñeca","doll",0,0
+"19",198,"osito","teddybear",0,0
+"19",204,"tambor","drum",0,0
+"19",206,"botas","boots",0,0
+"19",207,"bolsa (clothing)","purse",0,0
+"19",208,"babero","bib",0,0
+"19",209,"aretes","earrings",0,0
+"19",211,"almohada","pillow",0,0
+"19",213,"basura","trash",0,0
+"19",215,"botella/mamila","bottle",1,0
+"19",216,"caja","box",0,2
+"19",220,"cepillo de dientes","toothbrush",0,0
+"19",221,"cepillo","brush (object)",0,0
+"19",223,"chupón/chupete","pacifier",0,0
+"19",224,"cigarros","cigarette",0,0
+"19",226,"cobija","blanket",0,0
+"19",229,"cuchara","spoon",0,0
+"19",230,"cuchillo","knife",0,0
+"19",231,"dinero","money",0,0
+"19",232,"escoba","broom",0,0
+"19",233,"espejo","mirror",0,0
+"19",234,"fotos","photos",0,0
+"19",235,"jabón","soap",0,1
+"19",237,"llave","keys",0,0
+"19",238,"luz","light",0,0
+"19",240,"medicina","medicine",0,0
+"19",243,"papel","paper",0,0
+"19",245,"peine","comb (object)",0,1
+"19",248,"plato","plate",0,1
+"19",249,"radio","radio",0,0
+"19",250,"reloj","watch (object)",0,0
+"19",253,"taza","cup",0,0
+"19",254,"teléfono","telephone",0,0
+"19",255,"tenedor","fork",0,0
+"19",256,"tijeras","scissors",0,0
+"19",257,"toalla","towel",0,0
+"19",258,"trapo","cloth",0,0
+"19",259,"vasos","glass",0,0
+"19",260,"vela","candle",0,0
+"19",262,"árbol","tree",0,0
+"19",264,"cielo","sky",0,0
+"19",266,"columpio","swing (object)",0,0
+"19",267,"estrella","star",0,0
+"19",268,"flor","flower",0,0
+"19",272,"lluvia","rain",0,0
+"19",273,"luna","moon",0,1
+"19",278,"nube","cloud",0,0
+"19",282,"piedra","rock (object)",0,0
+"19",283,"planta","plant",0,0
+"19",285,"resbaladilla","slide (object)",0,0
+"19",286,"sol","sun",0,0
+"19",288,"techo","roof",0,0
+"19",292,"bacinica","potty",0,0
+"19",294,"baño","bathroom",0,0
+"19",295,"cajón","drawer",0,0
+"19",296,"cama","bed",0,2
+"19",299,"cocina","kitchen",0,0
+"19",301,"cuarto","room",0,0
+"19",302,"cuna","crib",0,1
+"19",303,"escaleras","stairs",0,0
+"19",304,"estufa","stove",0,0
+"19",309,"mesa","table",0,0
+"19",312,"puerta","door",0,0
+"19",314,"refrigerador","refrigerator",0,0
+"19",315,"regadera/ducha","shower",0,0
+"19",317,"sala","living room",0,0
+"19",319,"silla","chair",0,0
+"19",322,"televisión","tv",0,0
+"19",323,"tina","bathtub",0,0
+"19",324,"ventana","window",0,0
+"20",15,"vaca","cow",0,1
+"20",16,"tortuga","turtle",0,0
+"20",18,"ratón","mouse",0,0
+"20",19,"rana","frog",0,0
+"20",20,"puerco","pig",0,0
+"20",21,"pollito","chick",0,0
+"20",23,"pescado","fish (animal)",0,0
+"20",25,"pato","duck",0,2
+"20",26,"pájaro","bird",0,0
+"20",27,"oso","bear",0,0
+"20",29,"mosca","fly (animal)",0,0
+"20",30,"mono","monkey",0,2
+"20",31,"mariposa","butterfly",0,0
+"20",32,"lobo","wolf",0,1
+"20",33,"león","lion",0,0
+"20",34,"jirafa","giraffe",0,0
+"20",35,"hormiga","ant",0,0
+"20",38,"gato","cat",1,1
+"20",40,"gallina","hen",0,0
+"20",42,"elefante","elephant",0,0
+"20",43,"conejo","bunny",0,0
+"20",46,"caballo","horse",1,0
+"20",47,"burro","donkey",0,0
+"20",50,"borrego","lamb",0,0
+"20",53,"araña","spider",0,0
+"20",54,"animal","animal",0,0
+"20",55,"abeja","bee",0,0
+"20",58,"tren","train",0,0
+"20",60,"moto","motorcycle",0,1
+"20",61,"helicóptero","helicopter",0,0
+"20",64,"camión/troca","truck",0,0
+"20",66,"bicicleta","bicycle",0,0
+"20",67,"barco","boat",0,0
+"20",68,"avión","airplane",0,0
+"20",71,"arroz","rice",0,0
+"20",72,"atole","atole",0,0
+"20",75,"café","coffee",0,0
+"20",77,"carne","meat",0,0
+"20",81,"chile","chili",0,0
+"20",83,"comida","food",0,0
+"20",84,"dulce","candy",0,0
+"20",90,"frijoles","beans",0,0
+"20",94,"helado/nieve","ice cream",0,0
+"20",97,"huevo","egg",1,0
+"20",98,"jamón","ham",0,1
+"20",99,"jugo","juice",1,0
+"20",105,"manzana","apple",0,0
+"20",108,"naranja","orange (food)",0,0
+"20",109,"paleta","lollipop",1,0
+"20",116,"pastel","cake",0,0
+"20",119,"plátano/banana","banana",0,0
+"20",120,"pollo","chicken (food)",0,0
+"20",121,"quesadilla","quesadilla",0,0
+"20",122,"queso","cheese",0,0
+"20",124,"salchicha","hot dog",0,0
+"20",127,"soda/refresco","soda",1,1
+"20",132,"tortilla","tortilla",0,0
+"20",133,"uvas","grapes",0,0
+"20",138,"botón","button",0,0
+"20",140,"calcetín","sock",0,0
+"20",141,"calzón","underpants",0,0
+"20",146,"falda","skirt",0,0
+"20",149,"lentes","glasses",0,0
+"20",152,"pantalón","pants",0,0
+"20",153,"pijama","pajamas",0,0
+"20",154,"playera","t-shirt",0,0
+"20",156,"shorts","shorts",0,0
+"20",157,"sombrero","hat",0,0
+"20",158,"suéter","sweater",0,0
+"20",159,"vestido","dress (object)",0,0
+"20",162,"bigote","moustache",0,0
+"20",164,"brazo","arm",0,0
+"20",166,"cachete","cheek",0,0
+"20",167,"cara","face",0,2
+"20",168,"chichi/pecho","breast",1,0
+"20",169,"dedo","finger",0,0
+"20",170,"dientes","tooth",0,0
+"20",174,"lengua","tongue",0,0
+"20",179,"ombligo","belly button",0,0
+"20",180,"oreja","ear",0,0
+"20",181,"panza","tummy",0,0
+"20",182,"pelo","hair",1,0
+"20",183,"pene","penis",0,1
+"20",184,"piernas","leg",0,0
+"20",186,"rodilla","knee",0,0
+"20",194,"juguete","toy (object)",0,0
+"20",195,"lápiz","pen/pencil",0,0
+"20",196,"libro","book",0,0
+"20",197,"muñeca","doll",0,0
+"20",198,"osito","teddybear",0,0
+"20",204,"tambor","drum",0,0
+"20",206,"botas","boots",0,0
+"20",207,"bolsa (clothing)","purse",0,0
+"20",208,"babero","bib",0,0
+"20",209,"aretes","earrings",0,0
+"20",211,"almohada","pillow",0,0
+"20",213,"basura","trash",0,0
+"20",216,"caja","box",0,2
+"20",220,"cepillo de dientes","toothbrush",0,0
+"20",221,"cepillo","brush (object)",0,0
+"20",223,"chupón/chupete","pacifier",0,0
+"20",224,"cigarros","cigarette",0,0
+"20",226,"cobija","blanket",0,0
+"20",229,"cuchara","spoon",0,0
+"20",230,"cuchillo","knife",0,0
+"20",231,"dinero","money",0,0
+"20",232,"escoba","broom",0,0
+"20",233,"espejo","mirror",0,0
+"20",234,"fotos","photos",0,0
+"20",235,"jabón","soap",0,1
+"20",237,"llave","keys",0,0
+"20",238,"luz","light",0,0
+"20",240,"medicina","medicine",0,0
+"20",243,"papel","paper",0,0
+"20",245,"peine","comb (object)",0,1
+"20",248,"plato","plate",0,1
+"20",249,"radio","radio",0,0
+"20",250,"reloj","watch (object)",0,0
+"20",253,"taza","cup",0,0
+"20",254,"teléfono","telephone",0,0
+"20",255,"tenedor","fork",0,0
+"20",256,"tijeras","scissors",0,0
+"20",257,"toalla","towel",0,0
+"20",258,"trapo","cloth",0,0
+"20",259,"vasos","glass",0,0
+"20",260,"vela","candle",0,0
+"20",262,"árbol","tree",0,0
+"20",264,"cielo","sky",0,0
+"20",266,"columpio","swing (object)",0,0
+"20",267,"estrella","star",0,0
+"20",268,"flor","flower",0,0
+"20",272,"lluvia","rain",0,0
+"20",273,"luna","moon",0,1
+"20",278,"nube","cloud",0,0
+"20",282,"piedra","rock (object)",0,0
+"20",283,"planta","plant",0,0
+"20",285,"resbaladilla","slide (object)",0,0
+"20",286,"sol","sun",0,0
+"20",288,"techo","roof",0,0
+"20",292,"bacinica","potty",0,0
+"20",294,"baño","bathroom",0,0
+"20",295,"cajón","drawer",0,0
+"20",296,"cama","bed",1,2
+"20",299,"cocina","kitchen",0,0
+"20",301,"cuarto","room",0,0
+"20",302,"cuna","crib",0,1
+"20",303,"escaleras","stairs",0,0
+"20",304,"estufa","stove",0,0
+"20",309,"mesa","table",0,0
+"20",312,"puerta","door",0,0
+"20",314,"refrigerador","refrigerator",0,0
+"20",315,"regadera/ducha","shower",0,0
+"20",317,"sala","living room",0,0
+"20",319,"silla","chair",1,0
+"20",322,"televisión","tv",0,0
+"20",323,"tina","bathtub",0,0
+"20",324,"ventana","window",0,0
+"21",15,"vaca","cow",1,1
+"21",16,"tortuga","turtle",0,0
+"21",18,"ratón","mouse",0,0
+"21",19,"rana","frog",0,0
+"21",20,"puerco","pig",0,0
+"21",21,"pollito","chick",0,0
+"21",23,"pescado","fish (animal)",0,0
+"21",25,"pato","duck",1,2
+"21",26,"pájaro","bird",1,0
+"21",27,"oso","bear",1,0
+"21",29,"mosca","fly (animal)",0,0
+"21",30,"mono","monkey",0,2
+"21",31,"mariposa","butterfly",0,0
+"21",32,"lobo","wolf",0,1
+"21",33,"león","lion",0,0
+"21",34,"jirafa","giraffe",0,0
+"21",35,"hormiga","ant",0,0
+"21",40,"gallina","hen",0,0
+"21",42,"elefante","elephant",0,0
+"21",43,"conejo","bunny",0,0
+"21",47,"burro","donkey",0,0
+"21",50,"borrego","lamb",0,0
+"21",53,"araña","spider",0,0
+"21",54,"animal","animal",0,0
+"21",55,"abeja","bee",0,0
+"21",58,"tren","train",0,0
+"21",60,"moto","motorcycle",0,1
+"21",61,"helicóptero","helicopter",0,0
+"21",64,"camión/troca","truck",0,0
+"21",66,"bicicleta","bicycle",0,0
+"21",67,"barco","boat",0,0
+"21",68,"avión","airplane",1,0
+"21",71,"arroz","rice",0,0
+"21",72,"atole","atole",0,0
+"21",75,"café","coffee",0,0
+"21",77,"carne","meat",1,0
+"21",81,"chile","chili",0,0
+"21",83,"comida","food",0,0
+"21",84,"dulce","candy",0,0
+"21",90,"frijoles","beans",0,0
+"21",94,"helado/nieve","ice cream",0,0
+"21",98,"jamón","ham",0,1
+"21",105,"manzana","apple",0,0
+"21",108,"naranja","orange (food)",0,0
+"21",116,"pastel","cake",0,0
+"21",119,"plátano/banana","banana",1,0
+"21",120,"pollo","chicken (food)",1,0
+"21",121,"quesadilla","quesadilla",0,0
+"21",122,"queso","cheese",0,0
+"21",124,"salchicha","hot dog",0,0
+"21",132,"tortilla","tortilla",0,0
+"21",133,"uvas","grapes",0,0
+"21",138,"botón","button",0,0
+"21",140,"calcetín","sock",0,0
+"21",141,"calzón","underpants",0,0
+"21",146,"falda","skirt",0,0
+"21",149,"lentes","glasses",0,0
+"21",152,"pantalón","pants",0,0
+"21",153,"pijama","pajamas",0,0
+"21",154,"playera","t-shirt",0,0
+"21",156,"shorts","shorts",0,0
+"21",157,"sombrero","hat",0,0
+"21",158,"suéter","sweater",0,0
+"21",159,"vestido","dress (object)",0,0
+"21",162,"bigote","moustache",0,0
+"21",164,"brazo","arm",0,0
+"21",166,"cachete","cheek",0,0
+"21",167,"cara","face",0,2
+"21",169,"dedo","finger",1,0
+"21",170,"dientes","tooth",1,0
+"21",174,"lengua","tongue",0,0
+"21",179,"ombligo","belly button",0,0
+"21",180,"oreja","ear",0,0
+"21",181,"panza","tummy",0,0
+"21",183,"pene","penis",0,1
+"21",184,"piernas","leg",0,0
+"21",186,"rodilla","knee",0,0
+"21",194,"juguete","toy (object)",0,0
+"21",195,"lápiz","pen/pencil",0,0
+"21",196,"libro","book",0,0
+"21",197,"muñeca","doll",0,0
+"21",198,"osito","teddybear",0,0
+"21",204,"tambor","drum",0,0
+"21",206,"botas","boots",0,0
+"21",207,"bolsa (clothing)","purse",0,0
+"21",208,"babero","bib",0,0
+"21",209,"aretes","earrings",0,0
+"21",211,"almohada","pillow",0,0
+"21",213,"basura","trash",1,0
+"21",216,"caja","box",0,2
+"21",220,"cepillo de dientes","toothbrush",0,0
+"21",221,"cepillo","brush (object)",0,0
+"21",223,"chupón/chupete","pacifier",0,0
+"21",224,"cigarros","cigarette",0,0
+"21",226,"cobija","blanket",0,0
+"21",229,"cuchara","spoon",0,0
+"21",230,"cuchillo","knife",0,0
+"21",231,"dinero","money",0,0
+"21",232,"escoba","broom",0,0
+"21",233,"espejo","mirror",0,0
+"21",234,"fotos","photos",0,0
+"21",235,"jabón","soap",1,1
+"21",237,"llave","keys",0,0
+"21",238,"luz","light",1,0
+"21",240,"medicina","medicine",0,0
+"21",243,"papel","paper",0,0
+"21",245,"peine","comb (object)",1,1
+"21",248,"plato","plate",0,1
+"21",249,"radio","radio",0,0
+"21",250,"reloj","watch (object)",0,0
+"21",253,"taza","cup",0,0
+"21",254,"teléfono","telephone",0,0
+"21",255,"tenedor","fork",0,0
+"21",256,"tijeras","scissors",0,0
+"21",257,"toalla","towel",0,0
+"21",258,"trapo","cloth",0,0
+"21",259,"vasos","glass",0,0
+"21",260,"vela","candle",0,0
+"21",262,"árbol","tree",0,0
+"21",264,"cielo","sky",0,0
+"21",266,"columpio","swing (object)",0,0
+"21",267,"estrella","star",0,0
+"21",268,"flor","flower",0,0
+"21",272,"lluvia","rain",0,0
+"21",273,"luna","moon",0,1
+"21",278,"nube","cloud",0,0
+"21",282,"piedra","rock (object)",0,0
+"21",283,"planta","plant",0,0
+"21",285,"resbaladilla","slide (object)",0,0
+"21",286,"sol","sun",0,0
+"21",288,"techo","roof",0,0
+"21",292,"bacinica","potty",0,0
+"21",294,"baño","bathroom",1,0
+"21",295,"cajón","drawer",0,0
+"21",299,"cocina","kitchen",0,0
+"21",301,"cuarto","room",0,0
+"21",302,"cuna","crib",0,1
+"21",303,"escaleras","stairs",0,0
+"21",304,"estufa","stove",0,0
+"21",309,"mesa","table",1,0
+"21",312,"puerta","door",0,0
+"21",314,"refrigerador","refrigerator",0,0
+"21",315,"regadera/ducha","shower",0,0
+"21",317,"sala","living room",0,0
+"21",322,"televisión","tv",0,0
+"21",323,"tina","bathtub",0,0
+"21",324,"ventana","window",0,0
+"22",16,"tortuga","turtle",0,0
+"22",18,"ratón","mouse",0,0
+"22",19,"rana","frog",0,0
+"22",20,"puerco","pig",0,0
+"22",21,"pollito","chick",1,0
+"22",23,"pescado","fish (animal)",0,0
+"22",29,"mosca","fly (animal)",0,0
+"22",30,"mono","monkey",0,2
+"22",31,"mariposa","butterfly",0,0
+"22",32,"lobo","wolf",0,1
+"22",33,"león","lion",0,0
+"22",34,"jirafa","giraffe",0,0
+"22",35,"hormiga","ant",0,0
+"22",40,"gallina","hen",0,0
+"22",42,"elefante","elephant",0,0
+"22",43,"conejo","bunny",0,0
+"22",47,"burro","donkey",0,0
+"22",50,"borrego","lamb",0,0
+"22",53,"araña","spider",0,0
+"22",54,"animal","animal",0,0
+"22",55,"abeja","bee",0,0
+"22",58,"tren","train",0,0
+"22",60,"moto","motorcycle",0,1
+"22",61,"helicóptero","helicopter",0,0
+"22",64,"camión/troca","truck",0,0
+"22",66,"bicicleta","bicycle",0,0
+"22",67,"barco","boat",0,0
+"22",71,"arroz","rice",0,0
+"22",72,"atole","atole",0,0
+"22",75,"café","coffee",0,0
+"22",81,"chile","chili",1,0
+"22",83,"comida","food",0,0
+"22",84,"dulce","candy",1,0
+"22",90,"frijoles","beans",0,0
+"22",94,"helado/nieve","ice cream",0,0
+"22",98,"jamón","ham",0,1
+"22",105,"manzana","apple",0,0
+"22",108,"naranja","orange (food)",0,0
+"22",116,"pastel","cake",0,0
+"22",121,"quesadilla","quesadilla",0,0
+"22",122,"queso","cheese",0,0
+"22",124,"salchicha","hot dog",0,0
+"22",132,"tortilla","tortilla",1,0
+"22",133,"uvas","grapes",0,0
+"22",138,"botón","button",0,0
+"22",140,"calcetín","sock",1,0
+"22",141,"calzón","underpants",0,0
+"22",146,"falda","skirt",0,0
+"22",149,"lentes","glasses",0,0
+"22",152,"pantalón","pants",0,0
+"22",153,"pijama","pajamas",0,0
+"22",154,"playera","t-shirt",0,0
+"22",156,"shorts","shorts",0,0
+"22",157,"sombrero","hat",0,0
+"22",158,"suéter","sweater",0,0
+"22",159,"vestido","dress (object)",0,0
+"22",162,"bigote","moustache",0,0
+"22",164,"brazo","arm",0,0
+"22",166,"cachete","cheek",0,0
+"22",167,"cara","face",0,2
+"22",174,"lengua","tongue",0,0
+"22",179,"ombligo","belly button",0,0
+"22",180,"oreja","ear",0,0
+"22",181,"panza","tummy",1,0
+"22",183,"pene","penis",0,1
+"22",184,"piernas","leg",0,0
+"22",186,"rodilla","knee",0,0
+"22",194,"juguete","toy (object)",0,0
+"22",195,"lápiz","pen/pencil",0,0
+"22",196,"libro","book",0,0
+"22",197,"muñeca","doll",0,0
+"22",198,"osito","teddybear",0,0
+"22",204,"tambor","drum",0,0
+"22",206,"botas","boots",0,0
+"22",207,"bolsa (clothing)","purse",0,0
+"22",208,"babero","bib",0,0
+"22",209,"aretes","earrings",0,0
+"22",211,"almohada","pillow",0,0
+"22",216,"caja","box",0,2
+"22",220,"cepillo de dientes","toothbrush",0,0
+"22",221,"cepillo","brush (object)",1,0
+"22",223,"chupón/chupete","pacifier",0,0
+"22",224,"cigarros","cigarette",0,0
+"22",226,"cobija","blanket",0,0
+"22",229,"cuchara","spoon",1,0
+"22",230,"cuchillo","knife",0,0
+"22",231,"dinero","money",0,0
+"22",232,"escoba","broom",0,0
+"22",233,"espejo","mirror",0,0
+"22",234,"fotos","photos",0,0
+"22",237,"llave","keys",0,0
+"22",240,"medicina","medicine",0,0
+"22",243,"papel","paper",1,0
+"22",248,"plato","plate",1,1
+"22",249,"radio","radio",0,0
+"22",250,"reloj","watch (object)",0,0
+"22",253,"taza","cup",0,0
+"22",254,"teléfono","telephone",1,0
+"22",255,"tenedor","fork",0,0
+"22",256,"tijeras","scissors",0,0
+"22",257,"toalla","towel",0,0
+"22",258,"trapo","cloth",0,0
+"22",259,"vasos","glass",1,0
+"22",260,"vela","candle",0,0
+"22",262,"árbol","tree",0,0
+"22",264,"cielo","sky",0,0
+"22",266,"columpio","swing (object)",0,0
+"22",267,"estrella","star",0,0
+"22",268,"flor","flower",0,0
+"22",272,"lluvia","rain",0,0
+"22",273,"luna","moon",0,1
+"22",278,"nube","cloud",0,0
+"22",282,"piedra","rock (object)",0,0
+"22",283,"planta","plant",0,0
+"22",285,"resbaladilla","slide (object)",0,0
+"22",286,"sol","sun",0,0
+"22",288,"techo","roof",0,0
+"22",292,"bacinica","potty",0,0
+"22",295,"cajón","drawer",0,0
+"22",299,"cocina","kitchen",0,0
+"22",301,"cuarto","room",0,0
+"22",302,"cuna","crib",0,1
+"22",303,"escaleras","stairs",0,0
+"22",304,"estufa","stove",0,0
+"22",312,"puerta","door",0,0
+"22",314,"refrigerador","refrigerator",0,0
+"22",315,"regadera/ducha","shower",0,0
+"22",317,"sala","living room",0,0
+"22",322,"televisión","tv",1,0
+"22",323,"tina","bathtub",0,0
+"22",324,"ventana","window",0,0
+"23",16,"tortuga","turtle",0,0
+"23",18,"ratón","mouse",0,0
+"23",19,"rana","frog",0,0
+"23",20,"puerco","pig",0,0
+"23",23,"pescado","fish (animal)",0,0
+"23",29,"mosca","fly (animal)",0,0
+"23",30,"mono","monkey",0,2
+"23",31,"mariposa","butterfly",0,0
+"23",32,"lobo","wolf",0,1
+"23",33,"león","lion",0,0
+"23",34,"jirafa","giraffe",0,0
+"23",35,"hormiga","ant",0,0
+"23",40,"gallina","hen",0,0
+"23",42,"elefante","elephant",0,0
+"23",43,"conejo","bunny",0,0
+"23",47,"burro","donkey",0,0
+"23",50,"borrego","lamb",0,0
+"23",53,"araña","spider",0,0
+"23",54,"animal","animal",0,0
+"23",55,"abeja","bee",0,0
+"23",58,"tren","train",0,0
+"23",60,"moto","motorcycle",1,1
+"23",61,"helicóptero","helicopter",0,0
+"23",64,"camión/troca","truck",0,0
+"23",66,"bicicleta","bicycle",0,0
+"23",67,"barco","boat",0,0
+"23",71,"arroz","rice",1,0
+"23",72,"atole","atole",0,0
+"23",75,"café","coffee",0,0
+"23",83,"comida","food",1,0
+"23",90,"frijoles","beans",1,0
+"23",94,"helado/nieve","ice cream",0,0
+"23",98,"jamón","ham",1,1
+"23",105,"manzana","apple",1,0
+"23",108,"naranja","orange (food)",1,0
+"23",116,"pastel","cake",1,0
+"23",121,"quesadilla","quesadilla",0,0
+"23",122,"queso","cheese",0,0
+"23",124,"salchicha","hot dog",0,0
+"23",133,"uvas","grapes",0,0
+"23",138,"botón","button",0,0
+"23",141,"calzón","underpants",1,0
+"23",146,"falda","skirt",0,0
+"23",149,"lentes","glasses",0,0
+"23",152,"pantalón","pants",1,0
+"23",153,"pijama","pajamas",0,0
+"23",154,"playera","t-shirt",0,0
+"23",156,"shorts","shorts",0,0
+"23",157,"sombrero","hat",0,0
+"23",158,"suéter","sweater",0,0
+"23",159,"vestido","dress (object)",0,0
+"23",162,"bigote","moustache",0,0
+"23",164,"brazo","arm",0,0
+"23",166,"cachete","cheek",0,0
+"23",167,"cara","face",1,2
+"23",174,"lengua","tongue",1,0
+"23",179,"ombligo","belly button",0,0
+"23",180,"oreja","ear",1,0
+"23",183,"pene","penis",0,1
+"23",184,"piernas","leg",0,0
+"23",186,"rodilla","knee",0,0
+"23",194,"juguete","toy (object)",1,0
+"23",195,"lápiz","pen/pencil",1,0
+"23",196,"libro","book",0,0
+"23",197,"muñeca","doll",1,0
+"23",198,"osito","teddybear",1,0
+"23",204,"tambor","drum",0,0
+"23",206,"botas","boots",0,0
+"23",207,"bolsa (clothing)","purse",0,0
+"23",208,"babero","bib",0,0
+"23",209,"aretes","earrings",0,0
+"23",211,"almohada","pillow",0,0
+"23",216,"caja","box",0,2
+"23",220,"cepillo de dientes","toothbrush",0,0
+"23",223,"chupón/chupete","pacifier",0,0
+"23",224,"cigarros","cigarette",0,0
+"23",226,"cobija","blanket",0,0
+"23",230,"cuchillo","knife",0,0
+"23",231,"dinero","money",1,0
+"23",232,"escoba","broom",0,0
+"23",233,"espejo","mirror",0,0
+"23",234,"fotos","photos",1,0
+"23",237,"llave","keys",1,0
+"23",240,"medicina","medicine",0,0
+"23",249,"radio","radio",0,0
+"23",250,"reloj","watch (object)",0,0
+"23",253,"taza","cup",0,0
+"23",255,"tenedor","fork",0,0
+"23",256,"tijeras","scissors",0,0
+"23",257,"toalla","towel",0,0
+"23",258,"trapo","cloth",0,0
+"23",260,"vela","candle",0,0
+"23",262,"árbol","tree",0,0
+"23",264,"cielo","sky",0,0
+"23",266,"columpio","swing (object)",0,0
+"23",267,"estrella","star",0,0
+"23",268,"flor","flower",0,0
+"23",272,"lluvia","rain",0,0
+"23",273,"luna","moon",1,1
+"23",278,"nube","cloud",0,0
+"23",282,"piedra","rock (object)",0,0
+"23",283,"planta","plant",0,0
+"23",285,"resbaladilla","slide (object)",0,0
+"23",286,"sol","sun",1,0
+"23",288,"techo","roof",0,0
+"23",292,"bacinica","potty",0,0
+"23",295,"cajón","drawer",0,0
+"23",299,"cocina","kitchen",0,0
+"23",301,"cuarto","room",0,0
+"23",302,"cuna","crib",1,1
+"23",303,"escaleras","stairs",0,0
+"23",304,"estufa","stove",0,0
+"23",312,"puerta","door",1,0
+"23",314,"refrigerador","refrigerator",0,0
+"23",315,"regadera/ducha","shower",0,0
+"23",317,"sala","living room",0,0
+"23",323,"tina","bathtub",0,0
+"23",324,"ventana","window",0,0
+"24",16,"tortuga","turtle",0,0
+"24",18,"ratón","mouse",0,0
+"24",19,"rana","frog",0,0
+"24",20,"puerco","pig",0,0
+"24",23,"pescado","fish (animal)",0,0
+"24",29,"mosca","fly (animal)",1,0
+"24",30,"mono","monkey",0,2
+"24",31,"mariposa","butterfly",0,0
+"24",32,"lobo","wolf",0,1
+"24",33,"león","lion",0,0
+"24",34,"jirafa","giraffe",0,0
+"24",35,"hormiga","ant",0,0
+"24",40,"gallina","hen",0,0
+"24",42,"elefante","elephant",0,0
+"24",43,"conejo","bunny",0,0
+"24",47,"burro","donkey",1,0
+"24",50,"borrego","lamb",0,0
+"24",53,"araña","spider",1,0
+"24",54,"animal","animal",0,0
+"24",55,"abeja","bee",0,0
+"24",58,"tren","train",1,0
+"24",61,"helicóptero","helicopter",0,0
+"24",64,"camión/troca","truck",0,0
+"24",66,"bicicleta","bicycle",0,0
+"24",67,"barco","boat",0,0
+"24",72,"atole","atole",0,0
+"24",75,"café","coffee",0,0
+"24",94,"helado/nieve","ice cream",0,0
+"24",121,"quesadilla","quesadilla",0,0
+"24",122,"queso","cheese",1,0
+"24",124,"salchicha","hot dog",1,0
+"24",133,"uvas","grapes",1,0
+"24",138,"botón","button",0,0
+"24",146,"falda","skirt",0,0
+"24",149,"lentes","glasses",0,0
+"24",153,"pijama","pajamas",0,0
+"24",154,"playera","t-shirt",0,0
+"24",156,"shorts","shorts",0,0
+"24",157,"sombrero","hat",0,0
+"24",158,"suéter","sweater",1,0
+"24",159,"vestido","dress (object)",0,0
+"24",162,"bigote","moustache",0,0
+"24",164,"brazo","arm",0,0
+"24",166,"cachete","cheek",0,0
+"24",179,"ombligo","belly button",0,0
+"24",183,"pene","penis",0,1
+"24",184,"piernas","leg",0,0
+"24",186,"rodilla","knee",0,0
+"24",196,"libro","book",0,0
+"24",204,"tambor","drum",0,0
+"24",206,"botas","boots",0,0
+"24",207,"bolsa (clothing)","purse",1,0
+"24",208,"babero","bib",0,0
+"24",209,"aretes","earrings",0,0
+"24",211,"almohada","pillow",0,0
+"24",216,"caja","box",0,2
+"24",220,"cepillo de dientes","toothbrush",1,0
+"24",223,"chupón/chupete","pacifier",0,0
+"24",224,"cigarros","cigarette",0,0
+"24",226,"cobija","blanket",0,0
+"24",230,"cuchillo","knife",0,0
+"24",232,"escoba","broom",0,0
+"24",233,"espejo","mirror",0,0
+"24",240,"medicina","medicine",1,0
+"24",249,"radio","radio",0,0
+"24",250,"reloj","watch (object)",0,0
+"24",253,"taza","cup",0,0
+"24",255,"tenedor","fork",0,0
+"24",256,"tijeras","scissors",0,0
+"24",257,"toalla","towel",0,0
+"24",258,"trapo","cloth",0,0
+"24",260,"vela","candle",0,0
+"24",262,"árbol","tree",1,0
+"24",264,"cielo","sky",0,0
+"24",266,"columpio","swing (object)",0,0
+"24",267,"estrella","star",0,0
+"24",268,"flor","flower",1,0
+"24",272,"lluvia","rain",0,0
+"24",278,"nube","cloud",0,0
+"24",282,"piedra","rock (object)",0,0
+"24",283,"planta","plant",0,0
+"24",285,"resbaladilla","slide (object)",0,0
+"24",288,"techo","roof",0,0
+"24",292,"bacinica","potty",0,0
+"24",295,"cajón","drawer",0,0
+"24",299,"cocina","kitchen",0,0
+"24",301,"cuarto","room",0,0
+"24",303,"escaleras","stairs",0,0
+"24",304,"estufa","stove",0,0
+"24",314,"refrigerador","refrigerator",0,0
+"24",315,"regadera/ducha","shower",0,0
+"24",317,"sala","living room",0,0
+"24",323,"tina","bathtub",0,0
+"24",324,"ventana","window",0,0
+"25",16,"tortuga","turtle",1,0
+"25",18,"ratón","mouse",1,0
+"25",19,"rana","frog",1,0
+"25",20,"puerco","pig",0,0
+"25",23,"pescado","fish (animal)",1,0
+"25",30,"mono","monkey",0,2
+"25",31,"mariposa","butterfly",0,0
+"25",32,"lobo","wolf",0,1
+"25",33,"león","lion",1,0
+"25",34,"jirafa","giraffe",0,0
+"25",35,"hormiga","ant",0,0
+"25",40,"gallina","hen",1,0
+"25",42,"elefante","elephant",1,0
+"25",43,"conejo","bunny",1,0
+"25",50,"borrego","lamb",0,0
+"25",54,"animal","animal",0,0
+"25",55,"abeja","bee",0,0
+"25",61,"helicóptero","helicopter",0,0
+"25",64,"camión/troca","truck",1,0
+"25",66,"bicicleta","bicycle",1,0
+"25",67,"barco","boat",0,0
+"25",72,"atole","atole",0,0
+"25",75,"café","coffee",1,0
+"25",94,"helado/nieve","ice cream",1,0
+"25",121,"quesadilla","quesadilla",0,0
+"25",138,"botón","button",1,0
+"25",146,"falda","skirt",0,0
+"25",149,"lentes","glasses",1,0
+"25",153,"pijama","pajamas",0,0
+"25",154,"playera","t-shirt",0,0
+"25",156,"shorts","shorts",0,0
+"25",157,"sombrero","hat",0,0
+"25",159,"vestido","dress (object)",0,0
+"25",162,"bigote","moustache",0,0
+"25",164,"brazo","arm",1,0
+"25",166,"cachete","cheek",1,0
+"25",179,"ombligo","belly button",0,0
+"25",183,"pene","penis",0,1
+"25",184,"piernas","leg",1,0
+"25",186,"rodilla","knee",0,0
+"25",196,"libro","book",1,0
+"25",204,"tambor","drum",0,0
+"25",206,"botas","boots",1,0
+"25",208,"babero","bib",0,0
+"25",209,"aretes","earrings",1,0
+"25",211,"almohada","pillow",1,0
+"25",216,"caja","box",1,2
+"25",223,"chupón/chupete","pacifier",1,0
+"25",224,"cigarros","cigarette",0,0
+"25",226,"cobija","blanket",1,0
+"25",230,"cuchillo","knife",1,0
+"25",232,"escoba","broom",1,0
+"25",233,"espejo","mirror",0,0
+"25",249,"radio","radio",0,0
+"25",250,"reloj","watch (object)",1,0
+"25",253,"taza","cup",1,0
+"25",255,"tenedor","fork",0,0
+"25",256,"tijeras","scissors",0,0
+"25",257,"toalla","towel",1,0
+"25",258,"trapo","cloth",0,0
+"25",260,"vela","candle",0,0
+"25",264,"cielo","sky",1,0
+"25",266,"columpio","swing (object)",0,0
+"25",267,"estrella","star",1,0
+"25",272,"lluvia","rain",1,0
+"25",278,"nube","cloud",0,0
+"25",282,"piedra","rock (object)",1,0
+"25",283,"planta","plant",0,0
+"25",285,"resbaladilla","slide (object)",0,0
+"25",288,"techo","roof",0,0
+"25",292,"bacinica","potty",0,0
+"25",295,"cajón","drawer",0,0
+"25",299,"cocina","kitchen",1,0
+"25",301,"cuarto","room",1,0
+"25",303,"escaleras","stairs",1,0
+"25",304,"estufa","stove",0,0
+"25",314,"refrigerador","refrigerator",0,0
+"25",315,"regadera/ducha","shower",0,0
+"25",317,"sala","living room",0,0
+"25",323,"tina","bathtub",0,0
+"25",324,"ventana","window",1,0
+"26",20,"puerco","pig",0,0
+"26",30,"mono","monkey",1,2
+"26",31,"mariposa","butterfly",0,0
+"26",32,"lobo","wolf",0,1
+"26",34,"jirafa","giraffe",0,0
+"26",35,"hormiga","ant",1,0
+"26",50,"borrego","lamb",0,0
+"26",54,"animal","animal",1,0
+"26",55,"abeja","bee",0,0
+"26",61,"helicóptero","helicopter",0,0
+"26",67,"barco","boat",0,0
+"26",72,"atole","atole",0,0
+"26",121,"quesadilla","quesadilla",0,0
+"26",146,"falda","skirt",0,0
+"26",153,"pijama","pajamas",1,0
+"26",154,"playera","t-shirt",0,0
+"26",156,"shorts","shorts",0,0
+"26",157,"sombrero","hat",0,0
+"26",159,"vestido","dress (object)",1,0
+"26",162,"bigote","moustache",0,0
+"26",179,"ombligo","belly button",1,0
+"26",183,"pene","penis",1,1
+"26",186,"rodilla","knee",1,0
+"26",204,"tambor","drum",0,0
+"26",208,"babero","bib",1,0
+"26",224,"cigarros","cigarette",0,0
+"26",233,"espejo","mirror",1,0
+"26",249,"radio","radio",1,0
+"26",255,"tenedor","fork",1,0
+"26",256,"tijeras","scissors",0,0
+"26",258,"trapo","cloth",0,0
+"26",260,"vela","candle",0,0
+"26",266,"columpio","swing (object)",1,0
+"26",278,"nube","cloud",1,0
+"26",283,"planta","plant",0,0
+"26",285,"resbaladilla","slide (object)",0,0
+"26",288,"techo","roof",0,0
+"26",292,"bacinica","potty",1,0
+"26",295,"cajón","drawer",1,0
+"26",304,"estufa","stove",0,0
+"26",314,"refrigerador","refrigerator",0,0
+"26",315,"regadera/ducha","shower",0,0
+"26",317,"sala","living room",0,0
+"26",323,"tina","bathtub",1,0
+"27",20,"puerco","pig",1,0
+"27",31,"mariposa","butterfly",0,0
+"27",32,"lobo","wolf",0,1
+"27",34,"jirafa","giraffe",0,0
+"27",50,"borrego","lamb",1,0
+"27",55,"abeja","bee",0,0
+"27",61,"helicóptero","helicopter",0,0
+"27",67,"barco","boat",1,0
+"27",72,"atole","atole",0,0
+"27",121,"quesadilla","quesadilla",0,0
+"27",146,"falda","skirt",0,0
+"27",154,"playera","t-shirt",0,0
+"27",156,"shorts","shorts",0,0
+"27",157,"sombrero","hat",1,0
+"27",162,"bigote","moustache",0,0
+"27",204,"tambor","drum",0,0
+"27",224,"cigarros","cigarette",0,0
+"27",256,"tijeras","scissors",1,0
+"27",258,"trapo","cloth",1,0
+"27",260,"vela","candle",0,0
+"27",283,"planta","plant",1,0
+"27",285,"resbaladilla","slide (object)",0,0
+"27",288,"techo","roof",0,0
+"27",304,"estufa","stove",1,0
+"27",314,"refrigerador","refrigerator",1,0
+"27",315,"regadera/ducha","shower",0,0
+"27",317,"sala","living room",1,0
+"28",31,"mariposa","butterfly",1,0
+"28",32,"lobo","wolf",0,1
+"28",34,"jirafa","giraffe",0,0
+"28",55,"abeja","bee",0,0
+"28",61,"helicóptero","helicopter",0,0
+"28",72,"atole","atole",0,0
+"28",121,"quesadilla","quesadilla",1,0
+"28",146,"falda","skirt",1,0
+"28",154,"playera","t-shirt",0,0
+"28",156,"shorts","shorts",0,0
+"28",162,"bigote","moustache",0,0
+"28",204,"tambor","drum",0,0
+"28",224,"cigarros","cigarette",0,0
+"28",260,"vela","candle",0,0
+"28",285,"resbaladilla","slide (object)",0,0
+"28",288,"techo","roof",0,0
+"28",315,"regadera/ducha","shower",1,0
+"29",32,"lobo","wolf",0,1
+"29",34,"jirafa","giraffe",0,0
+"29",55,"abeja","bee",0,0
+"29",61,"helicóptero","helicopter",0,0
+"29",72,"atole","atole",0,0
+"29",154,"playera","t-shirt",0,0
+"29",156,"shorts","shorts",1,0
+"29",162,"bigote","moustache",0,0
+"29",204,"tambor","drum",0,0
+"29",224,"cigarros","cigarette",0,0
+"29",260,"vela","candle",0,0
+"29",285,"resbaladilla","slide (object)",1,0
+"29",288,"techo","roof",0,0
+"30",32,"lobo","wolf",1,1
+"30",34,"jirafa","giraffe",1,0
+"30",55,"abeja","bee",1,0
+"30",61,"helicóptero","helicopter",1,0
+"30",72,"atole","atole",1,0
+"30",154,"playera","t-shirt",1,0
+"30",162,"bigote","moustache",1,0
+"30",204,"tambor","drum",1,0
+"30",224,"cigarros","cigarette",1,0
+"30",260,"vela","candle",1,0
+"30",288,"techo","roof",1,0

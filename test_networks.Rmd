@@ -1,86 +1,199 @@
 ```{r}
 source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
 import_all_library()
+
+```
+
+```{r, message=FALSE, warning=FALSE}
+final_df<<- read.csv("English (American)_PAC_freq_np.csv", as.is = T)
+get_confint(language = "English", type = "PAC_freq_np", r = 10)
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+test_network(languages = c("English (American)"), 
+             features = c("McRae_PAC_np", "McRae_PAC_p",
+                           "assoc_PAC_np", "assoc_PAC_p","phono_PAC_t2"), 
+             r = 10)
+
+```
+
+```{r, message=FALSE, warning=FALSE}
+final_df<- read.csv("English (American)_PAC_freq_np.csv", as.is = T)
+  analysis_df<- data.frame(matrix(ncol = 7, nrow = 500))
+  colnames(analysis_df)<-c("language", "type", "CI lower", "Optim Par", "CI upper", "Full Model nLLK","Random Model nLLK")
+  get_confint(language = "English", type = "PAC_p", r=10)
+  analysis_df[1,]<- get_confint(language = "English", type = "PAC_p", r=10)
+  analysis_df
+```
+
+
+
+
+
+```{r, message=FALSE, warning=FALSE}
+create_network_nopoly(languages = c("English (American)"), 
+                        features = c("assoc_PAC", "McRae_PAC"))
+
+create_network_haspoly(languages = c("English (American)"), 
+                      features = c("assoc_PAC", "McRae_PAC"))
 ```
 
 ```{r}
-test_network<- function(languages, features){
-  all_tests<-expand.grid(languages = languages, 
-  			features = features) %>%
-  	split(list(.$languages, .$features)) 
+thresholds<<- c(1,2,3)
+lang_name<<- language
+# age of acquisition data frame
+aoa_frame<- make_aoa_dataframe(lang = lang_name)
+# list of lemmas of learnt words
+first_month<- aoa_frame$month[1]
+def_list<- aoa_frame %>%
+  trim_all_definition() %>% 
+  filter(month==first_month) %>%
+  select(item, definition)
+def_list
+IPA_pairs<<- make_IPA_pairs(def_list = def_list, lang = lang_name)
+IPA_pairs
+```
+
+```{r}
+vocab_month<-aoa_frame
+word_pairs<- IPA_pairs %>% IPA_threshold(threshold = 1)
+for (threshold in thresholds){
+  vocab_month<- vocab_month %>% filter((item %in% word_pairs$item) | (item %in% word_pairs$pair) )
+  word_pairs<- word_pairs %>% filter(item %in% vocab_month$item, pair %in% vocab_month$item)
   
-  for (test in all_tests){
-    file_path<-paste(getwd(),"/out_files/",test$languages,"_",test$features,".csv",sep = "")
-    if (file.exists(file_path)){
-      data<<- read.csv(file_path, as.is = T)
-      print(optim(0, loglike1))
-      print(optim(0, loglike0))
-    }
-  }
-
+  item_value<- word_pairs %>% 
+    group_by(item) %>%
+    summarise(value=sum(link))
+  
+  PAC<-vocab_month %>%
+    mutate(value=0) %>%
+    rowwise() %>%
+    mutate(value=ifelse((item %in% item_value$item), item_value$value[which(item_value$item ==item)], 0)) %>%
+    ungroup()
 }
-```
-
-```{r, message=FALSE, warning=FALSE}
-test_network(languages = c("English"), features = c("assoc_PAC120_p"))
 
 ```
 
-```{r, message=FALSE, warning=FALSE}
-create_network_haspoly<- function(languages, features){
-  suffix<<- "_p"
-  for (language in languages){
-    
-    lang_name<<- language
-    # age of acquisition data frame
-    aoa_frame<- make_aoa_dataframe(lang = lang_name) %>% 
-      trim_all_definition() %>% 
-      trim_all_unilemma()
-    # list of lemmas of learnt words
-    lemma_list<- aoa_frame %>%
-      filter(month==month[1]) %>%
-      select(item, uni_lemma)
-    # list of definitions of learnt words
-    def_list<- aoa_frame %>%
-      filter(month==month[1]) %>%
-      select(item, definition)
-    
-    if ("assoc_PAC" %in% features){
-      # make pairs of words and show whether they have connection via associative norms
-      assoc_pairs<<- make_assoc_pairs(lemma_list = lemma_list)
-      create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
-    }
-    if ("assoc_PAT" %in% features){
-      create_assoc_PAT(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
-    }
-    if ("McRae_PAC" %in% features){
-      # make pairs of words and show how many McRae features they share
-      McRae_pairs<<- make_McRae_pairs(words_list = lemma_list) %>%
-        McRae_threshold(threshold = 1)
-      
-      create_McRae_PAC(aoa_frame = aoa_frame, McRae_pairs = McRae_pairs)
-    }
-     if ("McRae_PAT" %in% features){
-       create_McRae_PAT(aoa_frame = aoa_frame, McRae_pairs = McRae_pairs)
-     }
-    if ("phono_PAC" %in% features){
 
-      create_McRae_PAC()
-    }
-    if ("phono_PAT" %in% features){
-      create_phono_PAT()
-    }
+
+
+
+
+
+```{r, message=FALSE, warning=FALSE}
+thresholds<<- c(1,2)
+create_network_haspoly(languages = c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish"), 
+                      features = c("phono_PAC","McRae_PAC", "assoc_PAC"),
+                      thresholds = thresholds)
+
+create_network_nopoly(languages = c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish"),
+                      features = c("McRae_PAC", "assoc_PAC"),
+                      thresholds = thresholds)
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+test_network(languages = c("English (American)"), 
+                      features = c("assoc_PAC_np","assoc_PAC_p"))
+#"assoc_PAC_np", "assoc_PAC_p", "phono_PAC_t2"
+```
+
+```{r}
+langs<- c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish")
+types<- c("phono_PAC_t1","phono_PAC_t2",
+          "McRae_PAC_t1_p", "McRae_PAC_t2_p",
+          "McRae_PAC_t1_np", "McRae_PAC_t2_np",
+          "assoc_PAC_p", "assoc_PAC_np")
+cor_df<- data.frame(matrix(ncol = 7, nrow = 500))
+colnames(cor_df)<- c("language", "type","degree", "degree_sig","degree_ctrl", "degree_sig_control","lrtest")
+i=1
+for (lang in langs){
+  for (type in types){
+    cor_df[i,]<-significance_testing(lang= lang, 
+                         type= type)
+      i=i+1
   }
 }
+
+write.csv(cor_df, file = "all_analysis.csv", row.names = F)
 ```
 
-```{r, message=FALSE, warning=FALSE}
-create_network_haspoly(languages = c("Danish"), features = c("assoc_PAC", "assoc_PAT"))
+
+```{r}
+cor_df %>% filter(type=="assoc_PAC_np")
 ```
 ```{r}
-assoc_pairs<- make_assoc_pairs(lemma_list = lemma_list)
-assoc_pairs
-lang_name<<- "English (American)"
-create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs) 
+aoa_frame<- make_aoa_dataframe("English (American)")
+list<- aoa_frame %>% filter(age==16)
+distinctive<- make_McRae_pairs(words_list = list)
+distinctive %>%
+  group_by(item) %>%
+  summarise(n=sum(sem_value))
+
+```
+
+
+```{r}
+word_pairs <- distinctive %>% rename(link=sem_value)
+#McRae_PAC<- PAC_generator(vocab_age = aoa_frame, word_pairs = word_pairs)
+McRae_PAT<- PAT_generator(vocab_age = aoa_frame, word_pairs = word_pairs)
+#write.csv(McRae_PAC, file = "English (American)_McRaeD_PAC.csv", row.names = F)
+write.csv(McRae_PAT, file = "English (American)_McRaeD_PAT.csv", row.names = F)
+```
+```{r}
+aoa_frame<- make_aoa_dataframe("English (American)")
+list<- aoa_frame %>% filter(age==16) %>% select(item, uni_lemma)
+word_pairs<- make_McRae_distinct_pairs(words_list = list) %>% 
+  rename(link=sem_value)
+word_pairs
+```
+```{r}
+vocab_age<- aoa_frame
+
+  vocab_age<-vocab_age %>%
+    filter(item %in% word_pairs$item) %>%
+    mutate(value=NA) %>%
+    arrange(age, item)
+  ages<- (vocab_age %>%
+            group_by(age) %>%
+            summarise(n=n()))$age
+  ages<- ages[2:length(ages)]
+  for (i in ages){
+    #current items in this age
+    curr_items<- (vocab_age %>%
+                    filter(age==i) %>%
+                    select(item))$item
+    #item learnt in previous ages
+    exist_words<-(vocab_age %>%
+                    filter(age<i,learned==1) %>%
+                    select(item))$item
+    
+    row_n<-which(vocab_age$age==i & vocab_age$item==curr_items[1])
+    for (j in curr_items){
+      word_value<- word_pairs %>% filter(pair == j, item %in% exist_words) %>% 
+        group_by(pair) %>% 
+        summarise(n=sum(link))
+      
+      vocab_age$value[row_n]<- word_value$n[which(word_value$pair==j)]
+      row_n<-row_n+1
+    }
+  }
+  #filter first age since there are no PAT value
+  vocab_age<-vocab_age %>% filter(age!=(ages[1]-1))
+```
+
+
+
+
+```{r}
+vocab_age
+```
+
+
+
+```{r}
+mcraepairs<- make_McRae_pairs(words_list = list) %>% McRae_threshold(threshold = 1)
+PAT_generator(vocab_age = aoa_frame, word_pairs = mcraepairs)
 ```
 
