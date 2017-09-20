@@ -1,0 +1,17 @@
+```{r}
+source(paste(getwd(),"/helper_functions/all_helper.r",sep = ""), chdir = T)
+import_all_library()
+
+```
+
+```{r, message=FALSE, warning=FALSE}
+thresholds<<- c(1,2)
+create_network_haspoly(languages = c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish"), 
+                      features = c("phono_PAC","McRae_PAC", "assoc_PAC"),
+                      thresholds = thresholds)
+
+create_network_nopoly(languages = c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish"),
+                      features = c("McRae_PAC", "assoc_PAC"),
+                      thresholds = thresholds)
+```
+
