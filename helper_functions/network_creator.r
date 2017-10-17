@@ -17,18 +17,20 @@ create_network_haspoly<- function(languages, features, thresholds){
       filter(age==first_age) %>%
       filter(item %in% lemma_list$item) %>%
       select(item, definition)
-    
+    if ("assoc_PAC" %in% features || "assoc_PAT" %in% features)
+      assoc_pairs<- make_assoc_pairs(lemma_list = lemma_list)
     if ("assoc_PAC" %in% features){
       # make pairs of words and show whether they have connection via associative norms
-      assoc_pairs<<- make_assoc_pairs(lemma_list = lemma_list)
       create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
     }
     if ("assoc_PAT" %in% features){
       create_assoc_PAT(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
     }
+    
+    if ("McRae_PAC" %in% features || "McRae_PAT" %in% features)
+      McRae_pairs<- make_McRae_pairs(words_list = lemma_list) 
     if ("McRae_PAC" %in% features){
       # make pairs of words and show how many McRae features they share
-      McRae_pairs<<- make_McRae_pairs(words_list = lemma_list) 
       for (threshold in thresholds){
         create_McRae_PAC(aoa_frame = aoa_frame, 
                          McRae_pairs = McRae_pairs %>% McRae_threshold(threshold = 1),
@@ -42,8 +44,10 @@ create_network_haspoly<- function(languages, features, thresholds){
                          threshold = threshold)
       }
     }
+    
+    if ("phono_PAC" %in% features || "phono_PAT" %in% features)
+      IPA_pairs<- make_IPA_pairs(def_list = def_list, lang = lang_name)
     if ("phono_PAC" %in% features){
-      IPA_pairs<<- make_IPA_pairs(def_list = def_list, lang = lang_name)
       for (threshold in thresholds){
         create_phono_PAC(aoa_frame = aoa_frame, 
                          phono_pairs = IPA_pairs %>% IPA_threshold(threshold = threshold),
@@ -74,17 +78,20 @@ create_network_nopoly<- function(languages, features, thresholds){
       filter(age==first_age) %>%
       select(item, uni_lemma)
     
+    if ("assoc_PAC" %in% features || "assoc_PAT" %in% features)
+      assoc_pairs<- make_assoc_pairs(lemma_list = lemma_list)
     if ("assoc_PAC" %in% features){
       # make pairs of words and show whether they have connection via associative norms
-      assoc_pairs<<- make_assoc_pairs(lemma_list = lemma_list)
       create_assoc_PAC(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
     }
     if ("assoc_PAT" %in% features){
       create_assoc_PAT(aoa_frame = aoa_frame, assoc_pairs = assoc_pairs)
     }
+    
+    if ("McRae_PAC" %in% features || "McRae_PAT" %in% features)
+      McRae_pairs<- make_McRae_pairs(words_list = lemma_list) 
     if ("McRae_PAC" %in% features){
       # make pairs of words and show how many McRae features they share
-      McRae_pairs<<- make_McRae_pairs(words_list = lemma_list) 
       for (threshold in thresholds){
         create_McRae_PAC(aoa_frame = aoa_frame, 
                          McRae_pairs = McRae_pairs %>% McRae_threshold(threshold = 1),
