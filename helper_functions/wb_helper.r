@@ -188,34 +188,19 @@ write_out_csv<- function(var, lang, type){
   write.csv(var, paste(getwd(),"/out_files/",lang, "_",type,".csv",sep = ""), row.names = F)
 }
 
-######################################################################################################
-# add 1 value to polysemy
-add_polysemy_value<- function(list){
-  list<- list %>%
-    mutate(value=if_else(definition %in% c("chicken","fish","water"),value+1,value))
-  return(list)
-}
-
-
-
-
-
-# # This file contains functions used to get item data, admin data, etc. , and generate dataframes for analysis
-# import_all_library<- function(){
-# library(tidyr)
-# library(purrr)
-# library(readr)
-# library(ggplot2)
-# library(langcog)
-# library(boot)
-# library(lazyeval)
-# library(dplyr)
-# library(wordbankr)
-# library(directlabels)
-# library(scales)
-# library(stringr)
-# library(lmtest)
+# ######################################################################################################
+# # add 1 value to polysemy
+# add_polysemy_value<- function(list){
+#   list<- list %>%
+#     mutate(value=if_else(definition %in% c("chicken","fish","water"),value+1,value))
+#   return(list)
 # }
+
+
+
+
+
+
 # ######################################################################################################################
 # get_lang_item_data <- function(lang, lang_form = "WS", lex_class = "nouns") {
 #   #Every English item
