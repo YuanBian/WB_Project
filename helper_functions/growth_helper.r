@@ -8,10 +8,10 @@ PAT_generator<-function(vocab_age, word_pairs){
     filter(item %in% word_pairs$item) %>%
     mutate(value=NA) %>%
     arrange(age, item)
-  ages<- (vocab_age %>%
+  all_ages<- (vocab_age %>%
     group_by(age) %>%
     summarise(n=n()))$age
-  ages<- ages[2:length(ages)]
+  ages<- all_ages[2:length(all_ages)]
   for (i in ages){
     #current items in this age
     curr_items<- (vocab_age %>%
@@ -38,7 +38,7 @@ PAT_generator<-function(vocab_age, word_pairs){
     }
   }
   #filter first age since there are no PAT value
-  vocab_age<-vocab_age %>% filter(age!=(ages[1]-1))
+  vocab_age<-vocab_age %>% filter(age!=(all_ages[1]))
   return(vocab_age)
 }
 
