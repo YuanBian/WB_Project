@@ -51,13 +51,17 @@ significance_testing<- function(lang, type){
     degree_sig<- significance_level(summary(a_d)$coefficients[2,4])
     degree_sig_control<- significance_level(summary(a_dlf)$coefficients[4,4])
     lrtest_sig<- significance_level(lrtest(a_fl, a_dlf)[2,5])
+    rsquare_dl<- summary(a_fl)$r.squared
+    rsquare_diff<- summary(a_dlf)$r.squared-summary(a_fl)$r.squared
     return(c(lang,
              type,
              degree_coef,
              degree_sig,
              degree_coef_control,
              degree_sig_control,
-             lrtest_sig))
+             lrtest_sig,
+             rsquare_dl,
+             rsquare_diff))
   }
 }
 
