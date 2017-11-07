@@ -14,7 +14,6 @@ create_combo <- function(languages){
     def_list<- aoa_frame %>%
       trim_all_definition() %>% 
       filter(age==first_age) %>%
-      filter(item %in% lemma_list$item) %>%
       select(item, definition)
     
     # make pairs of words and show whether they have connection via associative norms
@@ -78,7 +77,7 @@ create_network_haspoly<- function(languages, features, thresholds){
     def_list<- aoa_frame %>%
       trim_all_definition() %>% 
       filter(age==first_age) %>%
-      filter(item %in% lemma_list$item) %>%
+      filter(item %in% lemma_list$item) %>% # I MIGHT NOT NEED TO DO THIS
       select(item, definition)
     if ("assoc_PAC" %in% features || "assoc_PAT" %in% features)
       assoc_pairs<- make_assoc_pairs(lemma_list = lemma_list)
