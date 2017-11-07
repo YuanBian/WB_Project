@@ -37,17 +37,19 @@ create_combo <- function(languages){
     phono_PAT_nt<- PAT_nt_generator(vocab_age = aoa_frame, word_pairs = phono_pairs %>% rename(link = dist)) %>% 
       rename(PAT_phono_nt = value) %>% select(-definition, -uni_lemma)
     parent_freq<- read.csv(paste(getwd(),"/in_files/log_freq.csv",sep = ""), as.is = T) 
+    
     freq_len_df <- aoa_frame %>%
       trim_all_definition() %>%
-      trim_all_unilemma() %>%
+      mutate(uni_lemma=gsub(" \\s*\\([^\\)]+\\)","", uni_lemma)) %>%
+      mutate(uni_lemma=gsub("[*].*$","", uni_lemma)) %>%
       rowwise() %>%
       mutate(IPA=Speak(lang = language, word = definition)) %>%
       trim_IPA_completely() %>%
       mutate(length = str_count(IPA)) %>%
-      ungroup() %>% 
       filter(learned==1) %>% 
       left_join(parent_freq) %>% 
-      mutate(freq=ifelse(is.na(freq),0,freq)) %>% #if can't find the freq of word, set it to 0
+      mutate(freq=ifelse(is.na(freq) && !is.na(uni_lemma),0,freq)) %>% #if can't find the freq of word, set it to 0
+      ungroup() %>% 
       select(-definition, -uni_lemma, -age, -learned)
     
     combo <- aoa_frame %>% left_join(freq_len_df) %>% 

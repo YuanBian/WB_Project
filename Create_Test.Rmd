@@ -15,3 +15,8 @@ create_network_nopoly(languages = c("Croatian","Danish","English (American)", "I
                       thresholds = thresholds)
 ```
 
+
+```{r, message=FALSE, warning=FALSE}
+create_combo(languages = c("Croatian","Danish","English (American)", "Italian", "Norwegian", "Russian","Spanish","Turkish"))
+```
+
